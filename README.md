@@ -7,3 +7,4 @@ Code for Music && Code, block 3, Colorado College, 2025.
 Harris
 Addie
 Carolina
+Jorge
