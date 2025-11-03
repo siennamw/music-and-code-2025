@@ -398,6 +398,287 @@
                              </layer>
                           </staff>
                        </measure> <!--End of line 4 (end of pg1)-->
+                       <measure>
+                          <staff n="1"></staff>
+                          <staff n="2"></staff>
+                          <staff n="3"></staff>
+                          <staff n="4">
+                             <layer>
+                                <note pname="c" oct="5" dur="4"/> <!--ToDo finish bridge-->
+                                <rest dur="4"/>
+                                <note pname="e" oct="5" dur="4"/><!--TODO add bridge-->
+                                <note pname="f" oct="5" dur="4"/>
+                             </layer>
+                          </staff>
+                       </measure>
+                       <measure>
+                          <staff n="1"></staff>
+                          <staff n="2"></staff>
+                          <staff n="3"></staff>
+                          <staff n="4">
+                             <layer>
+                                <note pname="c" oct="5" dur="4"/>
+                                <rest dur="4"/>
+                                <rest dur="8"/>
+                                <note pname="c" oct="5" dur="8"/><!--TODO add bridge-->
+                             </layer>
+                          </staff>
+                       </measure>
+                       <measure>
+                          <staff n="1"></staff>
+                          <staff n="2"></staff>
+                          <staff n="3"></staff>
+                          <staff n="4">
+                             <layer>
+                                <note pname="d" oct="5" dur="4"/> <!--ToDo finish bridge-->
+                                <rest dur="4"/>
+                                <rest dur="8"/>
+                                <note pname="d" oct="5" dur="8"/><!--TODO add bridge-->
+                             </layer>
+                          </staff>
+                       </measure>
+                       <measure>
+                          <staff n="1"></staff>
+                          <staff n="2"></staff>
+                          <staff n="3"></staff>
+                          <staff n="4">
+                             <layer>
+                                <note pname="e" oct="5" dur="4"/> <!--ToDo finish bridge-->
+                                <rest dur="4"/>
+                                <rest dur="4"/>
+                             </layer>
+                          </staff>
+                       </measure>
+                       <measure>
+                          <staff n="1"></staff>
+                          <staff n="2"></staff>
+                          <staff n="3"></staff>
+                          <staff n="4">
+                             <layer>
+                                <rest dur="1"/>
+                             </layer>
+                          </staff>
+                       </measure>
+                       <measure>
+                          <staff n="1"></staff>
+                          <staff n="2"></staff>
+                          <staff n="3"></staff>
+                          <staff n="4">
+                             <layer>
+                                <rest dur="4"/>
+                                <note pname="c" oct="5" dur="4"/>
+                                <rest dur="4"/>
+                             </layer>
+                          </staff>
+                       </measure> <!--End of line 5-->
+                       <measure>
+                          <staff n="1"></staff>
+                          <staff n="2"></staff>
+                          <staff n="3"></staff>
+                          <staff n="4">
+                             <layer>
+                                <note pname="c" oct="5" dur="2" dots="1"/> <!--ToDo add bridge-->
+                             </layer>
+                          </staff>
+                       </measure>
+                       <measure>
+                          <staff n="1"></staff>
+                          <staff n="2"></staff>
+                          <staff n="3"></staff>
+                          <staff n="4">
+                             <layer>
+                                <note pname="c" oct="5" dur="2" dots="1"/> <!--ToDo add bridge-->
+                             </layer>
+                          </staff>
+                       </measure>
+                       <measure>
+                          <staff n="1"></staff>
+                          <staff n="2"></staff>
+                          <staff n="3"></staff>
+                          <staff n="4">
+                             <layer>
+                                <note pname="c" oct="5" dur="2" dots="1"/> <!--ToDo add bridge-->
+                             </layer>
+                          </staff>
+                       </measure>
+                       <measure>
+                          <staff n="1"></staff>
+                          <staff n="2"></staff>
+                          <staff n="3"></staff>
+                          <staff n="4">
+                             <layer>
+                                <note pname="c" oct="5" dur="2" dots="1"/> <!--ToDo add bridge-->
+                             </layer>
+                          </staff>
+                       </measure>
+                       <measure>
+                          <staff n="1"></staff>
+                          <staff n="2"></staff>
+                          <staff n="3"></staff>
+                          <staff n="4">
+                             <layer>
+                                <note pname="c" oct="5" dur="2" dots="1"/> <!--ToDo add bridge-->
+                             </layer>
+                          </staff>
+                       </measure> <!--End of line 6-->
+                       <measure>
+                          <staff n="1"></staff>
+                          <staff n="2"></staff>
+                          <staff n="3"></staff>
+                          <staff n="4">
+                             <layer>
+                                <note pname="c" oct="5" dur="2" dots="1"/> <!--ToDo finish/add bridge-->
+                             </layer>
+                          </staff>
+                       </measure>
+                       <measure>
+                          <staff n="1"></staff>
+                          <staff n="2"></staff>
+                          <staff n="3"></staff>
+                          <staff n="4">
+                             <layer>
+                                <note pname="c" oct="5" dur="2" dots="1"/> <!--ToDo add bridge-->
+                             </layer>
+                          </staff>
+                       </measure>
+                       <measure>
+                          <staff n="1"></staff>
+                          <staff n="2"></staff>
+                          <staff n="3"></staff>
+                          <staff n="4">
+                             <layer>
+                                <note pname="c" oct="5" dur="2" dots="1"/> <!--ToDo add bridge-->
+                             </layer>
+                          </staff>
+                       </measure>
+                       <measure>
+                          <staff n="1"></staff>
+                          <staff n="2"></staff>
+                          <staff n="3"></staff>
+                          <staff n="4">
+                             <layer>
+                                <note pname="c" oct="5" dur="4"/>
+                                <rest dur="4"/>
+                                <rest dur="4"/>
+                             </layer>
+                          </staff>
+                       </measure>
+                       <measure>
+                          <staff n="1"></staff>
+                          <staff n="2"></staff>
+                          <staff n="3"></staff>
+                          <staff n="4">
+                             <layer>
+                                <rest dur="1"/>
+                             </layer>
+                          </staff>
+                       </measure>
+                       <measure>
+                          <staff n="1"></staff>
+                          <staff n="2"></staff>
+                          <staff n="3"></staff>
+                          <staff n="4">
+                             <layer>
+                                <rest dur="1"/>
+                             </layer>
+                          </staff>
+                       </measure>
+                       <measure>
+                          <staff n="1"></staff>
+                          <staff n="2"></staff>
+                          <staff n="3"></staff>
+                          <staff n="4">
+                             <layer>
+                                <rest dur="1"/>
+                             </layer>
+                          </staff>
+                       </measure> <!--End of line 7-->
+                       <measure>
+                          <staff n="1"></staff>
+                          <staff n="2"></staff>
+                          <staff n="3"></staff>
+                          <staff n="4">
+                             <layer>
+                                <note pname="c" oct="5" dur="4"/> <!-- P symbol here-->
+                                <note pname="d" oct="5" dur="8"/> <!--TODO add flat-->
+                                <note pname="c" oct="5" dur="8"/>
+                                <note pname="d" oct="5" dur="4"/>
+                             </layer>
+                          </staff>
+                       </measure>
+                       <measure>
+                          <staff n="1"></staff>
+                          <staff n="2"></staff>
+                          <staff n="3"></staff>
+                          <staff n="4">
+                             <layer>
+                                <note pname="c" oct="5" dur="4"/>
+                                <note pname="d" oct="5" dur="8"/> <!--TODO add flat-->
+                                <note pname="c" oct="5" dur="8"/>
+                                <note pname="d" oct="5" dur="4"/>
+                             </layer>
+                          </staff>
+                       </measure>
+                       <measure>
+                          <staff n="1"></staff>
+                          <staff n="2"></staff>
+                          <staff n="3"></staff>
+                          <staff n="4">
+                             <layer>
+                                <note pname="c" oct="5" dur="2" dots="1"/> <!--ToDo add bridge-->
+                             </layer>
+                          </staff>
+                       </measure>
+                       <measure>
+                          <staff n="1"></staff>
+                          <staff n="2"></staff>
+                          <staff n="3"></staff>
+                          <staff n="4">
+                             <layer>
+                                <note pname="c" oct="5" dur="2" dots="1"/>
+                             </layer>
+                          </staff>
+                       </measure>
+                       <measure>
+                          <staff n="1"></staff>
+                          <staff n="2"></staff>
+                          <staff n="3"></staff>
+                          <staff n="4">
+                             <layer>
+                                <rest dur="1"/>
+                             </layer>
+                          </staff>
+                       </measure>
+                       <measure>
+                          <staff n="1"></staff>
+                          <staff n="2"></staff>
+                          <staff n="3"></staff>
+                          <staff n="4">
+                             <layer>
+                                <note pname="c" oct="4" dur="2" dots="1"/> <!--ToDo add bridge-->
+                             </layer>
+                          </staff>
+                       </measure>
+                       <measure>
+                          <staff n="1"></staff>
+                          <staff n="2"></staff>
+                          <staff n="3"></staff>
+                          <staff n="4">
+                             <layer>
+                                <note pname="c" oct="4" dur="2" dots="1"/> <!--ToDo add bridge-->
+                             </layer>
+                          </staff>
+                       </measure>
+                       <measure>
+                          <staff n="1"></staff>
+                          <staff n="2"></staff>
+                          <staff n="3"></staff>
+                          <staff n="4">
+                             <layer>
+                                <note pname="c" oct="4" dur="2" dots="1"/> <!--ToDo add bridge-->
+                             </layer>
+                          </staff>
+                       </measure> <!--End of line 8(end of pg2)-->
                     </section>
                 </score>
             </mdiv>
