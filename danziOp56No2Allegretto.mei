@@ -244,11 +244,38 @@
                           <staff n="3"></staff>
                           <staff n="4">
                              <layer>
-                                <note pname="c" oct="5" dur="8"/>
-                                <note pname="b" oct="4" dur="8"/>
-                                <note pname="c" oct="5" dur="8"/>
-                                <note pname="b" oct="4" dur="8"/>
-                                <note pname="c" oct="5" dur="8"/>
+                                <note pname="e" oct="5" dur="8"/>
+                                <note pname="f" oct="5" dur="8"/>
+                                <note pname="e" oct="5" dur="8"/>
+                                <note pname="f" oct="5" dur="8"/>
+                                <note pname="e" oct="5" dur="8"/>
+                                <note pname="f" oct="5" dur="8"/>
+                             </layer>
+                          </staff>
+                       </measure>
+                       <measure>
+                          <staff n="1"></staff>
+                          <staff n="2"></staff>
+                          <staff n="3"></staff>
+                          <staff n="4">
+                             <layer>
+                                <note pname="e" oct="5" dur="8"/>
+                                <rest dur="4"/>
+                                <rest dur="4"/>
+                             </layer>
+                          </staff>
+                       </measure>
+                       <measure>
+                          <staff n="1"></staff>
+                          <staff n="2"></staff>
+                          <staff n="3"></staff>
+                          <staff n="4">
+                             <layer>
+                                <note pname="a" oct="4" dur="8"/>
+                                <note pname="g" oct="4" dur="8"/> <!--TODO add sharp-->
+                                <note pname="a" oct="4" dur="8"/>
+                                <note pname="g" oct="4" dur="8"/>
+                                <note pname="a" oct="4" dur="8"/>
                                 <rest dur="8"/>
                              </layer>
                           </staff>
@@ -259,23 +286,12 @@
                           <staff n="3"></staff>
                           <staff n="4">
                              <layer>
-                                <note pname="d" oct="5" dur="8"/>
-                                <note pname="c" oct="5" dur="8"/><!--TODO add sharp-->
-                                <note pname="d" oct="5" dur="8"/>
-                                <note pname="c" oct="5" dur="8"/>
-                                <note pname="d" oct="5" dur="4"/> <!--TODO add bridge-->
-                             </layer>
-                          </staff>
-                       </measure>
-                       <measure>
-                          <staff n="1"></staff>
-                          <staff n="2"></staff>
-                          <staff n="3"></staff>
-                          <staff n="4">
-                             <layer>
-                                <note pname="d" oct="5" dur="4" dots="1"/>
+                                <note pname="b" oct="4" dur="8"/>
+                                <note pname="a" oct="4" dur="8"/>
+                                <note pname="b" oct="4" dur="8"/>
+                                <note pname="a" oct="4" dur="8"/>
+                                <note pname="b" oct="4" dur="8"/>
                                 <rest dur="8"/>
-                                <rest dur="4"/>
                              </layer>
                           </staff>
                        </measure>
@@ -285,7 +301,12 @@
                           <staff n="3"></staff>
                           <staff n="4">
                              <layer>
-                                <rest dur="1"/>
+                                <note pname="a" oct="4" dur="8"/>
+                                <note pname="g" oct="4" dur="8"/> <!--TODO add sharp-->
+                                <note pname="a" oct="4" dur="8"/>
+                                <note pname="g" oct="4" dur="8"/>
+                                <note pname="a" oct="4" dur="8"/>
+                                <rest dur="8"/>
                              </layer>
                           </staff>
                        </measure>
@@ -295,9 +316,12 @@
                           <staff n="3"></staff>
                           <staff n="4">
                              <layer>
-                                <rest dur="4"/>
-                                <note pname="d" oct="5" dur="4"/>
-                                <note pname="e" oct="5" dur="4"/>
+                                <note pname="b" oct="4" dur="8"/>
+                                <note pname="a" oct="4" dur="8"/>
+                                <note pname="b" oct="4" dur="8"/>
+                                <note pname="a" oct="4" dur="8"/>
+                                <note pname="b" oct="4" dur="8"/>
+                                <rest dur="8"/>
                              </layer>
                           </staff>
                        </measure>
@@ -307,39 +331,73 @@
                           <staff n="3"></staff>
                           <staff n="4">
                              <layer>
-                                <note pname="d" oct="5" dur="4"/>
-                                <note pname="d" oct="5" dur="4"/>
-                                <rest dur="4"/>
-                             </layer>
-                          </staff>
-                       </measure>
-                       <measure>
-                          <staff n="1"></staff>
-                          <staff n="2"></staff>
-                          <staff n="3"></staff>
-                          <staff n="4">
-                             <layer>
-                                <note pname="d" oct="5" dur="8"/>
-                                <note pname="c" oct="5" dur="8"/><!--TODO add sharp-->
-                                <note pname="d" oct="5" dur="8"/>
-                                <note pname="c" oct="5" dur="8"/>
-                                <note pname="d" oct="5" dur="8"/>
-                                <note pname="c" oct="5" dur="8"/>
-                             </layer>
-                          </staff>
-                       </measure>
-                       <measure>
-                          <staff n="1"></staff>
-                          <staff n="2"></staff>
-                          <staff n="3"></staff>
-                          <staff n="4">
-                             <layer>
-                                <note pname="d" oct="5" dur="4"/>
-                                <rest dur="4"/>
+                                <note pname="a" oct="4" dur="4"/>
+                                <note pname="c" oct="5" dur="4"/>
                                 <rest dur="4"/>
                              </layer>
                           </staff>
                        </measure> <!--End of line 3-->
+                       <measure>
+                          <staff n="1"></staff>
+                          <staff n="2"></staff>
+                          <staff n="3"></staff>
+                          <staff n="4">
+                             <layer>
+                                <note pname="d" oct="5" dur="4"/>
+                                <note pname="d" oct="5" dur="4"/>
+                                <rest dur="4"/>
+                             </layer>
+                          </staff>
+                       </measure>
+                       <measure>
+                          <staff n="1"></staff>
+                          <staff n="2"></staff>
+                          <staff n="3"></staff>
+                          <staff n="4">
+                             <layer>
+                                <note pname="d" oct="5" dur="4"/>
+                                <note pname="d" oct="5" dur="4"/>
+                                <note pname="g" oct="4" dur="4"/>
+                             </layer>
+                          </staff>
+                       </measure>
+                       <measure>
+                          <staff n="1"></staff>
+                          <staff n="2"></staff>
+                          <staff n="3"></staff>
+                          <staff n="4">
+                             <layer>
+                                <note pname="g" oct="4" dur="4"/>
+                                <rest dur="4"/>
+                                <note pname="c" oct="5" dur="4"/> <!--ToDo add bridge-->
+                             </layer>
+                          </staff>
+                       </measure>
+                       <measure>
+                          <staff n="1"></staff>
+                          <staff n="2"></staff>
+                          <staff n="3"></staff>
+                          <staff n="4">
+                             <layer>
+                                <note pname="c" oct="5" dur="4"/>
+                                <rest dur="4"/>
+                                <note pname="e" oct="5" dur="4"/> <!--ToDo add bridge-->
+                                <note pname="f" oct="5" dur="4"/>
+                             </layer>
+                          </staff>
+                       </measure>
+                       <measure>
+                          <staff n="1"></staff>
+                          <staff n="2"></staff>
+                          <staff n="3"></staff>
+                          <staff n="4">
+                             <layer>
+                                <note pname="c" oct="5" dur="4"/>
+                                <rest dur="4"/>
+                                <note pname="c" oct="5" dur="4"/> <!--ToDo add bridge-->
+                             </layer>
+                          </staff>
+                       </measure> <!--End of line 4 (end of pg1)-->
                     </section>
                 </score>
             </mdiv>
