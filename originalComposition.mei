@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://music-encoding.org/schema/5.1/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://music-encoding.org/schema/5.1/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.1+basic">
+<?xml-model href="https://music-encoding.org/schema/5.1/mei-CMN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.1/mei-CMN.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.1">
     <meiHead>
         <fileDesc>
             <titleStmt>
@@ -21,14 +21,14 @@
                     <scoreDef meter.count="4" meter.unit="4">
                         <staffGrp>
                             <staffDef n="1" clef.shape="G" clef.line="2" lines="5">
-                                 <label>String Ensemble 1</label>
-    										<instrDef midi.instrname="String Ensemble 1" midi.instrnum="48"/>
+                                <label>String Ensemble 1</label>
+                                <instrDef midi.instrname="String Ensemble 1" midi.instrnum="48"/>
                             </staffDef>
                             <!-- Step 2: Define your staff (instrument) here; the value of n should be sequential for each new staff (1, 2, 3...) -->
                             <!-- See https://ccarh.org/courses/253/handout/gminstruments/ for the list of MIDI instrument numbers -->
                         </staffGrp>
                     </scoreDef>
-                      <section>
+                    <section>
                         <measure n="1">
                             <staff n="1">
                                 <layer>

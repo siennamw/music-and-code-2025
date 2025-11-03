@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://music-encoding.org/schema/5.1/mei-basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://music-encoding.org/schema/5.1/mei-basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.1+basic">
+<?xml-model href="https://music-encoding.org/schema/5.1/mei-CMN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.1/mei-CMN.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.1">
     <meiHead>
         <fileDesc>
             <titleStmt>
@@ -24,23 +24,23 @@
                         <staffGrp>
                             <staffDef n="1" clef.shape="G" clef.line="2" lines="5" keysig="2f">
                                 <label>Flute</label>
-                                <instrDef midi.instrname="Flute" midi.instrnum="74" />
+                                <instrDef midi.instrname="Flute" midi.instrnum="74"/>
                             </staffDef>
                             <staffDef n="2" clef.shape="G" clef.line="2" lines="5" keysig="2f">
                                 <label>Oboe</label>
-                                <instrDef midi.instrname="Oboe" midi.instrnum="69" />
+                                <instrDef midi.instrname="Oboe" midi.instrnum="69"/>
                             </staffDef>
                             <staffDef n="3" clef.shape="G" clef.line="2" lines="5" keysig="0" trans.semi="-2" trans.diat="-1">
                                 <label>Clarinet in B-flat</label>
-                                <instrDef midi.instrname="Clarinet" midi.instrnum="72" />
+                                <instrDef midi.instrname="Clarinet" midi.instrnum="72"/>
                             </staffDef>
                             <staffDef n="4" clef.shape="G" clef.line="2" lines="5" keysig="1f" trans.semi="-7" trans.diat="-5">
                                 <label>Horn in F</label>
-                                <instrDef midi.instrname="French_Horn" midi.instrnum="61" />
+                                <instrDef midi.instrname="French_Horn" midi.instrnum="61"/>
                             </staffDef>
                             <staffDef n="5" clef.shape="F" clef.line="4" lines="5" keysig="2f">
                                 <label>Bassoon</label>
-                                <instrDef midi.instrname="Bassoon" midi.instrnum="71" />
+                                <instrDef midi.instrname="Bassoon" midi.instrnum="71"/>
                             </staffDef>
                         </staffGrp>
                     </scoreDef>
