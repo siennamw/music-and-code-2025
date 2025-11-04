@@ -2772,7 +2772,7 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <note pname="d" oct="5" dur="8"/>
+                                    <note pname="c" oct="4" dur="2" dots="1"/> <!--TODO finish bridge-->
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -2802,7 +2802,9 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <note pname="d" oct="5" dur="8"/>
+                                    <note pname="f" oct="4" dur="4"/>
+                                    <rest dur="4"/>
+                                   <note pname="f" oct="4" dur="4"/> <!--TODO add bridge-->
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -3364,6 +3366,7 @@
                                     </note>
                                 </layer>
                             </staff>
+                           <staff n="4"><layer></layer></staff>
                         </measure>
                         <measure n="70">
                             <staff n="1">
@@ -3583,6 +3586,7 @@
                             </staff>
                         </measure>
                         <measure n="88">
+                           <staff n="4"><layer></layer></staff>
                         </measure>
                         <measure n="89">
                         </measure>
