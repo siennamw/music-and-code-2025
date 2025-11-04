@@ -8,6 +8,7 @@
                 <title>Music &amp;&amp; Code: Original Composition</title>
                 <composer>
                     <persName role="composer">Harris</persName>
+                    <persName role="composer">Addie</persName>
                     <!-- Step 1: Add your name here -->
                 </composer>
             </titleStmt>
@@ -24,6 +25,10 @@
                                 <label>String Ensemble 1</label>
                                 <instrDef midi.instrname="String Ensemble 1" midi.instrnum="48"/>
                             </staffDef>
+                           <staffDef n="2" clef.shape="G" clef.line="2" lines="5">
+                              <label>FLute</label>
+                              <instrDef midi.instrname="Flute" midi.instrnum="73"/>
+                           </staffDef>
                             <!-- Step 2: Define your staff (instrument) here; the value of n should be sequential for each new staff (1, 2, 3...) -->
                             <!-- See https://ccarh.org/courses/253/handout/gminstruments/ for the list of MIDI instrument numbers -->
                         </staffGrp>
@@ -38,6 +43,11 @@
                                     <note pname="c" oct="5" dur="4"/>
                                 </layer>
                             </staff>
+                           <staff n="2">
+                              <layer>
+                                 <note pname="e" oct="4" dur ="1"/>
+                              </layer>
+                           </staff>
                         </measure>
                         <measure n="2">
                             <staff n="1">
@@ -46,6 +56,11 @@
                                     <note pname="g" oct="4" dur="2"/>
                                 </layer>
                             </staff>
+                           <staff n="2">
+                              <layer>
+                                 <note pname="e" oct="4" dur ="1"/>
+                              </layer>
+                           </staff>
                         </measure>
                         <measure n="3">
                             <staff n="1">
@@ -56,6 +71,11 @@
                                     <note pname="c" oct="5" dur="4"/>
                                 </layer>
                             </staff>
+                           <staff n="2">
+                              <layer>
+                                 <note pname="e" oct="4" dur ="1"/>
+                              </layer>
+                           </staff>
                         </measure>
                         <measure n="4">
                             <staff n="1">
@@ -64,6 +84,11 @@
                                     <note pname="g" oct="4" dur="2"/>
                                 </layer>
                             </staff>
+                           <staff n="2">
+                              <layer>
+                                 <note pname="e" oct="4" dur ="1"/>
+                              </layer>
+                           </staff>
                         </measure>
                         <measure n="5">
                             <staff n="1">
@@ -75,6 +100,11 @@
                                     <note pname="b" accid="f" oct="4" dur="4"/>
                                 </layer>
                             </staff>
+                           <staff n="2">
+                              <layer>
+                                 <note pname="e" oct="4" dur ="1"/>
+                              </layer>
+                           </staff>
                         </measure>
                         <measure n="6">
                             <staff n="1">
@@ -84,6 +114,11 @@
                                     <rest dur="4"/>
                                 </layer>
                             </staff>
+                           <staff n="2">
+                              <layer>
+                                 <note pname="e" oct="4" dur ="1"/>
+                              </layer>
+                           </staff>
                         </measure>
                         <measure n="7">
                             <staff n="1">
@@ -94,6 +129,11 @@
                                     <note pname="c" oct="5" dur="4"/>
                                 </layer>
                             </staff>
+                           <staff n="2">
+                              <layer>
+                                 <note pname="e" oct="4" dur ="1"/>
+                              </layer>
+                           </staff>
                         </measure>
                         <measure n="8">
                             <staff n="1">
@@ -102,6 +142,11 @@
                                     <note pname="g" oct="4" dur="2"/>
                                 </layer>
                             </staff>
+                           <staff n="2">
+                              <layer>
+                                 <note pname="e" oct="4" dur ="1"/>
+                              </layer>
+                           </staff>
                         </measure>
                         <measure n="9">
                             <staff n="1">
@@ -112,6 +157,11 @@
                                     <note pname="c" oct="6" dur="4"/>
                                 </layer>
                             </staff>
+                           <staff n="2">
+                              <layer>
+                                 <note pname="e" oct="4" dur ="1"/>
+                              </layer>
+                           </staff>
                         </measure>
                         <measure n="10">
                             <staff n="1">
@@ -120,6 +170,11 @@
                                     <note pname="g" oct="5" dur="2"/>
                                 </layer>
                             </staff>
+                           <staff n="2">
+                              <layer>
+                                 <note pname="e" oct="4" dur ="1"/>
+                              </layer>
+                           </staff>
                         </measure>
                         <measure n="11">
                             <staff n="1">
@@ -130,6 +185,11 @@
                                     <note pname="c" oct="6" dur="4"/>
                                 </layer>
                             </staff>
+                           <staff n="2">
+                              <layer>
+                                 <note pname="e" oct="4" dur ="1"/>
+                              </layer>
+                           </staff>
                         </measure>
                         <measure n="12">
                             <staff n="1">
@@ -138,6 +198,11 @@
                                     <note pname="g" oct="5" dur="2"/>
                                 </layer>
                             </staff>
+                           <staff n="2">
+                              <layer>
+                                 <note pname="e" oct="4" dur ="1"/>
+                              </layer>
+                           </staff>
                         </measure>
                         <measure n="13">
                             <staff n="1">
@@ -150,6 +215,11 @@
                                     <note pname="g" oct="5" dur="4"/>
                                 </layer>
                             </staff>
+                           <staff n="2">
+                              <layer>
+                                 <note pname="e" oct="4" dur ="1"/>
+                              </layer>
+                           </staff>
                         </measure>
                         <measure n="14">
                             <staff n="1">
@@ -158,6 +228,11 @@
                                     <note pname="g" oct="5" dur="2"/>
                                 </layer>
                             </staff>
+                           <staff n="2">
+                              <layer>
+                                 <note pname="e" oct="4" dur ="1"/>
+                              </layer>
+                           </staff>
                         </measure>
                         <measure n="15">
                             <staff n="1">
@@ -168,6 +243,11 @@
                                     <note pname="g" oct="5" dur="4"/>
                                 </layer>
                             </staff>
+                           <staff n="2">
+                              <layer>
+                                 <note pname="e" oct="4" dur ="1"/>
+                              </layer>
+                           </staff>
                         </measure>
                         <measure n="16">
                             <staff n="1">
@@ -176,6 +256,11 @@
                                     <note pname="e" accid="f" oct="5" dur="2"/>
                                 </layer>
                             </staff>
+                           <staff n="2">
+                              <layer>
+                                 <note pname="e" oct="4" dur ="1"/>
+                              </layer>
+                           </staff>
                         </measure>
                         <measure n="17">
                             <staff n="1">
@@ -188,6 +273,11 @@
                                     <note pname="b" accid="f" oct="4" dur="4"/>
                                 </layer>
                             </staff>
+                           <staff n="2">
+                              <layer>
+                                 <note pname="e" oct="4" dur ="1"/>
+                              </layer>
+                           </staff>
                         </measure>
                         <measure n="18">
                             <staff n="1">
@@ -198,6 +288,11 @@
                                     <note pname="g" oct="4" dur="2"/>
                                 </layer>
                             </staff>
+                           <staff n="2">
+                              <layer>
+                                 <note pname="e" oct="4" dur ="1"/>
+                              </layer>
+                           </staff>
                         </measure>
                         <measure n="19">
                             <staff n="1">
@@ -209,6 +304,11 @@
                                     <note pname="b" accid="f" oct="4" dur="4"/>
                                 </layer>
                             </staff>
+                           <staff n="2">
+                              <layer>
+                                 <note pname="e" oct="4" dur ="1"/>
+                              </layer>
+                           </staff>
                         </measure>
                         <measure n="20">
                             <staff n="1">
@@ -217,6 +317,11 @@
                                     <note pname="g" oct="4" dur="2"/>
                                 </layer>
                             </staff>
+                           <staff n="2">
+                              <layer>
+                                 <note pname="e" oct="4" dur ="1"/>
+                              </layer>
+                           </staff>
                         </measure>
                         <measure n="21">
                             <staff n="1">
@@ -228,6 +333,11 @@
                                     <note pname="g" oct="5" dur="4"/>
                                 </layer>
                             </staff>
+                           <staff n="2">
+                              <layer>
+                                 <note pname="e" oct="4" dur ="1"/>
+                              </layer>
+                           </staff>
                         </measure>
                         <measure n="22">
                             <staff n="1">
@@ -238,6 +348,11 @@
                                     <note pname="e" accid="f" oct="5" dur="4"/>
                                 </layer>
                             </staff>
+                           <staff n="2">
+                              <layer>
+                                 <note pname="e" oct="4" dur ="1"/>
+                              </layer>
+                           </staff>
                         </measure>
                         <measure n="23">
                             <staff n="1">
@@ -248,6 +363,11 @@
                                     <note pname="c" oct="5" dur="4"/>
                                 </layer>
                             </staff>
+                           <staff n="2">
+                              <layer>
+                                 <note pname="e" oct="4" dur ="1"/>
+                              </layer>
+                           </staff>
                         </measure>
                         <measure n="24" right="end">
                             <staff n="1">
@@ -255,6 +375,11 @@
                                     <note pname="g" oct="4" dur="1"/>
                                 </layer>
                             </staff>
+                           <staff n="2">
+                              <layer>
+                                 <note pname="e" oct="4" dur ="1"/>
+                              </layer>
+                           </staff>
                         </measure>
                     </section>
                 </score>
