@@ -2,20 +2,28 @@
 <?xml-model href="https://music-encoding.org/schema/5.1/mei-CMN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://music-encoding.org/schema/5.1/mei-CMN.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.1">
-    <meiHead>
-        <fileDesc>
-            <titleStmt>
-                <title>Quintett op. 56, no. 2 in g-Moll: I. Allegretto</title>
-                <composer>
-                    <persName role="composer">Franz Danzi (1763-1826)</persName>
-                </composer>
-                <respStmt>
-                    <persName role="encoder">Your Name Here</persName>
-                </respStmt>
-            </titleStmt>
-            <pubStmt/>
-        </fileDesc>
-    </meiHead>
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Quintett op. 56, no. 2 in g-Moll: I. Allegretto</title>
+            <composer>
+               <persName role="composer">Franz Danzi (1763-1826)</persName>
+            </composer>
+            <respStmt>
+               <persName role="encoder">Your Name Here</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt/>
+      </fileDesc>
+      <encodingDesc xml:id="e1mr3591">
+         <appInfo xml:id="ac9473k2">
+            <application xml:id="aka8svy2" startdate="2025-11-04T09:31:02" version="1.2.9" enddate="2025-11-04T09:31:02">
+               <name xml:id="nbetz63">mei-friend</name>
+               <p xml:id="pe7w1ey1">First edit by mei-friend 1.2.9.</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
     <music>
         <body>
             <mdiv>
