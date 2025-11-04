@@ -37,7 +37,7 @@
                             <staffDef n="3" clef.shape="G" clef.line="2" lines="5" keysig="0" trans.semi="-2"
                                       trans.diat="-1">
                                 <label>Clarinet in B-flat</label>
-                                <instrDef midi.instrname="Clarinet" midi.instrnum="72"/>
+                                <instrDef midi.instrname="Clarinet" midi.instrnum="71"/>
                             </staffDef>
                             <staffDef n="4" clef.shape="G" clef.line="2" lines="5" keysig="1f" trans.semi="-7"
                                       trans.diat="-5">
