@@ -65,7 +65,30 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <note pname="c" oct="5" dur="8"/>
+                                    <beam>
+                                        <note pname="c" oct="5" dur="8">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                        <note pname="d" oct="5" dur="8">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                    </beam>
+                                    <beam>
+                                        <note pname="c" oct="5" dur="8">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                        <note pname="d" oct="5" dur="8">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                    </beam>
+                                    <beam>
+                                        <note pname="c" oct="5" dur="8">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                        <note pname="d" oct="5" dur="8">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                    </beam>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -96,7 +119,9 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <note pname="c" oct="5" dur="8"/>
+                                    <note pname="c" oct="5" dur="4"/>
+                                    <rest dur="4"/>
+                                    <rest dur="4"/>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -136,7 +161,9 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <note pname="c" oct="5" dur="8"/>
+                                    <note pname="e" oct="3" dur="2" dots="1">
+                                    </note>
+
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -176,7 +203,9 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <note pname="c" oct="5" dur="8"/>
+                                    <note pname="e" oct="3" dur="4"/>
+                                    <rest dur="4"/>
+                                    <rest dur="4"/>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -205,7 +234,26 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <note pname="c" oct="5" dur="8"/>
+                                    <beam>
+                                        <note pname="e" oct="4" dur="8">
+                                            <artic artic="stacc" place="below"/>
+                                        </note>
+                                        <note pname="d" oct="4" dur="8">
+                                            <artic artic="stacc" place="below"/>
+                                        </note>
+                                    </beam>
+                                    <beam>
+                                        <note pname="e" oct="4" dur="8">
+                                            <artic artic="stacc" place="below"/>
+                                        </note>
+                                        <note pname="d" oct="4" dur="8">
+                                            <artic artic="stacc" place="below"/>
+                                        </note>
+                                    </beam>
+                                    <note pname="e" oct="4" dur="8">
+                                        <artic artic="stacc" place="below"/>
+                                    </note>
+                                    <rest dur ="8"/>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -237,7 +285,26 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <note pname="c" oct="5" dur="8"/>
+                                    <beam>
+                                        <note pname="f" oct="4" dur="8">
+                                            <artic artic="stacc" place="below"/>
+                                        </note>
+                                        <note pname="e" oct="4" dur="8">
+                                            <artic artic="stacc" place="below"/>
+                                        </note>
+                                    </beam>
+                                    <beam>
+                                        <note pname="f" oct="4" dur="8">
+                                            <artic artic="stacc" place="below"/>
+                                        </note>
+                                        <note pname="e" oct="4" dur="8">
+                                            <artic artic="stacc" place="below"/>
+                                        </note>
+                                    </beam>
+                                    <note pname="f" oct="4" dur="8">
+                                        <artic artic="stacc" place="below"/>
+                                    </note>
+                                    <rest dur ="8"/>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -269,7 +336,10 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <note pname="c" oct="5" dur="8"/>
+                                    <rest dur ="4"/>
+                                    <rest dur ="4"/>
+                                    <rest dur ="8"/>
+                                    <note pname="c" oct="5" dur="8" accid="s"/>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -301,7 +371,11 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <note pname="c" oct="5" dur="8"/>
+                                    <note pname="d" oct="5" dur="2"/>
+                                    <beam>
+                                        <note pname="f" oct="5" dur="8"/>
+                                        <note pname="e" oct="5" dur="8"/>
+                                    </beam>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -351,7 +425,9 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <note pname="c" oct="5" dur="8"/>
+                                    <note pname="f" oct="5" dur="4" dots="1" accid="s"/>
+                                    <rest dur="8"/>
+                                    <rest dur="4"/>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -387,7 +463,9 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <note pname="c" oct="5" dur="8"/>
+                                    <rest dur="4"/>
+                                    <note pname="f" oct="5" dur="4" accid="n"/>
+                                    <note pname="e" oct="5" dur="4"/>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -425,7 +503,9 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <note pname="c" oct="5" dur="8"/>
+                                    <note pname="d" oct="5" dur="4"/>
+                                    <note pname="c" oct="5" dur="4"/>
+                                    <note pname="b" oct="4" dur="4"/>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -456,7 +536,10 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <note pname="c" oct="5" dur="8"/>
+                                    <note pname="a" oct="4" dur="4"/>
+                                    <note pname="e" oct="5" dur="4"/>
+                                    <rest dur="4">
+                                    </rest>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -490,7 +573,30 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <note pname="c" oct="5" dur="8"/>
+                                    <beam>
+                                        <note pname="c" oct="5" dur="8">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                        <note pname="d" oct="5" dur="8">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                    </beam>
+                                    <beam>
+                                        <note pname="c" oct="5" dur="8">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                        <note pname="d" oct="5" dur="8">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                    </beam>
+                                    <beam>
+                                        <note pname="c" oct="5" dur="8">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                        <note pname="d" oct="5" dur="8">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                    </beam>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -523,7 +629,9 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <note pname="c" oct="5" dur="8"/>
+                                    <note pname="c" oct="5" dur="4"/>
+                                    <rest dur="4"/>
+                                    <rest dur="4"/>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -569,7 +677,30 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <note pname="c" oct="5" dur="8"/>
+                                    <beam>
+                                        <note pname="d" oct="5" dur="8">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                        <note pname="d" oct="5" dur="8">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                    </beam>
+                                    <beam>
+                                        <note pname="d" oct="5" dur="8">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                        <note pname="d" oct="5" dur="8">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                    </beam>
+                                    <beam>
+                                        <note pname="d" oct="5" dur="8">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                        <note pname="d" oct="5" dur="8">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                    </beam>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -602,7 +733,9 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <note pname="c" oct="5" dur="8"/>
+                                    <note pname="d" oct="5" dur="4"/>
+                                    <rest dur="4"/>
+                                    <rest dur="4"/>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -629,7 +762,26 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <note pname="c" oct="5" dur="8"/>
+                                    <beam>
+                                        <note pname="c" oct="5" dur="8">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                        <note pname="b" oct="4" dur="8">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                    </beam>
+                                    <beam>
+                                        <note pname="c" oct="5" dur="8">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                        <note pname="b" oct="4" dur="8">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                    </beam>
+                                    <note pname="c" oct="5" dur="8">
+                                        <artic artic="stacc" place="above"/>
+                                    </note>
+                                    <rest dur ="8"/>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -657,7 +809,26 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <note pname="c" oct="5" dur="8"/>
+                                    <beam>
+                                        <note pname="d" oct="5" dur="8">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                        <note pname="c" oct="5" dur="8" accid="s">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                    </beam>
+                                    <beam>
+                                        <note pname="d" oct="5" dur="8">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                        <note pname="c" oct="5" dur="8">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                    </beam>
+                                    <note pname="d" oct="5" dur="8">
+                                        <artic artic="stacc" place="above"/>
+                                    </note>
+                                    <rest dur ="8"/>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -685,7 +856,26 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <note pname="c" oct="5" dur="8"/>
+                                    <beam>
+                                        <note pname="c" oct="5" dur="8" accid="n">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                        <note pname="b" oct="4" dur="8">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                    </beam>
+                                    <beam>
+                                        <note pname="c" oct="5" dur="8">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                        <note pname="b" oct="4" dur="8">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                    </beam>
+                                    <note pname="c" oct="5" dur="8">
+                                        <artic artic="stacc" place="above"/>
+                                    </note>
+                                    <rest dur ="8"/>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -713,7 +903,26 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <note pname="c" oct="5" dur="8"/>
+                                    <beam>
+                                        <note pname="d" oct="5" dur="8">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                        <note pname="c" oct="5" dur="8" accid="s">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                    </beam>
+                                    <beam>
+                                        <note pname="d" oct="5" dur="8">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                        <note pname="c" oct="5" dur="8">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                    </beam>
+                                    <note pname="d" oct="5" dur="8">
+                                        <artic artic="stacc" place="above"/>
+                                    </note>
+                                    <rest dur ="8"/>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -741,7 +950,10 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <note pname="c" oct="5" dur="8"/>
+                                    <note pname="c" oct="5" dur="4" accid="n"/>
+                                    <note pname="c" oct="5" dur="4"/>
+                                    <rest dur="4">
+                                    </rest>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -770,7 +982,10 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <note pname="c" oct="5" dur="8"/>
+                                    <note pname="c" oct="5" dur="4"/>
+                                    <note pname="c" oct="5" dur="4"/>
+                                    <rest dur="4">
+                                    </rest>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -799,7 +1014,9 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <note pname="c" oct="5" dur="8"/>
+                                    <note pname="c" oct="5" dur="4"/>
+                                    <note pname="c" oct="5" dur="4"/>
+                                    <note pname="a" oct="4" dur="4"/>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -831,7 +1048,24 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <note pname="c" oct="5" dur="8"/>
+                                    <beam>
+                                        <note pname="g" oct="4" dur="16"/>
+                                        <note pname="g" oct="3" dur="16"/>
+                                        <note pname="b" oct="3" dur="16"/>
+                                        <note pname="d" oct="4" dur="16"/>
+                                    </beam>
+                                    <beam>
+                                        <note pname="g" oct="4" dur="16"/>
+                                        <note pname="b" oct="4" dur="16"/>
+                                        <note pname="d" oct="5" dur="16"/>
+                                        <note pname="g" oct="5" dur="16"/>
+                                    </beam>
+                                    <beam>
+                                        <note pname="f" oct="5" dur="16" accid="n"/>
+                                        <note pname="g" oct="5" dur="16"/>
+                                        <note pname="d" oct="5" dur="16"/>
+                                        <note pname="g" oct="5" dur="16"/>
+                                    </beam>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -864,7 +1098,30 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <note pname="c" oct="5" dur="8"/>
+                                    <beam>
+                                        <note pname="e" oct="5" dur="16">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                        <note pname="g" oct="5" dur="16"/>
+                                        <note pname="f" oct="5" dur="16" accid="s"/>
+                                        <note pname="g" oct="5" dur="16"/>
+                                    </beam>
+                                    <beam>
+                                        <note pname="d" oct="5" dur="16">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                        <note pname="g" oct="5" dur="16"/>
+                                        <note pname="f" oct="5" dur="16"/>
+                                        <note pname="g" oct="5" dur="16"/>
+                                    </beam>
+                                    <beam>
+                                        <note pname="c" oct="5" dur="16">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                        <note pname="g" oct="5" dur="16"/>
+                                        <note pname="f" oct="5" dur="16"/>
+                                        <note pname="g" oct="5" dur="16"/>
+                                    </beam>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -897,7 +1154,24 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <note pname="c" oct="5" dur="8"/>
+                                    <beam>
+                                        <note pname="g" oct="4" dur="16"/>
+                                        <note pname="g" oct="3" dur="16"/>
+                                        <note pname="b" oct="3" dur="16"/>
+                                        <note pname="d" oct="4" dur="16"/>
+                                    </beam>
+                                    <beam>
+                                        <note pname="g" oct="4" dur="16"/>
+                                        <note pname="b" oct="4" dur="16"/>
+                                        <note pname="d" oct="5" dur="16"/>
+                                        <note pname="g" oct="5" dur="16"/>
+                                    </beam>
+                                    <beam>
+                                        <note pname="f" oct="5" dur="16" accid="n"/>
+                                        <note pname="g" oct="5" dur="16"/>
+                                        <note pname="d" oct="5" dur="16"/>
+                                        <note pname="g" oct="5" dur="16"/>
+                                    </beam>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -931,7 +1205,30 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <note pname="c" oct="5" dur="8"/>
+                                    <beam>
+                                        <note pname="e" oct="5" dur="16">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                        <note pname="g" oct="5" dur="16"/>
+                                        <note pname="f" oct="5" dur="16" accid="s"/>
+                                        <note pname="g" oct="5" dur="16"/>
+                                    </beam>
+                                    <beam>
+                                        <note pname="d" oct="5" dur="16">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                        <note pname="g" oct="5" dur="16"/>
+                                        <note pname="f" oct="5" dur="16"/>
+                                        <note pname="g" oct="5" dur="16"/>
+                                    </beam>
+                                    <beam>
+                                        <note pname="c" oct="5" dur="16">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                        <note pname="g" oct="5" dur="16"/>
+                                        <note pname="f" oct="5" dur="16"/>
+                                        <note pname="g" oct="5" dur="16"/>
+                                    </beam>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -968,7 +1265,10 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <note pname="c" oct="5" dur="8"/>
+                                    <note pname="b" oct="4" dur="4"/>
+                                    <rest dur="4"/>
+                                    <rest dur="8"/>
+                                    <note pname="b" oct="4" dur="8"/>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -1009,6 +1309,9 @@
                             </staff>
                             <staff n="3">
                                 <layer>
+                                    <note pname="c" oct="5" dur="4"/>
+                                    <rest dur="4"/>
+                                    <rest dur="8"/>
                                     <note pname="c" oct="5" dur="8"/>
                                 </layer>
                             </staff>
@@ -1048,7 +1351,10 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <note pname="c" oct="5" dur="8"/>
+                                    <note pname="d" oct="5" dur="4"/>
+                                    <rest dur="4"/>
+                                    <rest dur="8"/>
+                                    <note pname="b" oct="4" dur="8"/>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -1082,7 +1388,30 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <note pname="c" oct="5" dur="8"/>
+                                    <beam>
+                                        <note pname="d" oct="5" dur="8">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                        <note pname="d" oct="5" dur="8">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                    </beam>
+                                    <beam>
+                                        <note pname="d" oct="5" dur="8">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                        <note pname="d" oct="5" dur="8">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                    </beam>
+                                    <beam>
+                                        <note pname="d" oct="5" dur="8">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                        <note pname="d" oct="5" dur="8">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                    </beam>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -1118,7 +1447,10 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <note pname="c" oct="5" dur="8"/>
+                                    <note pname="d" oct="5" dur="4"/>
+                                    <note pname="d" oct="5" dur="4"/>
+                                    <rest dur="4">
+                                    </rest>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -1147,7 +1479,22 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <note pname="c" oct="5" dur="8"/>
+                                    <beam>
+                                        <note pname="c" oct="5" dur="16"/>
+                                        <note pname="d" oct="5" dur="16"/>
+                                        <note pname="c" oct="5" dur="16"/>
+                                        <note pname="b" oct="4" dur="16"/>
+                                    </beam>
+                                    <beam>
+                                        <note pname="c" oct="5" dur="16"/>
+                                        <note pname="d" oct="5" dur="16"/>
+                                        <note pname="e" oct="5" dur="16"/>
+                                        <note pname="f" oct="5" dur="16"/>
+                                    </beam>
+                                    <beam>
+                                        <note pname="g" oct="5" dur="8"/>
+                                        <note pname="c" oct="5" dur="8"/>
+                                    </beam>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -1185,7 +1532,9 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <note pname="c" oct="5" dur="8"/>
+                                    <note pname="b" oct="4" dur="4"/>
+                                    <rest dur="4"/>
+                                    <note pname="b" oct="4" dur="4"/>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -1232,7 +1581,9 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <note pname="c" oct="5" dur="8"/>
+                                    <note pname="c" oct="5" dur="4"/>
+                                    <rest dur="4"/>
+                                    <note pname="c" oct="5" dur="4"/>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -1275,7 +1626,14 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <note pname="c" oct="5" dur="8"/>
+                                    <note pname="b" oct="4" dur="4"/>
+                                    <rest dur="4"/>
+                                    <beam>
+                                        <note pname="d" oct="4" dur="16"/>
+                                        <note pname="f" oct="4" dur="16"/>
+                                        <note pname="g" oct="4" dur="16"/>
+                                        <note pname="b" oct="4" dur="16"/>
+                                    </beam>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -1313,7 +1671,22 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <note pname="c" oct="5" dur="8"/>
+                                    <beam>
+                                        <note pname="c" oct="5" dur="16"/>
+                                        <note pname="d" oct="5" dur="16"/>
+                                        <note pname="c" oct="5" dur="16"/>
+                                        <note pname="b" oct="4" dur="16"/>
+                                    </beam>
+                                    <beam>
+                                        <note pname="c" oct="5" dur="16"/>
+                                        <note pname="d" oct="5" dur="16"/>
+                                        <note pname="e" oct="5" dur="16"/>
+                                        <note pname="f" oct="5" dur="16"/>
+                                    </beam>
+                                    <beam>
+                                        <note pname="g" oct="5" dur="8"/>
+                                        <note pname="c" oct="5" dur="8"/>
+                                    </beam>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -1351,7 +1724,9 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <note pname="c" oct="5" dur="8"/>
+                                    <note pname="b" oct="4" dur="4"/>
+                                    <rest dur="4"/>
+                                    <note pname="b" oct="4" dur="4"/>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -1398,7 +1773,9 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <note pname="c" oct="5" dur="8"/>
+                                    <note pname="c" oct="5" dur="4"/>
+                                    <rest dur="4"/>
+                                    <note pname="c" oct="5" dur="4"/>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -1441,7 +1818,14 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <note pname="c" oct="5" dur="8"/>
+                                    <note pname="b" oct="4" dur="4"/>
+                                    <rest dur="4"/>
+                                    <beam>
+                                        <note pname="d" oct="4" dur="16"/>
+                                        <note pname="f" oct="4" dur="16"/>
+                                        <note pname="g" oct="4" dur="16"/>
+                                        <note pname="b" oct="4" dur="16"/>
+                                    </beam>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -1482,7 +1866,9 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <note pname="c" oct="5" dur="8"/>
+                                    <note pname="c" oct="5" dur="4"/>
+                                    <note pname="g" oct="5" dur="4" dots="1"/>
+                                    <note pname="e" oct="5" dur="8"/>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -1518,7 +1904,9 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <note pname="c" oct="5" dur="8"/>
+                                    <note pname="c" oct="5" dur="4" accid="s"/>
+                                    <note pname="d" oct="5" dur="4"/>
+                                    <note pname="c" oct="5" dur="8" accid="n"/>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -1551,7 +1939,9 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <note pname="c" oct="5" dur="8"/>
+                                    <note pname="b" oct="4" dur="4"/>
+                                    <note pname="c" oct="5" dur="4"/>
+                                    <note pname="b" oct="4" dur="8" accid="f"/>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -1585,7 +1975,8 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <note pname="c" oct="5" dur="8"/>
+                                    <note pname="a" oct="4" dur="4"/>
+                                    <note pname="a" oct="4" dur="2" accid="f"/>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -1621,7 +2012,9 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <note pname="c" oct="5" dur="8"/>
+                                    <note pname="g" oct="4" dur="4"/>
+                                    <rest dur="4"/>
+                                    <rest dur="4"/>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -1655,7 +2048,7 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <note pname="c" oct="5" dur="8"/>
+                                    <rest dur="1"/>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -1686,7 +2079,24 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <note pname="c" oct="5" dur="8"/>
+                                    <beam>
+                                        <note pname="d" oct="5" dur="8">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                        <note pname="c" oct="5" dur="8" accid="s">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                    </beam>
+                                    <beam>
+                                        <note pname="d" oct="5" dur="8">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                        <note pname="c" oct="5" dur="8">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                    </beam>
+                                    <note pname="d" oct="5" dur="8">
+                                    </note>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -1723,7 +2133,24 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <note pname="c" oct="5" dur="8"/>
+                                    <beam>
+                                        <note pname="c" oct="5" dur="8" accid="n">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                        <note pname="b" oct="4" dur="8">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                    </beam>
+                                    <beam>
+                                        <note pname="c" oct="5" dur="8">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                        <note pname="b" oct="4" dur="8">
+                                            <artic artic="stacc" place="above"/>
+                                        </note>
+                                    </beam>
+                                    <note pname="c" oct="5" dur="4">
+                                    </note>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -1757,7 +2184,25 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <note pname="c" oct="5" dur="8"/>
+                                    <beam>
+                                        <note pname="g" oct="4" dur="8" accid="f">
+                                            <artic artic="stacc" place="below"/>
+                                        </note>
+                                        <note pname="f" oct="4" dur="8">
+                                            <artic artic="stacc" place="below"/>
+                                        </note>
+                                    </beam>
+                                    <beam>
+                                        <note pname="g" oct="4" dur="8">
+                                            <artic artic="stacc" place="below"/>
+                                        </note>
+                                        <note pname="f" oct="4" dur="8">
+                                            <artic artic="stacc" place="below"/>
+                                        </note>
+                                    </beam>
+                                    <note pname="c" oct="4" dur="4">
+                                        <artic artic="stacc" place="below"/>
+                                    </note>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -1786,7 +2231,30 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <note pname="c" oct="5" dur="8"/>
+                                    <beam>
+                                        <note pname="e" oct="4" dur="8">
+                                            <artic artic="stacc" place="below"/>
+                                        </note>
+                                        <note pname="d" oct="4" dur="8" accid="s">
+                                            <artic artic="stacc" place="below"/>
+                                        </note>
+                                    </beam>
+                                    <beam>
+                                        <note pname="e" oct="4" dur="8">
+                                            <artic artic="stacc" place="below"/>
+                                        </note>
+                                        <note pname="d" oct="4" dur="8">
+                                            <artic artic="stacc" place="below"/>
+                                        </note>
+                                    </beam>
+                                    <beam>
+                                        <note pname="e" oct="4" dur="8">
+                                            <artic artic="stacc" place="below"/>
+                                        </note>
+                                        <note pname="d" oct="4" dur="8">
+                                            <artic artic="stacc" place="below"/>
+                                        </note>
+                                    </beam>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -1820,7 +2288,8 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <note pname="c" oct="5" dur="8"/>
+                                    <note pname="e" oct="4" dur="2" dots="1">
+                                    </note>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -1849,7 +2318,30 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <note pname="c" oct="5" dur="8"/>
+                                    <beam>
+                                        <note pname="f" oct="4" dur="8">
+                                            <artic artic="stacc" place="below"/>
+                                        </note>
+                                        <note pname="e" oct="4" dur="8">
+                                            <artic artic="stacc" place="below"/>
+                                        </note>
+                                    </beam>
+                                    <beam>
+                                        <note pname="f" oct="4" dur="8">
+                                            <artic artic="stacc" place="below"/>
+                                        </note>
+                                        <note pname="e" oct="4" dur="8">
+                                            <artic artic="stacc" place="below"/>
+                                        </note>
+                                    </beam>
+                                    <beam>
+                                        <note pname="f" oct="4" dur="8">
+                                            <artic artic="stacc" place="below"/>
+                                        </note>
+                                        <note pname="e" oct="4" dur="8">
+                                            <artic artic="stacc" place="below"/>
+                                        </note>
+                                    </beam>
                                 </layer>
                             </staff>
                             <staff n="4">
