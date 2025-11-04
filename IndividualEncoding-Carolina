@@ -1,0 +1,922 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.1/mei-CMN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.1/mei-CMN.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.1">
+  <meiHead>
+      <fileDesc>
+          <titleStmt>
+              <title>Linger</title>
+              <composer>
+                  <persName role="composer">Carolina</persName>
+              </composer>
+          </titleStmt>
+          <pubStmt/>
+       </fileDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv>
+            <score>
+               <scoreDef meter.count="4" meter.unit="4" keysig="1f">
+                   <staffGrp>
+                       <staffDef n="1" clef.shape="G" clef.line="2" lines="5" keysig="1f">
+                           <label>Voice</label>
+                           <instrDef midi.instrname="Choir Aah" midi.instrnum="52"/>
+                       </staffDef>
+                       <staffDef n="2" clef.shape="G" clef.line="2" lines="5" keysig="1f">
+                           <label>Piano</label>
+                           <instrDef midi.instrname="Acoustic Grand Piano" midi.instrnum="0"/>
+                       </staffDef>
+                    </staffGrp>
+                </scoreDef>
+               <section>
+                  <measure>
+                     <staff n="1">
+                        <layer>
+                           <rest dur="1"/>
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer>
+                           <chord dur="4">
+                              <note pname="a" oct="4"/>
+                              <note pname="c" oct="5"/>
+                              <note pname="f" oct="5"/>
+                           </chord>
+                           <beam>
+                           	<chord dur="8">
+                              	<note pname="a" oct="4" dots="1"/>
+                              	<note pname="f" oct="5" dots="1"/>
+                           	</chord>
+                              <chord dur="16">
+                                 <note pname="b" oct="4"/>
+                                 <note pname="g" oct="5"/>
+                              </chord>
+                           </beam>
+                           <beam>
+                           	<chord dur="8">
+                              	<note pname="a" oct="5" dots="1"/>
+                              	<note pname="c" oct="5" dots="1"/>
+                           	</chord>
+                              <chord dur="16">
+                                 <note pname="b" oct="4"/>
+                                 <note pname="g" oct="5"/>
+                              </chord>
+                           </beam>
+                           <chord dur="4">
+                              <note pname="a" oct="4"/>
+                              <note pname="f" oct="5"/>
+                           </chord>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure>
+                     <staff n="1">
+                        <layer>
+                           <rest dur="2"/>
+                           <rest/>
+                           <note pname="c" oct="4" dur="4" syl="Hm-"/>
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer>
+                           <chord dur="4">
+                              <note pname="c" oct="5"/>
+                              <note pname="a" oct="4"/>
+                              <note pname="f" oct="4"/>
+                           </chord>
+                           <chord dur="4">
+                              <note pname="a" oct="4"/>
+                              <note pname="f" oct="4"/>
+                           </chord>
+                           <chord dur="4">
+                              <note pname="a" oct="4"/>
+                              <note pname="f" oct="4"/>
+                           </chord>
+                           <chord dur="4">
+                              <note pname="a" oct="4"/>
+                              <note pname="f" oct="4"/>
+                           </chord>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure>
+                     <staff n="1">
+                        <layer>
+                           <beam>
+                           	<note pname="f" oct="4" dur="8" dots="1" syl="mm,"/>
+                              <note pname="f" oct="4" dur="16" syl="I"/>
+                           </beam>
+                           <beam>
+                           	<note pname="f" oct="4" dur="8" dots="1" syl="want"/>
+                              <note pname="g" oct="4" dur="16" syl="to"/>
+                           </beam>
+                           <beam>
+                           	<note pname="a" oct="4" dur="8" dots="1" syl="li"/>
+                              <note pname="g" oct="4" dur="16" syl="-"/>
+                           </beam>
+                           <beam>
+                           	<note pname="f" oct="4" dur="8" dots="1" syl="ger"/>
+                              <note pname="a" oct="4" dur="16" syl="Hm"/>
+                           </beam>
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer>
+                           <chord dur="4">
+                              <note pname="c" oct="5"/>
+                              <note pname="a" oct="4"/>
+                              <note pname="f" oct="4"/>
+                           </chord>
+                           <chord dur="4">
+                              <note pname="c" oct="5"/>
+                              <note pname="a" oct="4"/>
+                              <note pname="f" oct="4"/>
+                           </chord>
+                           <chord dur="4">
+                              <note pname="c" oct="5"/>
+                              <note pname="a" oct="4"/>
+                              <note pname="f" oct="4"/>
+                           </chord>
+                           <chord dur="4">
+                              <note pname="c" oct="5"/>
+                              <note pname="a" oct="4"/>
+                              <note pname="f" oct="4"/>
+                           </chord>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure>
+                     <staff n="1">
+                        <layer>
+                        	<beam>
+                           	<note pname="g" oct="4" dur="8" dots="1"/>
+                              <note pname="g" oct="4" dur="16"/>
+                           </beam>
+                           <beam>
+                           	<note pname="g" oct="4" dur="8" dots="1"/>
+                              <note pname="a" oct="4" dur="16"/>
+                           </beam>
+                           <beam>
+                           	<note pname="g" oct="4" dur="8" dots="1"/>
+                              <note pname="f" oct="4" dur="16"/>
+                           </beam>
+                           <beam>
+                           	<note pname="d" oct="4" dur="8" dots="1"/>
+                              <note pname="f" oct="4" dur="16"/>
+                           </beam>
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer>
+                        	<chord dur="4">
+                              <note pname="d" oct="5"/>
+                              <note pname="b" oct="4"/>
+                              <note pname="f" oct="4"/>
+                           </chord>
+                           <chord dur="4">
+                              <note pname="d" oct="5"/>
+                              <note pname="b" oct="4"/>
+                              <note pname="f" oct="4"/>
+                           </chord>
+                           <chord dur="4">
+                              <note pname="d" oct="5"/>
+                              <note pname="b" oct="4"/>
+                              <note pname="f" oct="4"/>
+                           </chord>
+                           <chord dur="4">
+                              <note pname="d" oct="5"/>
+                              <note pname="b" oct="4"/>
+                              <note pname="f" oct="4"/>
+                           </chord>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure>
+                     <staff n="1">
+                        <layer>
+                           <beam>
+                           	<note pname="e" oct="4" dur="8" dots="1"/>
+                              <note pname="e" oct="4" dur="16"/>
+                           </beam>
+                           <beam>
+                           	<note pname="e" oct="4" dur="8" dots="1"/>
+                              <note pname="f" oct="4" dur="16"/>
+                           </beam>
+                           <beam>
+                           	<note pname="g" oct="4" dur="8" dots="1"/>
+                              <note pname="c" oct="4" dur="16"/>
+                           </beam>
+                           <beam>
+                           	<note pname="e" oct="4" dur="8" dots="1"/>
+                              <note pname="g" oct="4" dur="16"/>
+                           </beam>
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer>
+                           <chord dur="4">
+                              <note pname="e" oct="5"/>
+                              <note pname="b" oct="4"/>
+                              <note pname="g" oct="4"/>
+                           </chord>
+                           <chord dur="4">
+                              <note pname="e" oct="5"/>
+                              <note pname="b" oct="4"/>
+                              <note pname="g" oct="4"/>
+                           </chord>
+                           <chord dur="4">
+                              <note pname="e" oct="5"/>
+                              <note pname="b" oct="4"/>
+                              <note pname="g" oct="4"/>
+                           </chord>
+                           <chord dur="4">
+                              <note pname="e" oct="5"/>
+                              <note pname="b" oct="4"/>
+                              <note pname="g" oct="4"/>
+                           </chord>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure>
+                     <staff n="1">
+                        <layer>
+                           <note pname="f" oct="4" dur="2"/>
+                           <rest/>
+                           <note pname="c" oct="4" dur="4"/>
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer>
+                           <chord dur="4">
+                              <note pname="f" oct="5"/>
+                              <note pname="c" oct="5"/>
+                              <note pname="a" oct="4"/>
+                           </chord>
+                           <beam>
+                              <chord dur="8">
+                              	<note pname="e" oct="5" dots="1"/>
+                              	<note pname="b" oct="4" dots="1"/>
+                              	<note pname="g" oct="4" dots="1"/>
+                           	</chord>
+                              <chord dur="16">
+                                 <note pname="b" oct="4"/>
+                                 <note pname="g" oct="5"/>
+                              </chord>
+                           </beam>
+                           <beam>
+                              <chord dur="8">
+                              	<note pname="a" oct="5" dots="1"/>
+                              	<note pname="c" oct="5" dots="1"/>
+                           	</chord>
+                              <chord dur="16">
+                                 <note pname="b" oct="4"/>
+                                 <note pname="g" oct="5"/>
+                              </chord>
+                           </beam>
+                           <chord dur="4">
+                              <note pname="a" oct="4"/>
+                              <note pname="f" oct="5"/>
+                           </chord>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure>
+                     <staff n="1">
+                        <layer>
+                           <beam>
+                           	<note pname="f" oct="4" dur="8" dots="1"/>
+                              <note pname="f" oct="4" dur="16"/>
+                           </beam>
+                           <beam>
+                           	<note pname="f" oct="4" dur="8" dots="1"/>
+                              <note pname="g" oct="4" dur="16"/>
+                           </beam>
+                           <beam>
+                           	<note pname="a" oct="4" dur="8" dots="1"/>
+                              <note pname="g" oct="4" dur="16"/>
+                           </beam>
+                           <beam>
+                           	<note pname="f" oct="4" dur="8" dots="1"/>
+                              <note pname="a" oct="4" dur="16"/>
+                           </beam>
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer>
+                     		<chord dur="4">
+                              <note pname="c" oct="5"/>
+                              <note pname="a" oct="4"/>
+                              <note pname="f" oct="4"/>
+                           </chord>
+                           <chord dur="4">
+                              <note pname="c" oct="5"/>
+                              <note pname="a" oct="4"/>
+                              <note pname="f" oct="4"/>
+                           </chord>
+                           <chord dur="4">
+                              <note pname="c" oct="5"/>
+                              <note pname="a" oct="4"/>
+                              <note pname="f" oct="4"/>
+                           </chord>
+                           <chord dur="4">
+                              <note pname="c" oct="5"/>
+                              <note pname="a" oct="4"/>
+                              <note pname="f" oct="4"/>
+                           </chord>
+                        </layer>
+                      </staff>
+                  </measure>
+                  <measure>
+                     <staff n="1">
+                        <layer>
+                           <beam>
+                           	<note pname="g" oct="4" dur="8" dots="1"/>
+                              <note pname="g" oct="4" dur="16"/>
+                           </beam>
+                           <beam>
+                           	<note pname="g" oct="4" dur="8" dots="1"/>
+                              <note pname="a" oct="4" dur="16"/>
+                           </beam>
+                           <beam>
+                           	<note pname="g" oct="4" dur="8" dots="1"/>
+                              <note pname="f" oct="4" dur="16"/>
+                           </beam>
+                           <beam>
+                           	<note pname="d" oct="4" dur="8" dots="1"/>
+                              <note pname="f" oct="4" dur="16"/>
+                           </beam>
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer>
+                     		<chord dur="4">
+                              <note pname="d" oct="5"/>
+                              <note pname="b" oct="4"/>
+                              <note pname="f" oct="4"/>
+                           </chord>
+                           <chord dur="4">
+                              <note pname="d" oct="5"/>
+                              <note pname="b" oct="4"/>
+                              <note pname="f" oct="4"/>
+                           </chord>
+                           <chord dur="4">
+                              <note pname="d" oct="5"/>
+                              <note pname="b" oct="4"/>
+                              <note pname="f" oct="4"/>
+                           </chord>
+                           <chord dur="4">
+                              <note pname="d" oct="5"/>
+                              <note pname="b" oct="4"/>
+                              <note pname="f" oct="4"/>
+                           </chord>
+                        </layer>
+                      </staff>
+                  </measure>
+                  <measure>
+                     <staff n="1">
+                        <layer>
+                           <beam>
+                           	<note pname="e" oct="4" dur="8" dots="1"/>
+                              <note pname="e" oct="4" dur="16"/>
+                           </beam>
+                           <beam>
+                           	<note pname="e" oct="4" dur="8" dots="1"/>
+                              <note pname="f" oct="4" dur="16"/>
+                           </beam>
+                           <beam>
+                           	<note pname="g" oct="4" dur="8" dots="1"/>
+                              <note pname="c" oct="4" dur="16"/>
+                           </beam>
+                           <beam>
+                           	<note pname="e" oct="4" dur="8" dots="1"/>
+                              <note pname="g" oct="4" dur="16"/>
+                           </beam>
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer>
+                     		<chord dur="4">
+                              <note pname="g" oct="4"/>
+                              <note pname="b" oct="4"/>
+                              <note pname="e" oct="5"/>
+                           </chord>
+                           <chord dur="4">
+                              <note pname="g" oct="4"/>
+                              <note pname="b" oct="4"/>
+                              <note pname="e" oct="5"/>
+                           </chord>
+                           <chord dur="4">
+                              <note pname="g" oct="4"/>
+                              <note pname="b" oct="4"/>
+                              <note pname="e" oct="5"/>
+                           </chord>
+                           <chord dur="4">
+                              <note pname="g" oct="4"/>
+                              <note pname="b" oct="4"/>
+                              <note pname="e" oct="5"/>
+                           </chord>
+                        </layer>
+                      </staff>
+                  </measure>
+                  <measure>
+                     <staff n="1">
+                        <layer>
+                           <note pname="f" oct="4" dur="2" dots="1"/>
+                           <note pname="c" oct="4" dur="4"/>
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer>
+                           <chord dur="4">
+                              <note pname="a" oct="4"/>
+                              <note pname="c" oct="5"/>
+                              <note pname="f" oct="5"/>
+                           </chord>
+                           <beam>
+                              <chord dur="8">
+                              	<note pname="f" oct="5" dots="1"/>
+                              	<note pname="a" oct="4" dots="1"/>
+                           	</chord>
+                              <chord dur="16">
+                                 <note pname="b" oct="4"/>
+                                 <note pname="g" oct="5"/>
+                              </chord>
+                           </beam>
+                           <chord dur="4">
+                              <note pname="c" oct="5"/>
+                              <note pname="a" oct="5"/>
+                           </chord>
+                           <chord dur="4">
+                              <note pname="a" oct="4"/>
+                              <note pname="f" oct="5"/>
+                           </chord>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure>
+                  	<staff n="1">
+                        <layer>
+                           <beam>
+                           	<note pname="f" oct="4" dur="8" dots="1" syl="mm,"/>
+                              <note pname="f" oct="4" dur="16" syl="I"/>
+                           </beam>
+                           <beam>
+                           	<note pname="f" oct="4" dur="8" dots="1" syl="want"/>
+                              <note pname="g" oct="4" dur="16" syl="to"/>
+                           </beam>
+                           <beam>
+                           	<note pname="a" oct="4" dur="8" dots="1" syl="li"/>
+                              <note pname="g" oct="4" dur="16" syl="-"/>
+                           </beam>
+                           <beam>
+                           	<note pname="f" oct="4" dur="8" dots="1" syl="ger"/>
+                              <note pname="a" oct="4" dur="16" syl="Hm"/>
+                           </beam>
+                        </layer>
+                     </staff>
+                  	<staff n="2">
+                        <layer>
+                           <chord dur="4">
+                              <note pname="c" oct="5"/>
+                              <note pname="a" oct="4"/>
+                              <note pname="f" oct="4"/>
+                           </chord>
+                           <chord dur="4">
+                              <note pname="a" oct="4"/>
+                              <note pname="f" oct="4"/>
+                           </chord>
+                           <chord dur="4">
+                              <note pname="a" oct="4"/>
+                              <note pname="f" oct="4"/>
+                           </chord>
+                           <chord dur="4">
+                              <note pname="a" oct="4"/>
+                              <note pname="f" oct="4"/>
+                           </chord>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure>
+                     <staff n="1">
+                        <layer>
+                        	<beam>
+                           	<note pname="g" oct="4" dur="8" dots="1"/>
+                              <note pname="g" oct="4" dur="16"/>
+                           </beam>
+                           <beam>
+                           	<note pname="g" oct="4" dur="8" dots="1"/>
+                              <note pname="a" oct="4" dur="16"/>
+                           </beam>
+                           <beam>
+                           	<note pname="g" oct="4" dur="8" dots="1"/>
+                              <note pname="f" oct="4" dur="16"/>
+                           </beam>
+                           <beam>
+                           	<note pname="d" oct="4" dur="8" dots="1"/>
+                              <note pname="f" oct="4" dur="16"/>
+                           </beam>
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer>
+                        	<chord dur="4">
+                              <note pname="d" oct="5"/>
+                              <note pname="b" oct="4"/>
+                              <note pname="f" oct="4"/>
+                           </chord>
+                           <chord dur="4">
+                              <note pname="d" oct="5"/>
+                              <note pname="b" oct="4"/>
+                              <note pname="f" oct="4"/>
+                           </chord>
+                           <chord dur="4">
+                              <note pname="d" oct="5"/>
+                              <note pname="b" oct="4"/>
+                              <note pname="f" oct="4"/>
+                           </chord>
+                           <chord dur="4">
+                              <note pname="d" oct="5"/>
+                              <note pname="b" oct="4"/>
+                              <note pname="f" oct="4"/>
+                           </chord>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure>
+                     <staff n="1">
+                        <layer>
+                           <beam>
+                           	<note pname="e" oct="4" dur="8" dots="1"/>
+                              <note pname="e" oct="4" dur="16"/>
+                           </beam>
+                           <beam>
+                           	<note pname="e" oct="4" dur="8" dots="1"/>
+                              <note pname="f" oct="4" dur="16"/>
+                           </beam>
+                           <beam>
+                           	<note pname="g" oct="4" dur="8" dots="1"/>
+                              <note pname="c" oct="4" dur="16"/>
+                           </beam>
+                           <beam>
+                           	<note pname="e" oct="4" dur="8" dots="1"/>
+                              <note pname="g" oct="4" dur="16"/>
+                           </beam>
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer>
+                           <chord dur="4">
+                              <note pname="e" oct="5"/>
+                              <note pname="b" oct="4"/>
+                              <note pname="g" oct="4"/>
+                           </chord>
+                           <chord dur="4">
+                              <note pname="e" oct="5"/>
+                              <note pname="b" oct="4"/>
+                              <note pname="g" oct="4"/>
+                           </chord>
+                           <chord dur="4">
+                              <note pname="e" oct="5"/>
+                              <note pname="b" oct="4"/>
+                              <note pname="g" oct="4"/>
+                           </chord>
+                           <chord dur="4">
+                              <note pname="e" oct="5"/>
+                              <note pname="b" oct="4"/>
+                              <note pname="g" oct="4"/>
+                           </chord>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure>
+                     <staff n="1">
+                        <layer>
+                           <note pname="f" oct="4" dur="2"/>
+                           <rest/>
+                           <note pname="c" oct="4" dur="4"/>
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer>
+                           <chord dur="4">
+                              <note pname="f" oct="5"/>
+                              <note pname="c" oct="5"/>
+                              <note pname="a" oct="4"/>
+                           </chord>
+                           <beam>
+                              <chord dur="8">
+                              	<note pname="e" oct="5" dots="1"/>
+                              	<note pname="b" oct="4" dots="1"/>
+                              	<note pname="g" oct="4" dots="1"/>
+                           	</chord>
+                              <chord dur="16">
+                                 <note pname="b" oct="4"/>
+                                 <note pname="g" oct="5"/>
+                              </chord>
+                           </beam>
+                           <beam>
+                              <chord dur="8">
+                              	<note pname="a" oct="5" dots="1"/>
+                              	<note pname="c" oct="5" dots="1"/>
+                           	</chord>
+                              <chord dur="16">
+                                 <note pname="b" oct="4"/>
+                                 <note pname="g" oct="5"/>
+                              </chord>
+                           </beam>
+                           <chord dur="4">
+                              <note pname="a" oct="4"/>
+                              <note pname="f" oct="5"/>
+                           </chord>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure>
+                     <staff n="1">
+                        <layer>
+                           <beam>
+                           	<note pname="f" oct="4" dur="8" dots="1"/>
+                              <note pname="f" oct="4" dur="16"/>
+                           </beam>
+                           <beam>
+                           	<note pname="f" oct="4" dur="8" dots="1"/>
+                              <note pname="g" oct="4" dur="16"/>
+                           </beam>
+                           <beam>
+                           	<note pname="a" oct="4" dur="8" dots="1"/>
+                              <note pname="g" oct="4" dur="16"/>
+                           </beam>
+                           <beam>
+                           	<note pname="f" oct="4" dur="8" dots="1"/>
+                              <note pname="a" oct="4" dur="16"/>
+                           </beam>
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer>
+                     		<chord dur="4">
+                              <note pname="c" oct="5"/>
+                              <note pname="a" oct="4"/>
+                              <note pname="f" oct="4"/>
+                           </chord>
+                           <chord dur="4">
+                              <note pname="c" oct="5"/>
+                              <note pname="a" oct="4"/>
+                              <note pname="f" oct="4"/>
+                           </chord>
+                           <chord dur="4">
+                              <note pname="c" oct="5"/>
+                              <note pname="a" oct="4"/>
+                              <note pname="f" oct="4"/>
+                           </chord>
+                           <chord dur="4">
+                              <note pname="c" oct="5"/>
+                              <note pname="a" oct="4"/>
+                              <note pname="f" oct="4"/>
+                           </chord>
+                        </layer>
+                      </staff>
+                  </measure>
+                  <measure>
+                     <staff n="1">
+                        <layer>
+                           <beam>
+                           	<note pname="g" oct="4" dur="8" dots="1"/>
+                              <note pname="g" oct="4" dur="16"/>
+                           </beam>
+                           <beam>
+                           	<note pname="g" oct="4" dur="8" dots="1"/>
+                              <note pname="a" oct="4" dur="16"/>
+                           </beam>
+                           <beam>
+                           	<note pname="g" oct="4" dur="8" dots="1"/>
+                              <note pname="f" oct="4" dur="16"/>
+                           </beam>
+                           <beam>
+                           	<note pname="d" oct="4" dur="8" dots="1"/>
+                              <note pname="f" oct="4" dur="16"/>
+                           </beam>
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer>
+                     		<chord dur="4">
+                              <note pname="d" oct="5"/>
+                              <note pname="b" oct="4"/>
+                              <note pname="f" oct="4"/>
+                           </chord>
+                           <chord dur="4">
+                              <note pname="d" oct="5"/>
+                              <note pname="b" oct="4"/>
+                              <note pname="f" oct="4"/>
+                           </chord>
+                           <chord dur="4">
+                              <note pname="d" oct="5"/>
+                              <note pname="b" oct="4"/>
+                              <note pname="f" oct="4"/>
+                           </chord>
+                           <chord dur="4">
+                              <note pname="d" oct="5"/>
+                              <note pname="b" oct="4"/>
+                              <note pname="f" oct="4"/>
+                           </chord>
+                        </layer>
+                      </staff>
+                  </measure>
+                  <measure>
+                     <staff n="1">
+                        <layer>
+                           <beam>
+                           	<note pname="e" oct="4" dur="8" dots="1"/>
+                              <note pname="e" oct="4" dur="16"/>
+                           </beam>
+                           <beam>
+                           	<note pname="e" oct="4" dur="8" dots="1"/>
+                              <note pname="f" oct="4" dur="16"/>
+                           </beam>
+                           <beam>
+                           	<note pname="g" oct="4" dur="8" dots="1"/>
+                              <note pname="c" oct="4" dur="16"/>
+                           </beam>
+                           <beam>
+                           	<note pname="e" oct="4" dur="8" dots="1"/>
+                              <note pname="g" oct="4" dur="16"/>
+                           </beam>
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer>
+                     		<chord dur="4">
+                              <note pname="g" oct="4"/>
+                              <note pname="b" oct="4"/>
+                              <note pname="e" oct="5"/>
+                           </chord>
+                           <chord dur="4">
+                              <note pname="g" oct="4"/>
+                              <note pname="b" oct="4"/>
+                              <note pname="e" oct="5"/>
+                           </chord>
+                           <chord dur="4">
+                              <note pname="g" oct="4"/>
+                              <note pname="b" oct="4"/>
+                              <note pname="e" oct="5"/>
+                           </chord>
+                           <chord dur="4">
+                              <note pname="g" oct="4"/>
+                              <note pname="b" oct="4"/>
+                              <note pname="e" oct="5"/>
+                           </chord>
+                        </layer>
+                      </staff>
+                  </measure>
+                  <measure>
+                     <staff n="1">
+                        <layer>
+                           <note pname="f" oct="4" dur="2" dots="1"/>
+                           <note pname="c" oct="4" dur="4"/>
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer>
+                           <chord dur="4">
+                              <note pname="a" oct="4"/>
+                              <note pname="c" oct="5"/>
+                              <note pname="f" oct="5"/>
+                           </chord>
+                           <beam>
+                              <chord dur="8">
+                              	<note pname="f" oct="5" dots="1"/>
+                              	<note pname="a" oct="4" dots="1"/>
+                           	</chord>
+                              <chord dur="16">
+                                 <note pname="b" oct="4"/>
+                                 <note pname="g" oct="5"/>
+                              </chord>
+                           </beam>
+                           <chord dur="4">
+                              <note pname="c" oct="5"/>
+                              <note pname="a" oct="5"/>
+                           </chord>
+                           <chord dur="4">
+                              <note pname="a" oct="4"/>
+                              <note pname="f" oct="5"/>
+                           </chord>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure>
+                     <staff n="1">
+                        <layer>
+                           <beam>
+                              <note pname="f" oct="4" dur="8" dots="1"/>
+                              <note pname="f" oct="4" dur="16"/>
+                           </beam>
+                           <beam>
+                              <note pname="f" oct="4" dur="8" dots="1"/>
+                              <note pname="g" oct="4" dur="16"/>
+                           </beam>
+                           <beam>
+                              <note pname="a" oct="4" dur="8" dots="1"/>
+                              <note pname="g" oct="4" dur="16"/>
+                           </beam>
+                           <beam>
+                              <note pname="f" oct="4" dur="8" dots="1"/>
+                              <note pname="a" oct="4" dur="16"/>
+                           </beam>
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer>
+                           <chord dur="1">
+                              <note pname="f" oct="4"/>
+                              <note pname="a" oct="4"/>
+                              <note pname="c" oct="5"/>
+                           </chord>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure>
+                     <staff n="1">
+                        <layer>
+                           <beam>
+                              <note pname="g" oct="4" dur="8" dots="1"/>
+                              <note pname="g" oct="4" dur="16"/>
+                           </beam>
+                           <beam>
+                              <note pname="g" oct="4" dur="8" dots="1"/>
+                              <note pname="a" oct="4" dur="16"/>
+                           </beam>
+                           <beam>
+                              <note pname="g" oct="4" dur="8" dots="1"/>
+                              <note pname="f" oct="4" dur="16"/>
+                           </beam>
+                           <beam>
+                              <note pname="d" oct="4" dur="8" dots="1"/>
+                              <note pname="f" oct="4" dur="16"/>
+                           </beam>
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer>
+                           <chord dur="1">
+                              <note pname="g" oct="4"/>
+                              <note pname="b" oct="4"/>
+                              <note pname="d" oct="5"/>
+                           </chord>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure>
+                     <staff n="1">
+                        <layer>
+                           <beam>
+                              <note pname="e" oct="4" dur="8" dots="1"/>
+                              <note pname="e" oct="4" dur="16"/>
+                           </beam>
+                           <beam>
+                              <note pname="e" oct="4" dur="8" dots="1"/>
+                              <note pname="f" oct="4" dur="16"/>
+                           </beam>
+                           <beam>
+                              <note pname="g" oct="4" dur="8" dots="1"/>
+                              <note pname="c" oct="4" dur="16"/>
+                           </beam>
+                           <beam>
+                              <note pname="e" oct="4" dur="8" dots="1"/>
+                              <note pname="g" oct="4" dur="16"/>
+                           </beam>
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer>
+                           <chord dur="1">
+                              <note pname="g" oct="4"/>
+                              <note pname="b" oct="4"/>
+                              <note pname="e" oct="5"/>
+                           </chord>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure>
+                     <staff n="1">
+                        <layer>
+                           <note pname="f" oct="4" dur="1"/>
+                        </layer>
+                     </staff>
+                     <staff n="2">
+                        <layer>
+                           <chord dur="1">
+                              <note pname="f" oct="5"/>
+                              <note pname="c" oct="5"/>
+                              <note pname="a" oct="4"/>
+                           </chord>
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
