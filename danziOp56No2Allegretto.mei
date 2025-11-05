@@ -565,7 +565,7 @@
                                     <note pname="c" oct="6" dur="16"/>
                                     <note pname="d" oct="6" dur="16"/>
                                     <note pname="e" oct="6" dur="16">
-                                        <accid accid="f" edit="caution"/>
+                                        <accid accid="f" func="caution"/>
                                     </note>
                                     <note pname="d" oct="6" dur="4"/>
                                     <note pname="f" oct="5" dur="4">
@@ -3470,7 +3470,7 @@
                                         <note pname="e" oct="5" dur="8" artic="stacc"/>
                                         <note pname="d" oct="5" dur="8" artic="stacc"/>
                                     </beam>
-                                    <note pname="e" oct="5" dur="4"/>ur="8"/>
+                                    <note pname="e" oct="5" dur="4"/>
                                 </layer>
                             </staff>
                             <staff n="3">
