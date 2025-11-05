@@ -7322,7 +7322,7 @@
                                 </layer>
                             </staff>
                         </measure>
-                        <measure n="160">
+                        <measure n="160" right="end">
                             <staff n="1">
                                 <layer>
                                     <rest dur="4"/>
