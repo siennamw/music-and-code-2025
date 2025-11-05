@@ -3776,21 +3776,10 @@
                                     <rest/>
                                 </layer>
                             </staff>
-                            <staff n="2">
-                                <layer>
-                                    <rest dur="1"/>
-                                </layer>
-                            </staff>
                             <staff n="3">
                                 <layer>
                                     <rest dur="1"/>
                                 </layer>
-                            </staff>
-                            <staff n="2">
-                                <layer></layer>
-                            </staff>
-                            <staff n="3">
-                                <layer></layer>
                             </staff>
                             <staff n="4">
                                 <layer>
@@ -4127,12 +4116,6 @@
                                     </beam>
                                 </layer>
                             </staff>
-                            <staff n="2">
-                                <layer></layer>
-                            </staff>
-                            <staff n="3">
-                                <layer></layer>
-                            </staff>
                             <staff n="4">
                                 <layer>
                                     <rest dur="1"/>
@@ -4418,12 +4401,6 @@
                                     <rest dur="1"/>
                                 </layer>
                             </staff>
-                            <staff n="2">
-                                <layer></layer>
-                            </staff>
-                            <staff n="3">
-                                <layer></layer>
-                            </staff>
                             <staff n="4">
                                 <layer>
                                     <note pname="b" oct="4" dur="4"/>
@@ -4472,16 +4449,6 @@
                                         <note pname="c" oct="5" dur="8" artic="stacc"/>
                                         <note pname="c" oct="5" dur="8" artic="stacc"/>
                                     </beam>
-                                </layer>
-                            </staff>
-                            <staff n="2">
-                                <layer>
-                                    <rest dur="1"/>
-                                </layer>
-                            </staff>
-                            <staff n="3">
-                                <layer>
-                                    <rest dur="1"/>
                                 </layer>
                             </staff>
                             <staff n="4">
