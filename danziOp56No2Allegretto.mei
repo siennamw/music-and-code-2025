@@ -28,11 +28,11 @@
                         <staffGrp>
                             <staffDef n="1" clef.shape="G" clef.line="2" lines="5" keysig="2f">
                                 <label>Flute</label>
-                                <instrDef midi.instrname="Flute" midi.instrnum="74"/>
+                                <instrDef midi.instrname="Flute" midi.instrnum="73"/>
                             </staffDef>
                             <staffDef n="2" clef.shape="G" clef.line="2" lines="5" keysig="2f">
                                 <label>Oboe</label>
-                                <instrDef midi.instrname="Oboe" midi.instrnum="69"/>
+                                <instrDef midi.instrname="Oboe" midi.instrnum="68"/>
                             </staffDef>
                             <staffDef n="3" clef.shape="G" clef.line="2" lines="5" keysig="0" trans.semi="-2"
                                       trans.diat="-1">
@@ -42,11 +42,11 @@
                             <staffDef n="4" clef.shape="G" clef.line="2" lines="5" keysig="1f" trans.semi="-7"
                                       trans.diat="-5">
                                 <label>Horn in F</label>
-                                <instrDef midi.instrname="French_Horn" midi.instrnum="61"/>
+                                <instrDef midi.instrname="French_Horn" midi.instrnum="60"/>
                             </staffDef>
                             <staffDef n="5" clef.shape="F" clef.line="4" lines="5" keysig="2f">
                                 <label>Bassoon</label>
-                                <instrDef midi.instrname="Bassoon" midi.instrnum="71"/>
+                                <instrDef midi.instrname="Bassoon" midi.instrnum="70"/>
                             </staffDef>
                         </staffGrp>
                     </scoreDef>
