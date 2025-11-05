@@ -3524,7 +3524,7 @@
                                 </layer>
                             </staff>
                         </measure>
-                        <measure n="68">
+                        <measure n="68" right="rptend">
                             <staff n="1">
                                 <layer>
                                     <note pname="b" oct="5" dur="4"/>
@@ -3544,7 +3544,6 @@
                                     <note pname="c" oct="5" dur="4"/>
                                     <note pname="c" oct="5" dur="4"/>
                                     <rest dur="4"/>
-                                    <barLine form="rptend"/>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -3552,7 +3551,6 @@
                                     <note pname="c" oct="5" dur="4"/>
                                     <note pname="c" oct="5" dur="4"/>
                                     <rest dur="4"/>
-                                    <barLine form="rptend"/>
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -3560,7 +3558,6 @@
                                     <note pname="b" oct="2" dur="4"/>
                                     <note pname="b" oct="2" dur="4"/>
                                     <rest dur="4"/>
-                                    <barLine form="rptend"/>
                                 </layer>
                             </staff>
                         </measure>
