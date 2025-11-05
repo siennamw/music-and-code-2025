@@ -5589,7 +5589,7 @@
                                 </layer>
                             </staff>
                         </measure>
-                        <measure n="108">
+                        <measure n="108" right="dbl">
                             <staff n="1">
                                 <layer>
                                 </layer>
@@ -5632,7 +5632,6 @@
                                             <artic artic="stacc" place="above"/>
                                         </note>
                                     </beam>
-                                    <barLine form="dbl"/>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -5643,11 +5642,18 @@
                             <staff n="5">
                                 <layer>
                                     <note pname="d" oct="3" dur="2" dots="1"/>
-                                    <barLine form="dbl"/>
                                 </layer>
                             </staff>
                         </measure>
-                        <scoreDef keysig="1s"/>
+                        <scoreDef keysig="1s">
+                            <staffGrp>
+                                <staffDef n="1" keysig="1s"/>
+                                <staffDef n="2" keysig="1s"/>
+                                <staffDef n="3" keysig="3s" trans.semi="-2" trans.diat="-1"/>
+                                <staffDef n="4" keysig="2s" trans.semi="-7" trans.diat="-5"/>
+                                <staffDef n="5" keysig="1s"/>
+                            </staffGrp>
+                        </scoreDef>
                         <measure n="109">
                             <staff n="1">
                                 <layer>
