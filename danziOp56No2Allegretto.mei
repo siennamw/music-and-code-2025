@@ -4560,13 +4560,15 @@
                             <slur xml:id="sa56c5l2" curvedir="below" staff="3" tstamp="1" tstamp2="3.75"/>
                             <staff xml:id="sthc1t9" n="1">
                                 <layer xml:id="le5o5ri2">
-                                    <note xml:id="n93rllw1" dots="1" dur="2" oct="5" pname="f"/>
-                                    <note xml:id="nf2rce41" dur="32" oct="5" pname="g"/>
+                                   <note xml:id="n93rllw1" dots="1" dur="2" oct="5" pname="f"/>
+                                   <beam>
+                                      <note xml:id="nf2rce41" dur="32" oct="5" pname="g"/>
                                     <note xml:id="ngzgm9e" dur="32" oct="5" pname="f"/>
-                                    <note xml:id="nntsjgj1" dur="32" oct="5" pname="e">
-                                        <accid xml:id="amuh9wp1" accid="n"/>
-                                    </note>
-                                    <note xml:id="nmbs94x1" dur="32" oct="5" pname="f"/>
+                                      <note xml:id="nntsjgj1" dur="32" oct="5" pname="e">
+                                         <accid xml:id="amuh9wp1"accid="n"/>
+                                      </note>
+                                      <note xml:id="nmbs94x1" dur="32" oct="5" pname="f"/>
+                                   </beam>
                                 </layer>
                             </staff>
                             <staff xml:id="syr5hup2" n="2">
