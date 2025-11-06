@@ -5004,6 +5004,7 @@
                             </staff>
                         </measure>
                         <measure xml:id="m2bu1d4" n="88">
+                           <slur xml:id="sjweqe91" staff="5" startid="#nd3u6wn2" endid="#nct4zqr1" curvedir="below"/>
                             <slur xml:id="sp2uwv1" curvedir="below" staff="3" tstamp="1" tstamp2="3.75"/>
                             <staff xml:id="s37aksu2" n="1">
                                 <layer xml:id="l72lyro2">
@@ -5049,6 +5050,7 @@
                             </staff>
                         </measure>
                         <measure xml:id="mvd5k081" n="89">
+                           <slur xml:id="saweqe91" staff="5" startid="#nbg6b9u1" endid="#nghqzyg" curvedir="below"/>
                             <slur xml:id="san3d6h1" curvedir="below" staff="3" tstamp="1" tstamp2="3.75"/>
                             <staff xml:id="s75n4t5" n="1">
                                 <layer xml:id="li0totq2">
@@ -5085,13 +5087,14 @@
                             </staff>
                             <staff xml:id="solfdx81" n="5">
                                 <layer xml:id="lm6d3d">
-                                    <note xml:id="nct4zqr1" dur="4" oct="2" pname="b"/>
+                                    <note xml:id="nct4zqr1" dur="4" oct="2" pname="b" accid.ges="f"/>
                                     <rest xml:id="r85gkwf" dur="4"/>
-                                    <note xml:id="nbg6b9u1" dur="4" oct="2" pname="b"/>
+                                    <note xml:id="nbg6b9u1" dur="4" oct="2" pname="b" accid.ges="f"/>
                                 </layer>
                             </staff>
                         </measure>
                         <measure xml:id="mumnfr7" n="90">
+                           <slur xml:id="saweq131" staff="5" startid="#ndvs46h1" endid="#nevs60u2" curvedir="below"/>
                             <slur xml:id="sndgi6r2" curvedir="below" staff="3" tstamp="1" tstamp2="3.75"/>
                             <staff xml:id="sa2y7ma" n="1">
                                 <layer xml:id="lrqmlnr1">
