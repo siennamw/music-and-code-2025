@@ -969,7 +969,185 @@
                        <measure n="44">
                             <staff n="1">
                                 <layer>
-                                    <rest dur="4"/>
+                                    <chord>
+                                       <note pname="a" oct="5" dur="2" dots="1"></note>
+                                       <note pname="d" oct="5" dur="2" dots="1"></note>
+                                   </chord>
+                                   <chord>
+                                       <note pname="a" oct="5" dur="4"></note>
+                                       <note pname="d" oct="5" dur="4"></note> <!--TODO add bridge-->
+                                   </chord>
+                                </layer>
+                            </staff>
+                           <staff n="2">
+                              <layer>
+                                 <rest dur="4"/>
+                                 <note pname="d" oct="2" dur="4"></note>
+                                 <note pname="e" oct="2" dur="2"></note>
+                              </layer>
+                           </staff>
+                        </measure>
+                       <measure n="45">
+                            <staff n="1">
+                                <layer>
+                                    <chord>
+                                       <note pname="a" oct="5" dur="2"></note>
+                                       <note pname="d" oct="5" dur="2"></note>
+                                   </chord>
+                                   <chord>
+                                       <note pname="a" oct="5" dur="2"></note>
+                                       <note pname="d" oct="5" dur="2"></note>
+                                   </chord>
+                                </layer>
+                            </staff>
+                           <staff n="2">
+                              <layer>
+                                 <note pname="f" oct="2" accid="n" dur="4"></note>
+                                 <note pname="f" oct="2" accid="s" dur="4"></note>
+                                 <note pname="g" oct="2" accid.ges="s" dur="2"></note>
+                              </layer>
+                           </staff>
+                        </measure>
+                       <measure n="46">
+                            <staff n="1">
+                                <layer>
+                                    <chord>
+                                       <note pname="e" oct="5" dur="2"></note>
+                                       <note pname="b" oct="5" dur="2"></note>
+                                   </chord>
+                                   <rest dur="4" dots="1"/>
+                                   <beam>
+                                       <note pname="g" oct="4" dur="8"></note>
+                                       <note pname="a" oct="4" dur="8"></note>
+                                   </beam>
+                                </layer>
+                            </staff>
+                           <staff n="2">
+                              <layer>
+                                 <note pname="g" oct="2" accid="s" dur="2"></note>
+                                 <note pname="a" oct="2" accid="s" dur="2"></note>
+                              </layer>
+                           </staff>
+                        </measure>
+                       <measure n="47">
+                            <staff n="1">
+                                <layer>
+                                    <chord>
+                                       <note pname="b" oct="4" dur="2"></note>
+                                       <note pname="g" oct="4" dur="2"></note>
+                                   </chord>
+                                   <chord>
+                                       <note pname="g" oct="4" dur="2"></note>
+                                       <note pname="d" oct="4" dur="2"></note>
+                                      <note pname="b" oct="3" dur="2"></note>
+                                   </chord>
+                                </layer>
+                            </staff>
+                           <staff n="2">
+                              <layer>
+                                 <note pname="b" oct="2" dur="4"></note>
+                                       <note pname="c" oct="3" dur="4"></note>
+                                 <note pname="d" oct="3" dur="4"></note>
+                                       <note pname="e" oct="3" dur="4"></note>
+                              </layer>
+                           </staff>
+                        </measure>
+                       <measure n="48">
+                            <staff n="1">
+                                <layer>
+                                    <chord>
+                                       <note pname="a" oct="4" dur="2"></note>
+                                       <note pname="f" accid="n" oct="4" dur="2"></note>
+                                      <note pname="c" accid="n" oct="4" dur="2"></note>
+                                   </chord>
+                                   <chord>
+                                       <note pname="b" oct="4" dur="2"></note>
+                                       <note pname="g" oct="4" dur="2"></note>
+                                      <note pname="d" oct="4" dur="2"></note>
+                                   </chord>
+                                </layer>
+                            </staff>
+                           <staff n="2">
+                              <layer>
+                                <note pname="f" accid="n" oct="2" dur="4"></note>
+                                       <note pname="g" oct="2" dur="4"></note>
+                                      <note pname="a" oct="2" dur="4"></note>
+                                 <note pname="b" oct="2" dur="4"></note>
+                                       <note pname="c" oct="3" dur="4"></note>
+                                      <note pname="d" oct="3" dur="4"></note>
+                              </layer>
+                           </staff>
+                        </measure>
+                       <measure n="49">
+                            <staff n="1">
+                                <layer>
+                                    <beam>
+                                   <note pname="e" oct="5" dur="8"></note>
+                                   <note pname="b" oct="4" dur="8"></note>
+                                   <note pname="e" oct="5" dur="8"></note>
+                                       <note pname="f" oct="5" dur="8"></note>
+                                 </beam>
+                                   <beam>
+                                   <note pname="d" oct="5" dur="8"></note>
+                                   <note pname="b" oct="4" dur="8"></note>
+                                   <note pname="d" oct="5" dur="8"></note>
+                                       <note pname="e" oct="5" dur="8"></note>
+                                 </beam>
+                                </layer>
+                            </staff>
+                           <staff n="2">
+                              <layer>
+                                 <chord>
+                                       <note pname="b" oct="3" dur="4" dots="1"></note>
+                                      <note pname="e" oct="3" dur="4" dots="1"></note>
+                                   </chord>
+                                       <note pname="e" oct="3" dur="8"></note>
+                                       <note pname="e" oct="3" dur="2"></note>
+                              </layer>
+                           </staff>
+                        </measure>
+                       <measure n="50">
+                            <staff n="1">
+                                <layer>
+                                    <beam>
+                                   <note pname="d" oct="5" dur="8"></note>
+                                   <note pname="c" oct="5" dur="8"></note>
+                                   <note pname="b" oct="4" dur="8"></note>
+                                       <note pname="a" oct="4" dur="8"></note>
+                                 </beam>
+                                   <beam>
+                                   <note pname="a" oct="4" dur="8"></note>
+                                   <note pname="g" oct="4" dur="8"></note>
+                                   <note pname="f" oct="4" dur="8"></note>
+                                       <note pname="e" oct="4" dur="8"></note>
+                                 </beam>
+                                </layer>
+                            </staff>
+                           <staff n="2">
+                              <layer>
+                                 <note pname="e" oct="3" dur="4" dots="1"></note>
+                                       <note pname="e" oct="3" dur="8"></note>
+                                       <note pname="e" oct="3" dur="2"></note>
+                              </layer>
+                           </staff>
+                        </measure> <!--End of line 7-->
+                       <scoreDef>
+                          <staffGrp>
+                          <staffDef n="1" keysig="4s"/>
+                             <staffDef n="2" keysig="4s"/>
+                          </staffGrp>
+                       </scoreDef>
+                       <measure n="51">
+                            <staff n="1">
+                                <layer>
+                                    <chord>
+                                       <note pname="a" oct="5" dur="2"></note>
+                                       <note pname="d" oct="5" dur="2"></note>
+                                   </chord>
+                                   <chord>
+                                       <note pname="a" oct="5" dur="2"></note>
+                                       <note pname="d" oct="5" dur="2"></note>
+                                   </chord>
                                 </layer>
                             </staff>
                            <staff n="2">
@@ -978,10 +1156,17 @@
                               </layer>
                            </staff>
                         </measure>
-                       <measure n="45">
+                       <measure n="52">
                             <staff n="1">
                                 <layer>
-                                    <rest dur="4"/>
+                                    <chord>
+                                       <note pname="a" oct="5" dur="2"></note>
+                                       <note pname="d" oct="5" dur="2"></note>
+                                   </chord>
+                                   <chord>
+                                       <note pname="a" oct="5" dur="2"></note>
+                                       <note pname="d" oct="5" dur="2"></note>
+                                   </chord>
                                 </layer>
                             </staff>
                            <staff n="2">
