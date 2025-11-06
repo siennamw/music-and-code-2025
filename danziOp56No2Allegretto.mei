@@ -267,7 +267,7 @@
                         <measure n="5">
                             <staff n="1">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="2">
@@ -303,7 +303,7 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -320,7 +320,7 @@
                         <measure n="6">
                             <staff n="1">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="2">
@@ -360,7 +360,7 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -377,7 +377,7 @@
                         <measure n="7">
                             <staff n="1">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="2">
@@ -425,7 +425,7 @@
                         <measure n="8">
                             <staff n="1">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="2">
@@ -547,7 +547,7 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -831,7 +831,7 @@
                             </staff>
                             <staff n="5">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                         </measure>
@@ -870,14 +870,14 @@
                             </staff>
                             <staff n="5">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                         </measure>
                         <measure n="17">
                             <staff n="1">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="2">
@@ -934,7 +934,7 @@
                         <measure n="18">
                             <staff n="1">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="2">
@@ -994,7 +994,7 @@
                         <measure n="19">
                             <staff n="1">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="2">
@@ -1054,7 +1054,7 @@
                         <measure n="20">
                             <staff n="1">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="2">
@@ -1113,7 +1113,7 @@
                         <measure n="21">
                             <staff n="1">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="2">
@@ -1164,7 +1164,7 @@
                         <measure n="22">
                             <staff n="1">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="2">
@@ -1215,7 +1215,7 @@
                         <measure n="23">
                             <staff n="1">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="2">
@@ -1325,7 +1325,7 @@
                             </staff>
                             <staff n="2">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="3">
@@ -1384,7 +1384,7 @@
                             </staff>
                             <staff n="2">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="3">
@@ -1437,7 +1437,7 @@
                             </staff>
                             <staff n="2">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="3">
@@ -1683,7 +1683,7 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -1709,7 +1709,7 @@
                             </staff>
                             <staff n="2">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="3">
@@ -1738,7 +1738,7 @@
                         <measure n="33">
                             <staff n="1">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="2">
@@ -1806,7 +1806,7 @@
                         <measure n="34">
                             <staff n="1">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="2">
@@ -1914,7 +1914,7 @@
                             </staff>
                             <staff n="2">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="3">
@@ -1954,7 +1954,7 @@
                         <measure n="37">
                             <staff n="1">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="2">
@@ -2022,7 +2022,7 @@
                         <measure n="38">
                             <staff n="1">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="2">
@@ -2234,7 +2234,7 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -2269,7 +2269,7 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -2312,7 +2312,7 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -2387,7 +2387,7 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -2572,7 +2572,7 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -2664,7 +2664,7 @@
                             </staff>
                             <staff n="5">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                         </measure>
@@ -3044,12 +3044,12 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -3090,12 +3090,12 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -3140,12 +3140,12 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -3192,7 +3192,7 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -3596,7 +3596,7 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -3658,7 +3658,7 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -3713,7 +3713,7 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -3775,7 +3775,7 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -3798,7 +3798,7 @@
                         <measure n="73">
                             <staff n="1">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="2">
@@ -3881,7 +3881,7 @@
                         <measure n="74">
                             <staff n="1">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="2">
@@ -3920,7 +3920,7 @@
                         <measure n="75">
                             <staff n="1">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="2">
@@ -4050,7 +4050,7 @@
                             </staff>
                             <staff n="2">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="3">
@@ -4071,7 +4071,7 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -4094,7 +4094,7 @@
                             </staff>
                             <staff n="2">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="3">
@@ -4115,7 +4115,7 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -4138,7 +4138,7 @@
                             </staff>
                             <staff n="2">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="3">
@@ -4159,7 +4159,7 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -4182,7 +4182,7 @@
                             </staff>
                             <staff n="2">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="3">
@@ -4203,7 +4203,7 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -4228,7 +4228,7 @@
                             </staff>
                             <staff n="2">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="3">
@@ -4249,7 +4249,7 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -4271,7 +4271,7 @@
                             </staff>
                             <staff n="2">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="3">
@@ -4395,7 +4395,7 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -4450,7 +4450,7 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -4504,7 +4504,7 @@
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="4">
@@ -4532,7 +4532,7 @@
                             </staff>
                             <staff n="2">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="3">
@@ -4553,7 +4553,7 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -4576,7 +4576,7 @@
                             </staff>
                             <staff n="2">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="3">
@@ -4597,7 +4597,7 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -4618,7 +4618,7 @@
                             </staff>
                             <staff n="2">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="3">
@@ -4639,7 +4639,7 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -4664,7 +4664,7 @@
                             </staff>
                             <staff n="2">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="3">
@@ -4685,7 +4685,7 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -4703,7 +4703,7 @@
                             </staff>
                             <staff n="2">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="3">
@@ -4724,7 +4724,7 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -4744,7 +4744,7 @@
                             </staff>
                             <staff n="2">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="3">
@@ -5658,12 +5658,12 @@
                             </staff>
                             <staff n="2">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="3">
                                 <layer>
-                                    <rest dur="2" dots="1"/>
+                                    <rest dur="1" dur.ges="2" dots.ges="1"/>
                                 </layer>
                             </staff>
                             <staff n="4">
