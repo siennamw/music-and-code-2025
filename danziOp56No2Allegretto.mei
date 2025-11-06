@@ -4415,13 +4415,15 @@
                         <measure n="81">
                             <staff n="1">
                                 <layer>
-                                    <note pname="f" oct="5" dur="2" dots="1"/>
-                                    <note pname="g" oct="5" dur="32"/>
-                                    <note pname="f" oct="5" dur="32"/>
-                                    <note pname="e" oct="5" dur="32">
-                                        <accid accid="n"/>
-                                    </note>
-                                    <note pname="f" oct="5" dur="32"/>
+                                   <note pname="f" oct="5" dur="2" dots="1"/>
+                                   <beam>
+                                      <note pname="g" oct="5" dur="32"/>
+                                      <note pname="f" oct="5" dur="32"/>
+                                      <note pname="e" oct="5" dur="32">
+                                         <accid accid="n"/>
+                                      </note>
+                                      <note pname="f" oct="5" dur="32"/>
+                                   </beam>
                                 </layer>
                             </staff>
                             <staff n="2">
