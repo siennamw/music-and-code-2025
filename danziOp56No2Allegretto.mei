@@ -18,6 +18,20 @@
             </respStmt>
          </titleStmt>
          <pubStmt xml:id="pf4plqp1"/>
+          <sourceDesc>
+              <source>
+                  <bibl facs="https://ks15.imslp.org/files/imglnks/usimg/3/31/IMSLP214868-WIMA.b600-Danzi_op56_no2.pdf">
+                      <editor>
+                          <persName auth.uri="https://imslp.org/wiki/Category:Shannon,_William_R.">
+                              William R. Shannon
+                          </persName>
+                      </editor>
+                      <publisher>
+                          <corpName auth.uri="https://imslp.org/">IMSLP.org</corpName>
+                      </publisher>
+                  </bibl>
+              </source>
+          </sourceDesc>
       </fileDesc>
    </meiHead>
     <music xml:id="m7mxdc4">
