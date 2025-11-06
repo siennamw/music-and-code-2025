@@ -24,7 +24,7 @@
         <body xml:id="bc6z0k8">
             <mdiv xml:id="mmwjgkg1">
                 <score xml:id="si849nc1">
-                    <scoreDef xml:id="sd2tdib1" keysig="2f" meter.count="3" meter.unit="4">
+                    <scoreDef xml:id="sd2tdib1" keysig="2f" meter.count="3" meter.unit="4" midi.bpm="138">>
                         <staffGrp xml:id="sn5q0df">
                             <staffDef xml:id="smfi9d81" clef.line="2" clef.shape="G" keysig="2f" lines="5" n="1">
                                 <label xml:id="lutvdrs2">Flute</label>
@@ -50,6 +50,9 @@
                     </scoreDef>
                     <section xml:id="s9ywy1p1">
                         <measure xml:id="mj9chgo2" n="1">
+                            <tempo staff="1" tstamp="1.0">Allegretto
+                                <symbol glyph.auth="smufl" glyph.name="noteQuarterUp" glyph.num="U+E1D5"/> = 138
+                            </tempo>
                             <dynam xml:id="dcqjh7z1" place="below" staff="3" tstamp="1">p</dynam>
                             <staff xml:id="s9dufc21" n="1">
                                 <layer xml:id="lw3oce">
