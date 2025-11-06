@@ -390,7 +390,11 @@
                               	</verse>
                               </note>
                            <rest/>
-                           <note pname="c" oct="4" dur="4"/>
+                           <note pname="c" oct="4" dur="4">
+                              <verse>
+                                 	<syl con="d" wordpos="i">Hm</syl>
+                              	</verse>
+                              </note>
                         </layer>
                      </staff>
                      <staff n="2">
@@ -441,20 +445,52 @@
                      <staff n="1">
                         <layer>
                            <beam>
-                           	<note pname="f" oct="4" dur="8" dots="1"/>
-                              <note pname="f" oct="4" dur="16"/>
+                           	<note pname="f" oct="4" dur="8" dots="1">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">mm,</syl>
+                              	</verse>
+                              </note>
+                              <note pname="f" oct="4" dur="16">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">it's</syl>
+                              	</verse>
+                              </note>
                            </beam>
                            <beam>
-                           	<note pname="f" oct="4" dur="8" dots="1"/>
-                              <note pname="g" oct="4" dur="16"/>
+                           	<note pname="f" oct="4" dur="8" dots="1">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">such</syl>
+                              	</verse>
+                              </note>
+                              <note pname="g" oct="4" dur="16">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">a</syl>
+                              	</verse>
+                              </note>
                            </beam>
                            <beam>
-                           	<note pname="a" oct="4" dur="8" dots="1"/>
-                              <note pname="g" oct="4" dur="16"/>
+                           	<note pname="a" oct="4" dur="8" dots="1">
+                                 <verse>
+                                 	<syl con="d" wordpos="i">per</syl>
+                              	</verse>
+                              </note>
+                              <note pname="g" oct="4" dur="16">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">fect</syl>
+                              	</verse>
+                              </note>
                            </beam>
                            <beam>
-                           	<note pname="f" oct="4" dur="8" dots="1"/>
-                              <note pname="a" oct="4" dur="16"/>
+                           	<note pname="f" oct="4" dur="8" dots="1">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">night,</syl>
+                              	</verse>
+                              </note>
+                              <note pname="a" oct="4" dur="16">
+                                 <verse>
+                                 	<syl con="d" wordpos="i">Hm</syl>
+                              	</verse>
+                              </note>
                            </beam>
                         </layer>
                      </staff>
@@ -496,20 +532,52 @@
                      <staff n="1">
                         <layer>
                            <beam>
-                           	<note pname="g" oct="4" dur="8" dots="1"/>
-                              <note pname="g" oct="4" dur="16"/>
+                           	<note pname="g" oct="4" dur="8" dots="1">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">mm,</syl>
+                              	</verse>
+                              </note>
+                              <note pname="g" oct="4" dur="16">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">it</syl>
+                              	</verse>
+                              </note>
                            </beam>
                            <beam>
-                           	<note pname="g" oct="4" dur="8" dots="1"/>
-                              <note pname="a" oct="4" dur="16"/>
+                           	<note pname="g" oct="4" dur="8" dots="1">
+                                 <verse>
+                                 	<syl con="d" wordpos="i">does</syl>
+                              	</verse>
+                              </note>
+                              <note pname="a" oct="4" dur="16">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">n't</syl>
+                              	</verse>
+                              </note>
                            </beam>
                            <beam>
-                           	<note pname="g" oct="4" dur="8" dots="1"/>
-                              <note pname="f" oct="4" dur="16"/>
+                           	<note pname="g" oct="4" dur="8" dots="1">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">seem</syl>
+                              	</verse>
+                              </note>
+                              <note pname="f" oct="4" dur="16">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">quite</syl>
+                              	</verse>
+                              </note>
                            </beam>
                            <beam>
-                           	<note pname="d" oct="4" dur="8" dots="1"/>
-                              <note pname="f" oct="4" dur="16"/>
+                           	<note pname="d" oct="4" dur="8" dots="1">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">right,</syl>
+                              	</verse>
+                              </note>
+                              <note pname="f" oct="4" dur="16">
+                                 <verse>
+                                 	<syl con="d" wordpos="i">Hm</syl>
+                              	</verse>
+                              </note>
                            </beam>
                         </layer>
                      </staff>
@@ -551,20 +619,52 @@
                      <staff n="1">
                         <layer>
                            <beam>
-                           	<note pname="e" oct="4" dur="8" dots="1"/>
-                              <note pname="e" oct="4" dur="16"/>
+                           	<note pname="e" oct="4" dur="8" dots="1">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">mm,</syl>
+                              	</verse>
+                              </note>
+                              <note pname="e" oct="4" dur="16">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">that</syl>
+                              	</verse>
+                              </note>
                            </beam>
                            <beam>
-                           	<note pname="e" oct="4" dur="8" dots="1"/>
-                              <note pname="f" oct="4" dur="16"/>
+                           	<note pname="e" oct="4" dur="8" dots="1">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">it</syl>
+                              	</verse>
+                              </note>
+                              <note pname="f" oct="4" dur="16">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">should</syl>
+                              	</verse>
+                              </note>
                            </beam>
                            <beam>
-                           	<note pname="g" oct="4" dur="8" dots="1"/>
-                              <note pname="c" oct="4" dur="16"/>
+                           	<note pname="g" oct="4" dur="8" dots="1">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">be</syl>
+                              	</verse>
+                              </note>
+                              <note pname="c" oct="4" dur="16">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">my</syl>
+                              	</verse>
+                              </note>
                            </beam>
                            <beam>
-                           	<note pname="e" oct="4" dur="8" dots="1"/>
-                              <note pname="g" oct="4" dur="16"/>
+                           	<note pname="e" oct="4" dur="8" dots="1">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">last</syl>
+                              	</verse>
+                              </note>
+                              <note pname="g" oct="4" dur="16">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">with</syl>
+                              	</verse>
+                              </note>
                            </beam>
                         </layer>
                      </staff>
@@ -605,8 +705,16 @@
                   <measure n="10">
                      <staff n="1">
                         <layer>
-                           <note pname="f" oct="4" dur="2" dots="1"/>
-                           <note pname="c" oct="4" dur="4"/>
+                           <note pname="f" oct="4" dur="2" dots="1">
+                              <verse>
+                                 	<syl con="d" wordpos="t">you.</syl>
+                              	</verse>
+                              </note>
+                           <note pname="c" oct="4" dur="4">
+                              <verse>
+                                 	<syl con="d" wordpos="i">Hm</syl>
+                              	</verse>
+                              </note>
                         </layer>
                      </staff>
                      <staff n="2">
@@ -653,20 +761,48 @@
                   	<staff n="1">
                         <layer>
                            <beam>
-                           	<note pname="f" oct="4" dur="8" dots="1" syl="mm,"/>
-                              <note pname="f" oct="4" dur="16" syl="I"/>
+                           	<note pname="f" oct="4" dur="8" dots="1">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">mm,</syl>
+                              	</verse>
+                              </note>
+                              <note pname="f" oct="4" dur="16">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">and</syl>
+                              	</verse>
+                              </note>
                            </beam>
                            <beam>
-                           	<note pname="f" oct="4" dur="8" dots="1" syl="want"/>
-                              <note pname="g" oct="4" dur="16" syl="to"/>
+                           	<note pname="f" oct="4" dur="8" dots="1">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">come</syl>
+                              	</verse>
+                              </note>
+                              <note pname="g" oct="4" dur="16">
+                                 <verse>
+                                 	<syl con="d" wordpos="i">Sep</syl>
+                              	</verse>
+                              </note>
                            </beam>
                            <beam>
-                           	<note pname="a" oct="4" dur="8" dots="1" syl="li"/>
-                              <note pname="g" oct="4" dur="16" syl="-"/>
+                           	<note pname="a" oct="4" dur="8" dots="1">
+                                 <verse>
+                                 	<syl con="d" wordpos="m">tem</syl>
+                              	</verse>
+                              </note>
+                              <note pname="g" oct="4" dur="16"/>
                            </beam>
                            <beam>
-                           	<note pname="f" oct="4" dur="8" dots="1" syl="ger"/>
-                              <note pname="a" oct="4" dur="16" syl="Hm"/>
+                           	<note pname="f" oct="4" dur="8" dots="1">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">ber,</syl>
+                              	</verse>
+                              </note>
+                              <note pname="a" oct="4" dur="16">
+                                 <verse>
+                                 	<syl con="d" wordpos="i">Hm</syl>
+                              	</verse>
+                              </note>
                            </beam>
                         </layer>
                      </staff>
@@ -708,20 +844,48 @@
                      <staff n="1">
                         <layer>
                         	<beam>
-                           	<note pname="g" oct="4" dur="8" dots="1"/>
-                              <note pname="g" oct="4" dur="16"/>
+                           	<note pname="g" oct="4" dur="8" dots="1">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">mm,</syl>
+                              	</verse>
+                              </note>
+                              <note pname="g" oct="4" dur="16">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">we'll</syl>
+                              	</verse>
+                              </note>
                            </beam>
                            <beam>
-                           	<note pname="g" oct="4" dur="8" dots="1"/>
-                              <note pname="a" oct="4" dur="16"/>
+                           	<note pname="g" oct="4" dur="8" dots="1">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">all</syl>
+                              	</verse>
+                              </note>
+                              <note pname="a" oct="4" dur="16">
+                                 <verse>
+                                 	<syl con="d" wordpos="i">re</syl>
+                              	</verse>
+                              </note>
                            </beam>
                            <beam>
-                           	<note pname="g" oct="4" dur="8" dots="1"/>
+                           	<note pname="g" oct="4" dur="8" dots="1">
+                                 <verse>
+                                 	<syl con="d" wordpos="m">mem</syl>
+                              	</verse>
+                              </note>
                               <note pname="f" oct="4" dur="16"/>
                            </beam>
                            <beam>
-                           	<note pname="d" oct="4" dur="8" dots="1"/>
-                              <note pname="f" oct="4" dur="16"/>
+                           	<note pname="d" oct="4" dur="8" dots="1">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">ber,</syl>
+                              	</verse>
+                              </note>
+                              <note pname="f" oct="4" dur="16">
+                                 <verse>
+                                 	<syl con="d" wordpos="i">Hm</syl>
+                              	</verse>
+                              </note>
                            </beam>
                         </layer>
                      </staff>
@@ -763,20 +927,52 @@
                      <staff n="1">
                         <layer>
                            <beam>
-                           	<note pname="e" oct="4" dur="8" dots="1"/>
-                              <note pname="e" oct="4" dur="16"/>
+                           	<note pname="e" oct="4" dur="8" dots="1">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">mm,</syl>
+                              	</verse>
+                              </note>
+                              <note pname="e" oct="4" dur="16">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">our</syl>
+                              	</verse>
+                              </note>
                            </beam>
                            <beam>
-                           	<note pname="e" oct="4" dur="8" dots="1"/>
-                              <note pname="f" oct="4" dur="16"/>
+                           	<note pname="e" oct="4" dur="8" dots="1">
+                                 <verse>
+                                 	<syl con="d" wordpos="i">camp</syl>
+                              	</verse>
+                              </note>
+                              <note pname="f" oct="4" dur="16">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">ing</syl>
+                              	</verse>
+                              </note>
                            </beam>
                            <beam>
-                           	<note pname="g" oct="4" dur="8" dots="1"/>
-                              <note pname="c" oct="4" dur="16"/>
+                           	<note pname="g" oct="4" dur="8" dots="1">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">days</syl>
+                              	</verse>
+                              </note>
+                              <note pname="c" oct="4" dur="16">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">and</syl>
+                              	</verse>
+                              </note>
                            </beam>
                            <beam>
-                           	<note pname="e" oct="4" dur="8" dots="1"/>
-                              <note pname="g" oct="4" dur="16"/>
+                           	<note pname="e" oct="4" dur="8" dots="1">
+                                 <verse>
+                                 	<syl con="d" wordpos="i">friend</syl>
+                              	</verse>
+                              </note>
+                              <note pname="g" oct="4" dur="16">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">ships</syl>
+                              	</verse>
+                              </note>
                            </beam>
                         </layer>
                      </staff>
@@ -820,9 +1016,17 @@
                   <measure n="14">
                      <staff n="1">
                         <layer>
-                           <note pname="f" oct="4" dur="2"/>
+                           <note pname="f" oct="4" dur="2">
+                              <verse>
+                                 	<syl con="d" wordpos="t">true.</syl>
+                              	</verse>
+                              </note>
                            <rest/>
-                           <note pname="c" oct="4" dur="4"/>
+                           <note pname="c" oct="4" dur="4">
+                              <verse>
+                                 	<syl con="d" wordpos="i">Hm</syl>
+                              </verse>
+                           </note>
                         </layer>
                      </staff>
                      <staff n="2">
@@ -873,20 +1077,52 @@
                      <staff n="1">
                         <layer>
                            <beam>
-                           	<note pname="f" oct="4" dur="8" dots="1"/>
-                              <note pname="f" oct="4" dur="16"/>
+                           	<note pname="f" oct="4" dur="8" dots="1">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">mm,</syl>
+                              	</verse>
+                              </note>
+                              <note pname="f" oct="4" dur="16">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">and</syl>
+                              	</verse>
+                              </note>
                            </beam>
                            <beam>
-                           	<note pname="f" oct="4" dur="8" dots="1"/>
-                              <note pname="g" oct="4" dur="16"/>
+                           	<note pname="f" oct="4" dur="8" dots="1">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">as</syl>
+                              	</verse>
+                              </note>
+                              <note pname="g" oct="4" dur="16">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">the</syl>
+                              	</verse>
+                              </note>
                            </beam>
                            <beam>
-                           	<note pname="a" oct="4" dur="8" dots="1"/>
-                              <note pname="g" oct="4" dur="16"/>
+                           	<note pname="a" oct="4" dur="8" dots="1">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">years</syl>
+                              	</verse>
+                              </note>
+                              <note pname="g" oct="4" dur="16">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">go</syl>
+                              	</verse>
+                              </note>
                            </beam>
                            <beam>
-                           	<note pname="f" oct="4" dur="8" dots="1"/>
-                              <note pname="a" oct="4" dur="16"/>
+                           	<note pname="f" oct="4" dur="8" dots="1">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">by,</syl>
+                              	</verse>
+                              </note>
+                              <note pname="a" oct="4" dur="16">
+                                 <verse>
+                                 	<syl con="d" wordpos="i">Hm</syl>
+                              	</verse>
+                              </note>
                            </beam>
                         </layer>
                      </staff>
@@ -928,20 +1164,52 @@
                      <staff n="1">
                         <layer>
                            <beam>
-                           	<note pname="g" oct="4" dur="8" dots="1"/>
-                              <note pname="g" oct="4" dur="16"/>
+                           	<note pname="g" oct="4" dur="8" dots="1">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">mm,</syl>
+                              	</verse>
+                              </note>
+                              <note pname="g" oct="4" dur="16">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">we'll</syl>
+                              	</verse>
+                              </note>
                            </beam>
                            <beam>
-                           	<note pname="g" oct="4" dur="8" dots="1"/>
-                              <note pname="a" oct="4" dur="16"/>
+                           	<note pname="g" oct="4" dur="8" dots="1">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">all</syl>
+                              	</verse>
+                              </note>
+                              <note pname="a" oct="4" dur="16">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">look</syl>
+                              	</verse>
+                              </note>
                            </beam>
                            <beam>
-                           	<note pname="g" oct="4" dur="8" dots="1"/>
-                              <note pname="f" oct="4" dur="16"/>
+                           	<note pname="g" oct="4" dur="8" dots="1">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">back</syl>
+                              	</verse>
+                              </note>
+                              <note pname="f" oct="4" dur="16">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">and</syl>
+                              	</verse>
+                              </note>
                            </beam>
                            <beam>
-                           	<note pname="d" oct="4" dur="8" dots="1"/>
-                              <note pname="f" oct="4" dur="16"/>
+                           	<note pname="d" oct="4" dur="8" dots="1">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">sigh</syl>
+                              	</verse>
+                              </note>
+                              <note pname="f" oct="4" dur="16">
+                                 <verse>
+                                 	<syl con="d" wordpos="i">Hm</syl>
+                              	</verse>
+                              </note>
                            </beam>
                         </layer>
                      </staff>
@@ -983,20 +1251,52 @@
                      <staff n="1">
                         <layer>
                            <beam>
-                           	<note pname="e" oct="4" dur="8" dots="1"/>
-                              <note pname="e" oct="4" dur="16"/>
+                           	<note pname="e" oct="4" dur="8" dots="1">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">mm,</syl>
+                              	</verse>
+                              </note>
+                              <note pname="e" oct="4" dur="16">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">it</syl>
+                              	</verse>
+                              </note>
                            </beam>
                            <beam>
-                           	<note pname="e" oct="4" dur="8" dots="1"/>
-                              <note pname="f" oct="4" dur="16"/>
+                           	<note pname="e" oct="4" dur="8" dots="1">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">was</syl>
+                              	</verse>
+                              </note>
+                              <note pname="f" oct="4" dur="16">
+                                 <verse>
+                                 	<syl con="d" wordpos="i">good</syl>
+                              	</verse>
+                              </note>
                            </beam>
                            <beam>
-                           	<note pname="g" oct="4" dur="8" dots="1"/>
-                              <note pname="c" oct="4" dur="16"/>
+                           	<note pname="g" oct="4" dur="8" dots="1">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">night</syl>
+                              	</verse>
+                              </note>
+                              <note pname="c" oct="4" dur="16">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">and</syl>
+                              	</verse>
+                              </note>
                            </beam>
                            <beam>
-                           	<note pname="e" oct="4" dur="8" dots="1"/>
-                              <note pname="g" oct="4" dur="16"/>
+                           	<note pname="e" oct="4" dur="8" dots="1">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">not</syl>
+                              	</verse>
+                              </note>
+                              <note pname="g" oct="4" dur="16">
+                                 <verse>
+                                 	<syl con="d" wordpos="i">good</syl>
+                              	</verse>
+                              </note>
                            </beam>
                         </layer>
                      </staff>
@@ -1040,8 +1340,16 @@
                   <measure n="18">
                      <staff n="1">
                         <layer>
-                           <note pname="f" oct="4" dur="2" dots="1"/>
-                           <note pname="c" oct="4" dur="4"/>
+                           <note pname="f" oct="4" dur="2" dots="1">
+                              <verse>
+                                 	<syl con="d" wordpos="t">bye.</syl>
+                              	</verse>
+                              </note>
+                           <note pname="c" oct="4" dur="4">
+                              <verse>
+                                 	<syl con="d" wordpos="i">Hm</syl>
+                              	</verse>
+                              </note>
                         </layer>
                      </staff>
                      <staff n="2">
@@ -1086,20 +1394,48 @@
                      <staff n="1">
                         <layer>
                            <beam>
-                              <note pname="f" oct="4" dur="8" dots="1"/>
-                              <note pname="f" oct="4" dur="16"/>
+                              <note pname="f" oct="4" dur="8" dots="1">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">mm,</syl>
+                              	</verse>
+                              </note>
+                              <note pname="f" oct="4" dur="16">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">I</syl>
+                              	</verse>
+                              </note>
                            </beam>
                            <beam>
-                              <note pname="f" oct="4" dur="8" dots="1"/>
+                              <note pname="f" oct="4" dur="8" dots="1">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">want</syl>
+                              	</verse>
+                              </note>
+                              <note pname="g" oct="4" dur="16">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">to</syl>
+                              	</verse>
+                              </note>
+                           </beam>
+                           <beam>
+                              <note pname="a" oct="4" dur="8" dots="1">
+                                 <verse>
+                                 	<syl con="d" wordpos="i">lin</syl>
+                              	</verse>
+                              </note>
                               <note pname="g" oct="4" dur="16"/>
                            </beam>
                            <beam>
-                              <note pname="a" oct="4" dur="8" dots="1"/>
-                              <note pname="g" oct="4" dur="16"/>
-                           </beam>
-                           <beam>
-                              <note pname="f" oct="4" dur="8" dots="1"/>
-                              <note pname="a" oct="4" dur="16"/>
+                              <note pname="f" oct="4" dur="8" dots="1">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">ger,</syl>
+                              	</verse>
+                              </note>
+                              <note pname="a" oct="4" dur="16">
+                                 <verse>
+                                 	<syl con="d" wordpos="i">Hm</syl>
+                              	</verse>
+                              </note>
                            </beam>
                         </layer>
                      </staff>
@@ -1122,20 +1458,48 @@
                      <staff n="1">
                         <layer>
                            <beam>
-                              <note pname="g" oct="4" dur="8" dots="1"/>
-                              <note pname="g" oct="4" dur="16"/>
+                              <note pname="g" oct="4" dur="8" dots="1">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">mm,</syl>
+                              	</verse>
+                              </note>
+                              <note pname="g" oct="4" dur="16">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">a</syl>
+                              	</verse>
+                              </note>
                            </beam>
                            <beam>
-                              <note pname="g" oct="4" dur="8" dots="1"/>
-                              <note pname="a" oct="4" dur="16"/>
+                              <note pname="g" oct="4" dur="8" dots="1">
+                                 <verse>
+                                 	<syl con="d" wordpos="i">lit</syl>
+                              	</verse>
+                              </note>
+                              <note pname="a" oct="4" dur="16">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">tle</syl>
+                              	</verse>
+                              </note>
                            </beam>
                            <beam>
-                              <note pname="g" oct="4" dur="8" dots="1"/>
+                              <note pname="g" oct="4" dur="8" dots="1">
+                                 <verse>
+                                 	<syl con="d" wordpos="i">lon</syl>
+                              	</verse>
+                              </note>
                               <note pname="f" oct="4" dur="16"/>
                            </beam>
                            <beam>
-                              <note pname="d" oct="4" dur="8" dots="1"/>
-                              <note pname="f" oct="4" dur="16"/>
+                              <note pname="d" oct="4" dur="8" dots="1">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">ger,</syl>
+                              	</verse>
+                              </note>
+                              <note pname="f" oct="4" dur="16">
+                                 <verse>
+                                 	<syl con="d" wordpos="i">Hm</syl>
+                              	</verse>
+                              </note>
                            </beam>
                         </layer>
                      </staff>
@@ -1158,20 +1522,52 @@
                      <staff n="1">
                         <layer>
                            <beam>
-                              <note pname="e" oct="4" dur="8" dots="1"/>
-                              <note pname="e" oct="4" dur="16"/>
+                              <note pname="e" oct="4" dur="8" dots="1">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">mm,</syl>
+                              	</verse>
+                              </note>
+                              <note pname="e" oct="4" dur="16">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">a</syl>
+                              	</verse>
+                              </note>
                            </beam>
                            <beam>
-                              <note pname="e" oct="4" dur="8" dots="1"/>
-                              <note pname="f" oct="4" dur="16"/>
+                              <note pname="e" oct="4" dur="8" dots="1">
+                                 <verse>
+                                 	<syl con="d" wordpos="i">lit</syl>
+                              	</verse>
+                              </note>
+                              <note pname="f" oct="4" dur="16">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">tle</syl>
+                              	</verse>
+                              </note>
                            </beam>
                            <beam>
-                              <note pname="g" oct="4" dur="8" dots="1"/>
-                              <note pname="c" oct="4" dur="16"/>
+                              <note pname="g" oct="4" dur="8" dots="1">
+                                 <verse>
+                                 	<syl con="d" wordpos="i">lon</syl>
+                              	</verse>
+                              </note>
+                              <note pname="c" oct="4" dur="16">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">ger</syl>
+                              	</verse>
+                              </note>
                            </beam>
                            <beam>
-                              <note pname="e" oct="4" dur="8" dots="1"/>
-                              <note pname="g" oct="4" dur="16"/>
+                              <note pname="e" oct="4" dur="8" dots="1">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">here</syl>
+                              	</verse>
+                              </note>
+                              <note pname="g" oct="4" dur="16">
+                                 <verse>
+                                 	<syl con="d" wordpos="t">with</syl>
+                              	</verse>
+                              </note>
                            </beam>
                         </layer>
                      </staff>
@@ -1193,7 +1589,11 @@
                   <measure n="22">
                      <staff n="1">
                         <layer>
-                           <note pname="f" oct="4" dur="1"/>
+                           <note pname="f" oct="4" dur="1">
+                              <verse>
+                                 	<syl con="d" wordpos="t">you.</syl>
+                              	</verse>
+                              </note>
                         </layer>
                      </staff>
                      <staff n="2">
