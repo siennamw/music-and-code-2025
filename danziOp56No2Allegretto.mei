@@ -5833,6 +5833,7 @@
                             </staffGrp>
                         </scoreDef>
                         <measure xml:id="myj2nkr2" n="109">
+                            <slur staff="2" curvedir="below" layer="1" startid="njpdhix2" endid="nfm4upe1"/>
                             <dir place="below" staff="2" tstamp="1">dolce</dir>
                             <staff xml:id="s2fe4d7" n="1">
                                 <layer xml:id="l7c63xz1">
@@ -5887,6 +5888,7 @@
                             </staff>
                         </measure>
                         <measure xml:id="masa7j2" n="110">
+                            <slur staff="2" curvedir="above" layer="1" startid="n3b45af" endid="nbzwjfd1"/>
                             <staff xml:id="sobkq0u1" n="1">
                                 <layer xml:id="lji9ud21">
                                     <rest xml:id="rmjbt28" dots="1" dur="2"/>
@@ -5941,6 +5943,7 @@
                             </staff>
                         </measure>
                         <measure xml:id="m96arhn2" n="111">
+                            <slur staff="2" curvedir="above" layer="1" startid="nhltkrn1" endid="nxemroo2"/>
                             <staff xml:id="sx4j8dz1" n="1">
                                 <layer xml:id="lazeh221">
                                     <rest xml:id="r8ro6el1" dots="1" dur="2"/>
@@ -5995,6 +5998,8 @@
                             </staff>
                         </measure>
                         <measure xml:id="mi0rtu4" n="112">
+                            <slur staff="2" curvedir="above" layer="1" startid="ngj9dis1" endid="nfwwm9y1"/>
+                            <dynam place="below" staff="2" tstamp="3">f</dynam>
                             <staff xml:id="s94b0zp2" n="1">
                                 <layer xml:id="ld2kcfp2">
                                     <rest xml:id="r8tpemr1" dots="1" dur="2"/>
@@ -6002,11 +6007,13 @@
                             </staff>
                             <staff xml:id="sfjjd1o2" n="2">
                                 <layer xml:id="l9ja4jp2">
+                                   <tuplet num="3" bracket.visible="false">
                                    <beam xml:id="b68oax9">
                                       <note xml:id="ngj9dis1" accid.ges="s" dur="8" oct="5" pname="f"/>
                                       <note xml:id="nso8pw5" dur="8" oct="5" pname="e"/>
                                       <note xml:id="nfwwm9y1" dur="8" oct="5" pname="d"/>
                                    </beam>
+                                   </tuplet>
                                    <note xml:id="n52eecu1" dur="4" oct="5" pname="d"/>
                                    <rest xml:id="rk1jm2m2" dur="8"/>
                                    <note xml:id="njnozx41" dur="8" oct="5" pname="d"/>
@@ -6218,7 +6225,7 @@
                                 <layer xml:id="lyp7uek2">
                                     <note xml:id="n7ztefl2" accid.ges="s" dur="4" oct="4" pname="f"/>
                                     <note xml:id="nfzcfkf" dur="4" oct="5" pname="d"/>
-                                    <note xml:id="ntrhbrl2" dur="4" oct="5" pname="d"/>
+                                    <note xml:id="ntrhbrl2" dur="4" oct="5" pname="d" tie="i"/>
                                 </layer>
                             </staff>
                             <staff xml:id="snyhvfl1" n="3">
@@ -6268,7 +6275,7 @@
                             </staff>
                             <staff xml:id="semwd961" n="2">
                                 <layer xml:id="lhf2arh1">
-                                    <note xml:id="nca8oka" dur="4" oct="5" pname="d"/>
+                                    <note xml:id="nca8oka" dur="4" oct="5" pname="d" tie="t"/>
                                     <note xml:id="nb5wknj1" accid.ges="s" dur="4" oct="5" pname="f"/>
                                     <note xml:id="ni5fsgb1" dur="4" oct="5" pname="g"/>
                                 </layer>
@@ -6316,7 +6323,7 @@
                                 <layer xml:id="lt588td1">
                                     <note xml:id="n1q75xr2" dur="4" oct="5" pname="d"/>
                                     <rest xml:id="rywtm6k1"/>
-                                    <note xml:id="na4gq3i2" dur="4" oct="5" pname="d"/>
+                                    <note xml:id="na4gq3i2" dur="4" oct="5" pname="d" tie="i"/>
                                 </layer>
                             </staff>
                             <staff xml:id="s0awwsg1" n="3">
@@ -6364,7 +6371,7 @@
                             </staff>
                             <staff xml:id="sxp4r3v1" n="2">
                                 <layer xml:id="ldonca11">
-                                    <note xml:id="n97ea9m1" dur="4" oct="5" pname="d"/>
+                                    <note xml:id="n97ea9m1" dur="4" oct="5" pname="d" tie="t"/>
                                     <note xml:id="niddaxs1" accid.ges="s" dur="4" oct="5" pname="f"/>
                                     <note xml:id="nidiy3t1" dur="4" oct="5" pname="g"/>
                                 </layer>
