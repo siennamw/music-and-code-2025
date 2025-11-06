@@ -5731,7 +5731,16 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="4"/>
+                                   <beam>
+                                      <note pname="d" oct="5" dur="8" artic="stacc"  accid="n"/>
+                                    <note pname="c" oct="5" dur="8" artic="stacc"/>
+                                   </beam>
+                                   <beam>
+                                      <note pname="d" oct="5" dur="8" artic="stacc"/>
+                                    <note pname="c" oct="5" dur="8" artic="stacc"/>
+                                   </beam>
+                                   <note pname="d" oct="5" dur="8" artic="stacc"/>
+                                   <rest dur="8"/>
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -5768,7 +5777,16 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="4"/>
+                                    <beam>
+                                      <note pname="e" oct="5" dur="8" artic="stacc"/>
+                                    <note pname="d" oct="5" dur="8" artic="stacc"   accid="s"/>
+                                   </beam>
+                                   <beam>
+                                      <note pname="e" oct="5" dur="8" artic="stacc"/>
+                                    <note pname="d" oct="5" dur="8" artic="stacc"/>
+                                   </beam>
+                                   <note pname="e" oct="5" dur="8" artic="stacc"/>
+                                   <rest dur="8"/>
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -5805,7 +5823,16 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="4"/>
+                                    <beam>
+                                      <note pname="d" oct="5" dur="8" artic="stacc"  accid="n"/>
+                                    <note pname="c" oct="5" dur="8" artic="stacc"/>
+                                   </beam>
+                                   <beam>
+                                      <note pname="d" oct="5" dur="8" artic="stacc"/>
+                                    <note pname="c" oct="5" dur="8" artic="stacc"/>
+                                   </beam>
+                                   <note pname="d" oct="5" dur="8" artic="stacc"/>
+                                   <rest dur="8"/>
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -5842,7 +5869,16 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="4"/>
+                                    <beam>
+                                      <note pname="e" oct="5" dur="8" artic="stacc"/>
+                                    <note pname="d" oct="5" dur="8" artic="stacc"   accid="s"/>
+                                   </beam>
+                                   <beam>
+                                      <note pname="e" oct="5" dur="8" artic="stacc"/>
+                                    <note pname="d" oct="5" dur="8" artic="stacc"/>
+                                   </beam>
+                                   <note pname="e" oct="5" dur="8" artic="stacc"/>
+                                   <rest dur="8"/>
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -5881,6 +5917,8 @@
                             </staff>
                             <staff n="4">
                                 <layer>
+                                   <note pname="d" oct="5" dur="4" accid="n"/>
+                                   <note pname="d" oct="5" dur="4"/>
                                     <rest dur="4"/>
                                 </layer>
                             </staff>
@@ -5912,6 +5950,8 @@
                             </staff>
                             <staff n="4">
                                 <layer>
+                                    <note pname="d" oct="5" dur="4"/>
+                                   <note pname="d" oct="5" dur="4"/>
                                     <rest dur="4"/>
                                 </layer>
                             </staff>
@@ -5943,7 +5983,9 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="4"/>
+                                    <note pname="d" oct="5" dur="4"/>
+                                   <note pname="d" oct="5" dur="4"/>
+                                   <note pname="e" oct="4" dur="4"/> <!--TODO add bridge-->
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -5986,7 +6028,9 @@
                             </staff>
                             <staff n="4">
                                 <layer>
+                                   <note pname="e" oct="4" dur="4"/>
                                     <rest dur="4"/>
+                                   <note pname="c" oct="5" dur="4"/> <!--TODO add bridge-->
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -6032,7 +6076,9 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="4"/>
+                                   <note pname="d" oct="5" dur="4"/>
+                                   <note pname="e" oct="5" dur="4"/>
+                                   <note pname="f" oct="5" dur="4" accid="n"/>
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -6074,7 +6120,9 @@
                             </staff>
                             <staff n="4">
                                 <layer>
+                                   <note pname="e" oct="5" dur="4"/>
                                     <rest dur="4"/>
+                                   <note pname="c" oct="5" dur="4"/> <!--TODO add bridge-->
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -6120,7 +6168,9 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="4"/>
+                                   <note pname="d" oct="5" dur="4"/>
+                                   <note pname="e" oct="5" dur="4"/>
+                                   <note pname="f" oct="5" dur="4" accid="n"/>
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -6160,7 +6210,10 @@
                             </staff>
                             <staff n="4">
                                 <layer>
+                                   <note pname="e" oct="5" dur="4"/>
                                     <rest dur="4"/>
+                                   <rest dur="8"/>
+                                   <note pname="c" oct="5" dur="8"/> <!--TODO add bridge-->
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -6204,7 +6257,10 @@
                             </staff>
                             <staff n="4">
                                 <layer>
+                                    <note pname="d" oct="5" dur="4"/>
                                     <rest dur="4"/>
+                                   <rest dur="8"/>
+                                   <note pname="d" oct="5" dur="8"/> <!--TODO add bridge-->
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -6245,7 +6301,10 @@
                             </staff>
                             <staff n="4">
                                 <layer>
+                                    <note pname="e" oct="5" dur="4"/>
                                     <rest dur="4"/>
+                                   <rest dur="8"/>
+                                   <note pname="c" oct="5" dur="8"/> <!--TODO add bridge-->
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -6279,7 +6338,18 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="4"/>
+                                    <beam>
+                                       <note pname="e" oct="5" dur="8" artic="stacc"/>
+                                    <note pname="e" oct="5" dur="8" artic="stacc"/>
+                                   </beam>
+                                   <beam>
+                                       <note pname="e" oct="5" dur="8" artic="stacc"/>
+                                    <note pname="e" oct="5" dur="8" artic="stacc"/>
+                                   </beam>
+                                   <beam>
+                                       <note pname="e" oct="5" dur="8" artic="stacc"/>
+                                    <note pname="e" oct="5" dur="8" artic="stacc"/>
+                                   </beam>
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -6321,6 +6391,8 @@
                             </staff>
                             <staff n="4">
                                 <layer>
+                                   <note pname="e" oct="5" dur="4" />
+                                    <note pname="e" oct="5" dur="4"/>
                                     <rest dur="4"/>
                                 </layer>
                             </staff>
@@ -6359,7 +6431,7 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="4"/>
+                                    <rest dur="2" dots="1"/>
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -6400,6 +6472,8 @@
                             <staff n="4">
                                 <layer>
                                     <rest dur="4"/>
+                                   <rest dur="4"/>
+                                   <note pname="c" oct="5" dur="4" /> <!--TODO add bridge-->
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -6446,7 +6520,9 @@
                             </staff>
                             <staff n="4">
                                 <layer>
+                                   <note pname="d" oct="5" dur="4" />
                                     <rest dur="4"/>
+                                   <note pname="d" oct="5" dur="4" /> <!--TODO add bridge-->
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -6492,7 +6568,9 @@
                             </staff>
                             <staff n="4">
                                 <layer>
+                                   <note pname="c" oct="5" dur="4" />
                                     <rest dur="4"/>
+                                   <rest dur="4"/>
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -6580,6 +6658,8 @@
                             <staff n="4">
                                 <layer>
                                     <rest dur="4"/>
+                                   <rest dur="4"/>
+                                   <note pname="c" oct="5" dur="4" /> <!--TODO add bridge-->
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -6626,7 +6706,9 @@
                             </staff>
                             <staff n="4">
                                 <layer>
+                                    <note pname="d" oct="5" dur="4" />
                                     <rest dur="4"/>
+                                   <note pname="d" oct="5" dur="4" /> <!--TODO add bridge-->
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -6672,6 +6754,8 @@
                             </staff>
                             <staff n="4">
                                 <layer>
+                                   <note pname="c" oct="5" dur="4" />
+                                    <rest dur="4"/>
                                     <rest dur="4"/>
                                 </layer>
                             </staff>
@@ -6717,7 +6801,7 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="4"/>
+                                    <rest dur="2" dots="1"/>
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -6755,7 +6839,9 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="4"/>
+                                    <note pname="d" oct="5" dur="4" accid="s"/> <!--TODO add bridge-->
+                                   <note pname="e" oct="5" dur="4" />
+                                   <note pname="d" oct="5" dur="4" accid="n"/>
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -6789,7 +6875,9 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="4"/>
+                                    <note pname="c" oct="5" dur="4"/> <!--TODO add bridge-->
+                                   <note pname="d" oct="5" dur="4" />
+                                   <note pname="c" oct="5" dur="4" accid="n"/>
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -6825,7 +6913,8 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="4"/>
+                                    <note pname="b" oct="4" dur="4" />
+                                   <note pname="b" oct="4" dur="2" accid="f"/>
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -6868,7 +6957,12 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="4"/>
+                                    <note pname="a" oct="4" dur="4" />
+                                   <beam>
+                                      <note pname="b" oct="4" dur="8" accid="f" artic="stacc"/>
+                                   <note pname="a" oct="4" dur="8" artic="stacc"/>
+                                   </beam>
+                                   <note pname="b" oct="4" dur="4"/>
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -6907,7 +7001,12 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="4"/>
+                                    <note pname="a" oct="4" dur="4" />
+                                   <beam>
+                                      <note pname="b" oct="4" dur="8" accid="f" artic="stacc"/>
+                                   <note pname="a" oct="4" dur="8" artic="stacc"/>
+                                   </beam>
+                                   <note pname="b" oct="4" dur="4"/>
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -6942,7 +7041,15 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="4"/>
+                                   <beam>
+                                      <note pname="e" oct="5" dur="8" artic="stacc"/>
+                                   <note pname="d" oct="5" dur="8" artic="stacc"  accid="s"/>
+                                   </beam>
+                                   <beam>
+                                      <note pname="e" oct="5" dur="8" artic="stacc"/>
+                                   <note pname="d" oct="5" dur="8" artic="stacc"/>
+                                   </beam>
+                                   <note pname="e" oct="5" dur="4"/>
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -6979,7 +7086,15 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="4"/>
+                                    <beam>
+                                      <note pname="d" oct="5" dur="8" artic="stacc"  accid="n"/>
+                                   <note pname="c" oct="5" dur="8" artic="stacc"/>
+                                   </beam>
+                                   <beam>
+                                      <note pname="d" oct="5" dur="8" artic="stacc"/>
+                                   <note pname="c" oct="5" dur="8" artic="stacc"/>
+                                   </beam>
+                                   <note pname="d" oct="5" dur="4"/>
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -7013,7 +7128,7 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="4"/>
+                                    <rest dur="2" dots="1"/>
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -7053,7 +7168,18 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="4"/>
+                                    <beam>
+                                      <note pname="d" oct="5" dur="8" artic="stacc"/>
+                                   <note pname="c" oct="5" dur="8" artic="stacc"/>
+                                   </beam>
+                                   <beam>
+                                      <note pname="d" oct="5" dur="8" artic="stacc"/>
+                                   <note pname="c" oct="5" dur="8" artic="stacc"/>
+                                   </beam>
+                                   <beam>
+                                      <note pname="d" oct="5" dur="8" artic="stacc"/>
+                                   <note pname="c" oct="5" dur="8" artic="stacc"/>
+                                   </beam>
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -7096,7 +7222,7 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="4"/>
+                                    <note pname="d" oct="5" dur="2" dots="1" />
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -7125,7 +7251,18 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="4"/>
+                                    <beam>
+                                        <note pname="g" oct="4" dur="8" artic="stacc"/>
+                                        <note pname="f" oct="4" dur="8" artic="stacc"/>
+                                    </beam>
+                                    <beam>
+                                        <note pname="g" oct="4" dur="8" artic="stacc"/>
+                                        <note pname="f" oct="4" dur="8" artic="stacc"/>
+                                    </beam>
+                                    <beam>
+                                        <note pname="g" oct="4" dur="8" artic="stacc"/>
+                                        <note pname="f" oct="4" dur="8" artic="stacc"/>
+                                    </beam>
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -7174,7 +7311,7 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="4"/>
+                                    <note pname="g" oct="4" dur="2" dots="1" />
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -7214,7 +7351,9 @@
                             </staff>
                             <staff n="4">
                                 <layer>
+                                   <note pname="f" oct="4" dur="4"/> <!--TODO add f annotation-->
                                     <rest dur="4"/>
+                                   <note pname="d" oct="5" dur="4"/> <!--TODO add curve? annotation-->
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -7247,7 +7386,9 @@
                             </staff>
                             <staff n="4">
                                 <layer>
+                                    <note pname="e" oct="5" dur="4" />
                                     <rest dur="4"/>
+                                   <note pname="e" oct="5" dur="4" /> <!--TODO add bridge-->
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -7288,7 +7429,9 @@
                             </staff>
                             <staff n="4">
                                 <layer>
+                                    <note pname="d" oct="5" dur="4" />
                                     <rest dur="4"/>
+                                   <note pname="d" oct="5" dur="4" /> <!--TODO add bridge-->
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -7321,7 +7464,9 @@
                             </staff>
                             <staff n="4">
                                 <layer>
+                                    <note pname="e" oct="5" dur="4" />
                                     <rest dur="4"/>
+                                   <note pname="e" oct="5" dur="4" /> <!--TODO add bridge-->
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -7352,6 +7497,8 @@
                             </staff>
                             <staff n="4">
                                 <layer>
+                                   <note pname="d" oct="5" dur="4" />
+                                    <rest dur="4"/>
                                     <rest dur="4"/>
                                 </layer>
                             </staff>
@@ -7396,7 +7543,7 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="4"/>
+                                    <rest dur="2" dots="1"/>
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -7440,7 +7587,7 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="4"/>
+                                    <rest dur="2" dots="1"/>
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -7489,7 +7636,7 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="4"/>
+                                    <rest dur="2" dots="1"/>
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -7535,7 +7682,8 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="4"/>
+                                    <note pname="e" oct="5" dur="2"/> <!--TODO add bridge and descendo-->
+                                    <note pname="d" oct="5" dur="4"/>
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -7608,7 +7756,9 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="4"/>
+                                    <note pname="b" oct="4" dur="4"/> <!--TODO add p annotation-->
+                                   <note pname="a" oct="4" dur="4"/>
+                                   <note pname="e" oct="5" dur="4"/>
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -7655,7 +7805,15 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="4"/>
+                                    <beam>
+                                        <note pname="d" oct="5" dur="8" artic="stacc" accid="f"/>
+                                        <note pname="c" oct="5" dur="8" artic="stacc" accid="n"/>
+                                    </beam>
+                                   <beam>
+                                        <note pname="d" oct="5" dur="8" artic="stacc"/>
+                                        <note pname="c" oct="5" dur="8" artic="stacc"/>
+                                    </beam>
+                                   <note pname="d" oct="5" dur="4"/>
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -7690,7 +7848,7 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="4"/>
+                                    <rest dur="2" dots="1"/>
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -7741,7 +7899,15 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="4"/>
+                                    <beam>
+                                        <note pname="d" oct="5" dur="8" artic="stacc" accid="f"/>
+                                        <note pname="c" oct="5" dur="8" artic="stacc" accid="n"/>
+                                    </beam>
+                                   <beam>
+                                        <note pname="d" oct="5" dur="8" artic="stacc"/>
+                                        <note pname="c" oct="5" dur="8" artic="stacc"/>
+                                    </beam>
+                                   <note pname="d" oct="5" dur="4"/>
                                 </layer>
                             </staff>
                             <staff n="5">
@@ -7772,7 +7938,9 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="4"/>
+                                   <note pname="d" oct="5" dur="4" accid="n"/>
+                                        <note pname="d" oct="5" dur="4"/>
+                                   <rest dur="4"/>
                                 </layer>
                             </staff>
                             <staff n="5">
