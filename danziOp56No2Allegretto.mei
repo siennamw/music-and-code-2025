@@ -38,7 +38,7 @@
         <body xml:id="bc6z0k8">
             <mdiv xml:id="mmwjgkg1">
                 <score xml:id="si849nc1">
-                    <scoreDef xml:id="sd2tdib1" keysig="2f" meter.count="3" meter.unit="4" midi.bpm="138">>
+                    <scoreDef xml:id="sd2tdib1" keysig="2f" meter.count="3" meter.unit="4" midi.bpm="138">
                         <staffGrp xml:id="sn5q0df">
                             <staffDef xml:id="smfi9d81" clef.line="2" clef.shape="G" keysig="2f" lines="5" n="1">
                                 <label xml:id="lutvdrs2">Flute</label>
