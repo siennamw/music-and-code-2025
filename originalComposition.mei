@@ -114,6 +114,7 @@
                                     <note pname="e" oct="5" dur="4" accid.ges="f"/>
                                 </layer>
                             </staff>
+                           <dynam staff="3" layer="1" tstamp="0">mf</dynam>
                         </measure>
                         <measure n="2">
                             <staff n="1">
@@ -1268,6 +1269,7 @@
                                     </beam>
                                 </layer>
                             </staff>
+                           <hairpin staff="3" layer="1" tstamp="1" tstamp2="4.5" form="cres"/>
                         </measure>
                         <measure n="22">
                             <staff n="1">
@@ -1311,6 +1313,7 @@
                                     <note pname="c" oct="5" dur="4"/>
                                 </layer>
                             </staff>
+                           <hairpin staff="3" layer="1" tstamp="1" tstamp2="1m+4.5" form="dim"/>
                         </measure>
                         <measure n="23">
                            <hairpin tstamp="1" tstamp2="4.5" form="dim" place="below" staff="5"/>
@@ -1382,6 +1385,7 @@
                                     <note pname="g" oct="4" dur="1"/>
                                 </layer>
                             </staff>
+                           <dynam staff="3" layer="1" tstamp="0">mp</dynam>
                         </measure>
                     </section>
                 </score>
