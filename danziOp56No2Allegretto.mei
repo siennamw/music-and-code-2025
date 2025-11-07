@@ -68,6 +68,7 @@
                                    </beam>
                                 </layer>
                             </staff>
+                           <dynam staff="1" layer="1" tstamp="0.75">p</dynam>
                             <staff n="2">
                                 <layer>
                                     <beam>
@@ -511,6 +512,7 @@
                                    </beam>
                                 </layer>
                             </staff>
+                           <dynam staff="1" layer="1" tstamp="1">f</dynam>
                             <staff n="2">
                                 <layer>
                                     <note pname="b" oct="5" dur="4" dots="1"/>
@@ -681,6 +683,7 @@
                                    </beam>
                                 </layer>
                             </staff>
+                           <dynam staff="1" layer="1" tstamp="0.75">p</dynam>
                             <staff n="2">
                                 <layer>
                                     <beam>
@@ -1338,6 +1341,7 @@
                                     </beam>
                                 </layer>
                             </staff>
+                           <dynam staff="1" layer="1" tstamp="3.5">f</dynam>
                             <staff n="4">
                                 <layer>
                                     <note pname="g" oct="4" dur="4"/>
@@ -1938,6 +1942,7 @@
                                    </beam>
                                 </layer>
                             </staff>
+                           <dynam staff="1" layer="1" tstamp="0.75">p</dynam>
                             <staff n="2">
                                 <layer>
                                     <rest/>
@@ -2934,6 +2939,7 @@
                                     <rest dur="4"/>
                                 </layer>
                             </staff>
+                           <dynam staff="1" layer="1" tstamp="1">f</dynam>
                             <staff n="2">
                                 <layer>
                                     <note pname="b" oct="4" dur="4"/>
@@ -3380,6 +3386,7 @@
                                     <note pname="a" oct="5" dur="4"/>
                                 </layer>
                             </staff>
+                           <dynam staff="1" layer="1" tstamp="0.75">p</dynam>
                             <staff n="2">
                                 <layer>
                                     <beam>
@@ -3426,6 +3433,7 @@
                                    </beam>
                                 </layer>
                             </staff>
+                           <dynam staff="1" layer="1" tstamp="1.5">f</dynam>
                             <staff n="2">
                                 <layer>
                                     <note pname="b" oct="4" dur="8"/>
@@ -3763,6 +3771,7 @@
                                    </beam>
                                 </layer>
                             </staff>
+                           <dynam staff="1" layer="1" tstamp="1">p</dynam>
                             <staff n="2">
                                 <layer>
                                     <beam>
