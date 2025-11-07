@@ -2787,6 +2787,9 @@
                            <slur staff="1" tstamp="2.25" tstamp2="2.75"/>
                            <slur staff="1" tstamp="3.25" tstamp2="3.75"/>
                            <!--placeholder for actual slur-->
+                           <hairpin form="dim" staff="1" place="above" tstamp="1" tstamp2="1.45"/>
+                           <hairpin form="dim" staff="1" place="above" tstamp="2" tstamp2="2.45"/>
+                           <hairpin form="dim" staff="1" place="above" tstamp="3" tstamp2="3.45"/>
                             <staff n="2">
                                 <layer>
                                     <note pname="b" oct="4" dur="2" dots="1"/>
@@ -2911,6 +2914,9 @@
                            <slur staff="1" tstamp="2.25" tstamp2="2.75"/>
                            <slur staff="1" tstamp="3.25" tstamp2="3.75"/>
                            <!--placeholders for actual slurs-->
+                           <hairpin form="dim" staff="1" place="above" tstamp="1" tstamp2="1.45"/>
+                           <hairpin form="dim" staff="1" place="above" tstamp="2" tstamp2="2.45"/>
+                           <hairpin form="dim" staff="1" place="above" tstamp="3" tstamp2="3.45"/>
                             <staff n="2">
                                 <layer>
                                     <note pname="a" oct="4" dur="2" dots="1"/>
