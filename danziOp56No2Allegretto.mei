@@ -2,38 +2,46 @@
 <?xml-model href="https://music-encoding.org/schema/5.1/mei-CMN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://music-encoding.org/schema/5.1/mei-CMN.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <mei xml:id="mtr2vap2" meiversion="5.1" xmlns="http://www.music-encoding.org/ns/mei">
-    <meiHead xml:id="msvehhu1">
-        <fileDesc xml:id="f2zxnzt1">
-            <titleStmt xml:id="toxqqtj1">
-                <title xml:id="t9y8yse">Quintett op. 56, no. 2 in g-Moll: I. Allegretto</title>
-                <composer xml:id="ck4dyna">
-                    <persName xml:id="pn27s8m1" role="composer">Franz Danzi (1763-1826)</persName>
-                </composer>
-                <respStmt xml:id="r7bq7ra1">
-                    <persName xml:id="pe2p2ff1" role="encoder">Natalie Braun</persName>
-                    <persName xml:id="pw5zjgu1" role="encoder">Carolina Ferrer</persName>
-                    <persName xml:id="pmgjd0k2" role="encoder">Addie Meyer</persName>
-                    <persName xml:id="pu4udtm1" role="encoder">Jorge Miranda</persName>
-                    <persName xml:id="p4bwezw1" role="encoder">Harris Proctor</persName>
-                </respStmt>
-            </titleStmt>
-            <pubStmt xml:id="pf4plqp1"/>
-            <sourceDesc>
-                <source>
-                    <bibl facs="https://ks15.imslp.org/files/imglnks/usimg/3/31/IMSLP214868-WIMA.b600-Danzi_op56_no2.pdf">
-                        <editor>
-                            <persName auth.uri="https://imslp.org/wiki/Category:Shannon,_William_R.">
-                                William R. Shannon
-                            </persName>
-                        </editor>
-                        <publisher>
-                            <corpName auth.uri="https://imslp.org/">IMSLP.org</corpName>
-                        </publisher>
-                    </bibl>
-                </source>
-            </sourceDesc>
-        </fileDesc>
-    </meiHead>
+   <meiHead xml:id="msvehhu1">
+      <fileDesc xml:id="f2zxnzt1">
+         <titleStmt xml:id="toxqqtj1">
+            <title xml:id="t9y8yse">Quintett op. 56, no. 2 in g-Moll: I. Allegretto</title>
+            <composer xml:id="ck4dyna">
+               <persName xml:id="pn27s8m1" role="composer">Franz Danzi (1763-1826)</persName>
+            </composer>
+            <respStmt xml:id="r7bq7ra1">
+               <persName xml:id="pe2p2ff1" role="encoder">Natalie Braun</persName>
+               <persName xml:id="pw5zjgu1" role="encoder">Carolina Ferrer</persName>
+               <persName xml:id="pmgjd0k2" role="encoder">Addie Meyer</persName>
+               <persName xml:id="pu4udtm1" role="encoder">Jorge Miranda</persName>
+               <persName xml:id="p4bwezw1" role="encoder">Harris Proctor</persName>
+            </respStmt>
+         </titleStmt>
+         <pubStmt xml:id="pf4plqp1"/>
+         <sourceDesc>
+            <source>
+               <bibl facs="https://ks15.imslp.org/files/imglnks/usimg/3/31/IMSLP214868-WIMA.b600-Danzi_op56_no2.pdf">
+                  <editor>
+                     <persName auth.uri="https://imslp.org/wiki/Category:Shannon,_William_R.">
+                        William R. Shannon
+                     </persName>
+                  </editor>
+                  <publisher>
+                     <corpName auth.uri="https://imslp.org/">IMSLP.org</corpName>
+                  </publisher>
+               </bibl>
+            </source>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc xml:id="empou8w2">
+         <appInfo xml:id="ap65upw1">
+            <application xml:id="a45xcci2" startdate="2025-11-06T19:08:00" version="1.2.9" enddate="2025-11-06T19:08:00">
+               <name xml:id="nkqxmlq2">mei-friend</name>
+               <p xml:id="p132ed61">First edit by mei-friend 1.2.9.</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
     <music xml:id="m7mxdc4">
         <body xml:id="bc6z0k8">
             <mdiv xml:id="mmwjgkg1">
@@ -124,12 +132,18 @@
                             </staff>
                             <staff xml:id="shvt14b" n="4">
                                 <layer xml:id="lwgy4vg">
+                                   <beam>
                                     <note xml:id="nq6rlit1" dur="8" oct="5" pname="d"/>
-                                    <note xml:id="ng488bh" dur="8" oct="5" pname="c"/> <!--TODO add sharp-->
+                                    <note xml:id="ng488bh" accid="s" dur="8" oct="5" pname="c"/>
+                                   </beam>
+                                   <beam>
                                     <note xml:id="nkqcak71" dur="8" oct="5" pname="d"/>
                                     <note xml:id="n97o3nc" dur="8" oct="5" pname="c"/>
+                                   </beam>
+                                   <beam>
                                     <note xml:id="nw876hu1" dur="8" oct="5" pname="d"/>
                                     <note xml:id="n45d1vk1" dur="8" oct="5" pname="c"/>
+                                   </beam>
                                 </layer>
                             </staff>
                             <staff xml:id="snir28r1" n="5">
@@ -218,12 +232,18 @@
                             </staff>
                             <staff xml:id="sekecbd1" n="4">
                                 <layer xml:id="l5x2ss61">
-                                    <note xml:id="nsuffnr2" dur="8" oct="5" pname="e"/>
-                                    <note xml:id="n5h6ord" dur="8" oct="5" pname="f"/>
-                                    <note xml:id="n7zjhp61" dur="8" oct="5" pname="e"/>
-                                    <note xml:id="n60p7fl1" dur="8" oct="5" pname="f"/>
-                                    <note xml:id="nyj46hh" dur="8" oct="5" pname="e"/>
-                                    <note xml:id="njej4et1" dur="8" oct="5" pname="f"/>
+                                   <beam>
+                                    <note xml:id="nsuffnr2" dur="8" oct="5" pname="e" artic="stacc"/>
+                                    <note xml:id="n5h6ord" dur="8" oct="5" pname="f" artic="stacc"/>
+                                   </beam>
+                                   <beam>
+                                    <note xml:id="n7zjhp61" dur="8" oct="5" pname="e" artic="stacc"/>
+                                    <note xml:id="n60p7fl1" dur="8" oct="5" pname="f" artic="stacc"/>
+                                   </beam>
+                                   <beam>
+                                    <note xml:id="nyj46hh" dur="8" oct="5" pname="e" artic="stacc"/>
+                                    <note xml:id="njej4et1" dur="8" oct="5" pname="f" artic="stacc"/>
+                                   </beam>
                                 </layer>
                             </staff>
                             <staff xml:id="sbcow5j1" n="5">
@@ -419,11 +439,15 @@
                             </staff>
                             <staff xml:id="sv79whj1" n="4">
                                 <layer xml:id="lttipl61">
-                                    <note xml:id="n7c3zsx1" dur="8" oct="5" pname="c"/>
-                                    <note xml:id="nbqfc5m2" dur="8" oct="4" pname="b"/> <!--TODO add sharp-->
-                                    <note xml:id="n1ylx7a1" dur="8" oct="5" pname="c"/>
-                                    <note xml:id="n4h60dz1" dur="8" oct="4" pname="b"/>
-                                    <note xml:id="ncyxkno2" dur="8" oct="5" pname="c"/>
+                                   <beam>
+                                      <note xml:id="n7c3zsx1" dur="8" oct="5" pname="c" artic="stacc"/>
+                                    <note xml:id="nbqfc5m2" accid="n" dur="8" oct="4" pname="b" artic="stacc"/> 
+                                   </beam>
+                                    <beam>
+                                    <note xml:id="n1ylx7a1" dur="8" oct="5" pname="c" artic="stacc"/>
+                                    <note xml:id="n4h60dz1"  accid="f" dur="8" oct="4" pname="b" artic="stacc"/>
+                                   </beam>
+                                    <note xml:id="ncyxkno2" dur="8" oct="5" pname="c" artic="stacc"/>
                                     <rest xml:id="r87rbrk2" dur="8"/>
                                 </layer>
                             </staff>
@@ -440,6 +464,7 @@
                         </measure>
                         <measure xml:id="m0ew9ce" n="8">
                             <slur xml:id="sh3ztvg1" curvedir="above" staff="3" tstamp="1" tstamp2="3"/>
+                           <slur curvedir="above" staff="4" tstamp="4"/> <!--HOW?-->
                             <staff xml:id="sgc6loa1" n="1">
                                 <layer xml:id="ltugar81">
                                     <rest xml:id="rm75s4b" dots.ges="1" dur="1" dur.ges="2"/>
@@ -464,10 +489,14 @@
                             </staff>
                             <staff xml:id="sw5hmt4" n="4">
                                 <layer xml:id="lfn84m31">
-                                    <note xml:id="nixl7tp1" dur="8" oct="5" pname="d"/>
-                                    <note xml:id="n4uwdic1" dur="8" oct="5" pname="c"/> <!--TODO add sharp-->
-                                    <note xml:id="np5nwfa1" dur="8" oct="5" pname="d"/>
-                                    <note xml:id="ng6ki6k1" dur="8" oct="5" pname="c"/>
+                                   <beam>
+                                    <note xml:id="nixl7tp1" dur="8" oct="5" pname="d" artic="stacc"/>
+                                    <note xml:id="n4uwdic1" accid="s" dur="8" oct="5" pname="c" artic="stacc"/>
+                                   </beam>
+                                   <beam>
+                                    <note xml:id="np5nwfa1" dur="8" oct="5" pname="d" artic="stacc"/>
+                                    <note xml:id="ng6ki6k1" dur="8" oct="5" pname="c" artic="stacc"/>
+                                   </beam>
                                     <note xml:id="n53rvk2" dur="4" oct="5" pname="d"/> <!-- TODO add bridge-->
                                 </layer>
                             </staff>
@@ -716,12 +745,18 @@
                             </staff>
                             <staff xml:id="sahc8931" n="4">
                                 <layer xml:id="lg50s061">
-                                    <note xml:id="ngy8r6i2" dur="8" oct="5" pname="d"/>
-                                    <note xml:id="np8th4h1" dur="8" oct="5" pname="c"/> <!--TODO add sharp-->
-                                    <note xml:id="nps4t3v2" dur="8" oct="5" pname="d"/>
-                                    <note xml:id="nllrvwk1" dur="8" oct="5" pname="c"/>
-                                    <note xml:id="np47y4y1" dur="8" oct="5" pname="d"/>
-                                    <note xml:id="nszsrod1" dur="8" oct="5" pname="c"/>
+                                   <beam>
+                                    <note xml:id="ngy8r6i2" dur="8" oct="5" pname="d" artic="stacc"/>
+                                    <note xml:id="np8th4h1" accid="s" dur="8" oct="5" pname="c" artic="stacc"/> 
+                                   </beam>
+                                   <beam>
+                                    <note xml:id="nps4t3v2" dur="8" oct="5" pname="d" artic="stacc"/>
+                                    <note xml:id="nllrvwk1" dur="8" oct="5" pname="c" artic="stacc"/>
+                                   </beam>
+                                   <beam>
+                                    <note xml:id="np47y4y1" dur="8" oct="5" pname="d" artic="stacc"/>
+                                    <note xml:id="nszsrod1" dur="8" oct="5" pname="c" artic="stacc"/>
+                                   </beam>
                                 </layer>
                             </staff>
                             <staff xml:id="st3yysa" n="5">
@@ -840,12 +875,18 @@
                             </staff>
                             <staff xml:id="sprj9bs1" n="4">
                                 <layer xml:id="lyhuh471">
-                                    <note xml:id="nbwmdaa" dur="8" oct="5" pname="e"/>
-                                    <note xml:id="npyeing" dur="8" oct="5" pname="f"/>
-                                    <note xml:id="no7ojgi1" dur="8" oct="5" pname="e"/>
-                                    <note xml:id="n2alucz1" dur="8" oct="5" pname="f"/>
-                                    <note xml:id="nl3sp7j1" dur="8" oct="5" pname="e"/>
-                                    <note xml:id="ncukv9f1" dur="8" oct="5" pname="f"/>
+                                   <beam>
+                                    <note xml:id="nbwmdaa" dur="8" oct="5" pname="e" artic="stacc"/>
+                                    <note xml:id="npyeing" dur="8" oct="5" pname="f" artic="stacc"/>
+                                   </beam>
+                                   <beam>
+                                    <note xml:id="no7ojgi1" dur="8" oct="5" pname="e" artic="stacc"/>
+                                    <note xml:id="n2alucz1" dur="8" oct="5" pname="f" artic="stacc"/>
+                                   </beam>
+                                   <beam>
+                                    <note xml:id="nl3sp7j1" dur="8" oct="5" pname="e" artic="stacc"/>
+                                    <note xml:id="ncukv9f1" dur="8" oct="5" pname="f" artic="stacc"/>
+                                   </beam>
                                 </layer>
                             </staff>
                             <staff xml:id="stw611r1" n="5">
@@ -882,7 +923,7 @@
                             </staff>
                             <staff xml:id="suuhwzt2" n="4">
                                 <layer xml:id="lxjheni1">
-                                    <note xml:id="nhgq3nh1" dur="8" oct="5" pname="e"/>
+                                    <note xml:id="nhgq3nh1" dur="4" oct="5" pname="e"/>
                                     <rest xml:id="r1q293v1" dur="4"/>
                                     <rest xml:id="red2ae7" dur="4"/>
                                 </layer>
@@ -935,11 +976,15 @@
                             </staff>
                             <staff xml:id="sop4zas1" n="4">
                                 <layer xml:id="l5n1r0c">
-                                    <note xml:id="nzacv5o2" dur="8" oct="4" pname="a"/>
-                                    <note xml:id="nrn5srd" dur="8" oct="4" pname="g"/> <!--TODO add sharp-->
-                                    <note xml:id="nuw2amr1" dur="8" oct="4" pname="a"/>
-                                    <note xml:id="nz86vmw2" dur="8" oct="4" pname="g"/>
-                                    <note xml:id="nfoabj31" dur="8" oct="4" pname="a"/>
+                                   <beam>
+                                    <note xml:id="nzacv5o2" dur="8" oct="4" pname="a" artic="stacc"/>
+                                    <note xml:id="nrn5srd" dur="8" accid="s" oct="4" pname="g" artic="stacc"/>
+                                   </beam>
+                                   <beam>
+                                    <note xml:id="nuw2amr1" dur="8" oct="4" pname="a" artic="stacc"/>
+                                    <note xml:id="nz86vmw2" dur="8" oct="4" pname="g" artic="stacc"/>
+                                   </beam>
+                                    <note xml:id="nfoabj31" dur="8" oct="4" pname="a" artic="stacc"/>
                                     <rest xml:id="rtjr3my1" dur="8"/>
                                 </layer>
                             </staff>
@@ -995,11 +1040,15 @@
                             </staff>
                             <staff xml:id="shod0h9" n="4">
                                 <layer xml:id="lbjmvkk2">
-                                    <note xml:id="nwh8d48" dur="8" oct="4" pname="b"/>
-                                    <note xml:id="nhmhlx61" dur="8" oct="4" pname="a"/>
-                                    <note xml:id="ntc1i921" dur="8" oct="4" pname="b"/>
-                                    <note xml:id="ndkjwxt1" dur="8" oct="4" pname="a"/>
-                                    <note xml:id="nwgmv4v1" dur="8" oct="4" pname="b"/>
+                                   <beam>
+                                    <note xml:id="nwh8d48" dur="8" oct="4" pname="b" artic="stacc"/>
+                                    <note xml:id="nhmhlx61" dur="8" oct="4" pname="a" artic="stacc"/>
+                                   </beam>
+                                   <beam>
+                                    <note xml:id="ntc1i921" dur="8" oct="4" pname="b" artic="stacc"/>
+                                    <note xml:id="ndkjwxt1" dur="8" oct="4" pname="a" artic="stacc"/>
+                                   </beam>
+                                    <note xml:id="nwgmv4v1" dur="8" oct="4" pname="b" artic="stacc"/>
                                     <rest xml:id="riwvews2" dur="8"/>
                                 </layer>
                             </staff>
@@ -1055,12 +1104,16 @@
                             </staff>
                             <staff xml:id="sogdcho1" n="4">
                                 <layer xml:id="l7r9q791">
-                                    <note xml:id="nmkuuwj1" dur="8" oct="4" pname="a"/>
-                                    <note xml:id="nsi6m2g1" dur="8" oct="4" pname="g"/> <!--TODO add sharp-->
-                                    <note xml:id="nh4gd29" dur="8" oct="4" pname="a"/>
-                                    <note xml:id="n9lz9qz1" dur="8" oct="4" pname="g"/>
-                                    <note xml:id="nb36yqu2" dur="8" oct="4" pname="a"/>
-                                    <rest xml:id="rxsrhg" dur="8"/>
+                                    <beam>
+                                    <note  dur="8" oct="4" pname="a" artic="stacc"/>
+                                    <note dur="8" accid="s" oct="4" pname="g" artic="stacc"/>
+                                   </beam>
+                                   <beam>
+                                    <note  dur="8" oct="4" pname="a" artic="stacc"/>
+                                    <note  dur="8" oct="4" pname="g" artic="stacc"/>
+                                   </beam>
+                                    <note dur="8" oct="4" pname="a" artic="stacc"/>
+                                    <rest  dur="8"/>
                                 </layer>
                             </staff>
                             <staff xml:id="sxjcqat2" n="5">
@@ -1114,12 +1167,16 @@
                             </staff>
                             <staff xml:id="ssy227a" n="4">
                                 <layer xml:id="lilpmiq1">
-                                    <note xml:id="nr2bb8q1" dur="8" oct="4" pname="b"/>
-                                    <note xml:id="n4pv9re1" dur="8" oct="4" pname="a"/>
-                                    <note xml:id="nxlbdat1" dur="8" oct="4" pname="b"/>
-                                    <note xml:id="nbku9ly1" dur="8" oct="4" pname="a"/>
-                                    <note xml:id="n6mjvta1" dur="8" oct="4" pname="b"/>
-                                    <rest xml:id="r2q5pdn2" dur="8"/>
+                                    <beam>
+                                    <note  dur="8" oct="4" pname="b" artic="stacc"/>
+                                    <note  dur="8" oct="4" pname="a" artic="stacc"/>
+                                   </beam>
+                                   <beam>
+                                    <note  dur="8" oct="4" pname="b" artic="stacc"/>
+                                    <note  dur="8" oct="4" pname="a" artic="stacc"/>
+                                   </beam>
+                                    <note dur="8" oct="4" pname="b" artic="stacc"/>
+                                    <rest  dur="8"/>
                                 </layer>
                             </staff>
                             <staff xml:id="sbxsk11" n="5">
@@ -1131,6 +1188,7 @@
                         </measure>
                         <measure xml:id="m9c7ywf1" n="21">
                             <dynam xml:id="d1s8ea" place="below" staff="3" tstamp="1">f</dynam>
+                           <dynam place="below" staff="4" tstamp="1">f</dynam>
                             <staff xml:id="sma9mew2" n="1">
                                 <layer xml:id="l9py4ss1">
                                     <rest xml:id="rnzhfuj1" dots.ges="1" dur="1" dur.ges="2"/>
@@ -1337,6 +1395,7 @@
                             <slur xml:id="sjmdve51" curvedir="above" staff="3" tstamp="1.25" tstamp2="1.75"/>
                             <slur xml:id="seqdqiz2" curvedir="above" staff="3" tstamp="2.25" tstamp2="2.75"/>
                             <slur xml:id="sb8y7r8" curvedir="above" staff="3" tstamp="3.25" tstamp2="3.75"/>
+                           <slur curvedir="above" staff="4" tstamp="3.25" tstamp2="3.75"/>
                             <staff xml:id="sjuxkt7" n="1">
                                 <layer xml:id="lvxy1rn1">
                                     <note xml:id="n1pbkaa1" accid.ges="f" dur="4" oct="5" pname="b"/>
@@ -1452,6 +1511,7 @@
                             <slur xml:id="sunqxd01" curvedir="above" staff="3" tstamp="1.25" tstamp2="1.75"/>
                             <slur xml:id="spkq5mx1" curvedir="above" staff="3" tstamp="2.25" tstamp2="2.75"/>
                             <slur xml:id="s2mamz9" curvedir="above" staff="3" tstamp="3.25" tstamp2="3.75"/>
+                           <slur curvedir="above" staff="4" tstamp="3.25" tstamp2="3.75"/>
                             <staff xml:id="sdldjph" n="1">
                                 <layer xml:id="lt8dj44">
                                     <note xml:id="nkde3q6" accid.ges="f" dur="4" oct="5" pname="b"/>
@@ -1766,6 +1826,7 @@
                         </measure>
                         <measure xml:id="mpgvxtm1" n="33">
                             <dynam xml:id="decdvj6" place="below" staff="3" tstamp="1">p</dynam>
+                           <dynam place="below" staff="4" tstamp="1">p</dynam>
                             <staff xml:id="s91ltvp1" n="1">
                                 <layer xml:id="lrga9tq2">
                                     <rest xml:id="rbsv26i1" dots.ges="1" dur="1" dur.ges="2"/>
@@ -2351,6 +2412,7 @@
                             </staff>
                         </measure>
                         <measure xml:id="meuqrys1" n="45">
+                           <dynam place="below" staff="4" tstamp="1">p</dynam>
                             <staff xml:id="siqofoy2" n="1">
                                 <layer xml:id="ldmqsn01">
                                     <note xml:id="nk8xg5i2" dur="8" oct="6" pname="d">
@@ -2386,9 +2448,11 @@
                             </staff>
                             <staff xml:id="sfcqaqs2" n="4">
                                 <layer xml:id="lvvzf7z1">
-                                    <note xml:id="nr8qmuk2" dur="4" oct="5" pname="c"/> <!-- P symbol here-->
-                                    <note xml:id="ntetsag1" dur="8" oct="5" pname="d"/> <!--TODO add flat-->
-                                    <note xml:id="n0qirzz1" dur="8" oct="5" pname="c"/>
+                                    <note xml:id="nr8qmuk2" dur="4" oct="5" pname="c"/>
+                                   <beam>
+                                    <note xml:id="ntetsag1" accid="f" dur="8" oct="5" pname="d" artic="stacc"/>
+                                    <note xml:id="n0qirzz1" dur="8" oct="5" pname="c" artic="stacc"/>
+                                   </beam>
                                     <note xml:id="ngf36x01" dur="4" oct="5" pname="d"/>
                                 </layer>
                             </staff>
@@ -2428,10 +2492,12 @@
                             </staff>
                             <staff xml:id="s02e9y9" n="4">
                                 <layer xml:id="ldwys7w2">
-                                    <note xml:id="n86w4yi1" dur="4" oct="5" pname="c"/>
-                                    <note xml:id="nzg7kp8" dur="8" oct="5" pname="d"/> <!--TODO add flat-->
-                                    <note xml:id="nzynng21" dur="8" oct="5" pname="c"/>
-                                    <note xml:id="nniyo1f1" dur="4" oct="5" pname="d"/>
+                                    <note  dur="4" oct="5" pname="c"/>
+                                   <beam>
+                                    <note  accid="f" dur="8" oct="5" pname="d" artic="stacc"/>
+                                    <note dur="8" oct="5" pname="c" artic="stacc"/>
+                                   </beam>
+                                    <note  dur="4" oct="5" pname="d"/>
                                 </layer>
                             </staff>
                             <staff xml:id="swauzgq1" n="5">
