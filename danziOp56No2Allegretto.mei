@@ -4114,16 +4114,16 @@
                             <staff xml:id="sg8iezn2" n="2">
                                 <layer xml:id="la3l1my1">
                                     <beam xml:id="bjeqkzv1">
-                                        <note xml:id="n97d3o61" artic="stacc" dur="8" oct="5" pname="d"/>
-                                        <note xml:id="nf82kfk2" artic="stacc" dur="8" oct="5" pname="d"/>
+                                        <note xml:id="n97d3o61" artic="stacc" dur="8" oct="5" pname="c"/>
+                                        <note xml:id="nf82kfk2" artic="stacc" dur="8" oct="5" pname="c"/>
                                     </beam>
                                     <beam xml:id="bo98o71">
-                                        <note xml:id="nc4973r1" artic="stacc" dur="8" oct="5" pname="d"/>
-                                        <note xml:id="nym3bd" artic="stacc" dur="8" oct="5" pname="d"/>
+                                        <note xml:id="nc4973r1" artic="stacc" dur="8" oct="5" pname="c"/>
+                                        <note xml:id="nym3bd" artic="stacc" dur="8" oct="5" pname="c"/>
                                     </beam>
                                     <beam xml:id="bq7o6gc">
-                                        <note xml:id="nmg76je1" artic="stacc" dur="8" oct="5" pname="d"/>
-                                        <note xml:id="n0vutp9" artic="stacc" dur="8" oct="5" pname="d"/>
+                                        <note xml:id="nmg76je1" artic="stacc" dur="8" oct="5" pname="c"/>
+                                        <note xml:id="n0vutp9" artic="stacc" dur="8" oct="5" pname="c"/>
                                     </beam>
                                 </layer>
                             </staff>
