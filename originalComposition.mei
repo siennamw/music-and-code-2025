@@ -979,7 +979,6 @@
                             </staff>
                             <staff n="4">
                                 <layer>
-                                    <rest dur="1"/>
                                     <note pname="f" oct="4" dur="2"/>
                                     <note pname="e" accid="f" oct="4" dur="2"/>
                                 </layer>
@@ -1354,7 +1353,6 @@
                             <staff n="4">
                                 <layer>
                                     <note pname="g" oct="4" dur="1"/>
-                                    <note pname="g" oct="3" dur="1"/>
                                 </layer>
                             </staff>
                             <staff n="5">
