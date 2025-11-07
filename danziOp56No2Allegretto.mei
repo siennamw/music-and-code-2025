@@ -3495,6 +3495,7 @@
                             </staff>
                            <slur staff="1" tstamp="1.25" tstamp2="3.25"/>
                            <!--placeholder for actual slur-->
+                           <hairpin form="dim" place="below" staff="1" tstamp="1" tstamp2="3"/>
                             <staff xml:id="sbm083o2" n="2">
                                 <layer xml:id="lou1qhp1">
                                     <note xml:id="nw13akt2" dur="2" oct="5" pname="a"/>
