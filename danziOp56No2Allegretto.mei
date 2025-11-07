@@ -1275,7 +1275,7 @@
                             </staff>
                         </measure>
                         <measure xml:id="m9c7ywf1" n="21">
-                            <dynam xml:id="d1s8ea" place="below" staff="3" tstamp="1">f</dynam>
+                            <dynam place="below" staff="3" tstamp="1">f</dynam>
                             <dynam place="below" staff="4" tstamp="1">f</dynam>
                             <dynam xml:id="d1f8ea" place="below" staff="5" tstamp="1">f</dynam>
                             <staff xml:id="sma9mew2" n="1">
@@ -2012,7 +2012,7 @@
                             </staff>
                         </measure>
                         <measure xml:id="m7tkijn1" n="34">
-                            <dynam xml:id="decdvj6" place="below" staff="2" tstamp="1">p</dynam>
+                            <dynam place="below" staff="2" tstamp="1">p</dynam>
                             <staff xml:id="s0t6xsv2" n="1">
                                 <layer xml:id="lpo4qlq1">
                                     <rest xml:id="ricwmg71" dots.ges="1" dur="1" dur.ges="2"/>
