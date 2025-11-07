@@ -2770,15 +2770,15 @@
                             <staff n="1">
                                 <layer>
                                     <beam>
-                                      <note pname="g" oct="5" dur="8"/>
+                                      <note pname="g" oct="5" dur="8" artic="acc"/>
                                       <note pname="f" oct="5" dur="8"/>
                                    </beam>
                                    <beam>
-                                      <note pname="g" oct="5" dur="8"/>
+                                      <note pname="g" oct="5" dur="8" artic="acc"/>
                                       <note pname="f" oct="5" dur="8"/>
                                    </beam>
                                    <beam>
-                                      <note pname="g" oct="5" dur="8"/>
+                                      <note pname="g" oct="5" dur="8" artic="acc"/>
                                       <note pname="f" oct="5" dur="8"/>
                                    </beam>
                                 </layer>
@@ -2787,9 +2787,6 @@
                            <slur staff="1" tstamp="2.25" tstamp2="2.75"/>
                            <slur staff="1" tstamp="3.25" tstamp2="3.75"/>
                            <!--placeholder for actual slur-->
-                           <hairpin form="dim" staff="1" place="above" tstamp="1" tstamp2="1.45"/>
-                           <hairpin form="dim" staff="1" place="above" tstamp="2" tstamp2="2.45"/>
-                           <hairpin form="dim" staff="1" place="above" tstamp="3" tstamp2="3.45"/>
                             <staff n="2">
                                 <layer>
                                     <note pname="b" oct="4" dur="2" dots="1"/>
@@ -2895,15 +2892,16 @@
                                    <beam>
                                       <note pname="g" oct="5" dur="8">
                                          <accid accid="f"/>
+                                         <artic artic="acc" place="above"/>
                                       </note>
                                       <note pname="f" oct="5" dur="8"/>
                                    </beam>
                                     <beam>
-                                      <note pname="g" oct="5" dur="8" accid.ges="f"/>
+                                      <note pname="g" oct="5" dur="8" accid.ges="f" artic="acc"/>
                                       <note pname="f" oct="5" dur="8"/>
                                    </beam>
                                     <beam>
-                                      <note pname="g" oct="5" dur="8">
+                                      <note pname="g" oct="5" dur="8" artic="acc">
                                          <accid accid="n"/>
                                       </note>
                                       <note pname="f" oct="5" dur="8"/>
@@ -2914,9 +2912,6 @@
                            <slur staff="1" tstamp="2.25" tstamp2="2.75"/>
                            <slur staff="1" tstamp="3.25" tstamp2="3.75"/>
                            <!--placeholders for actual slurs-->
-                           <hairpin form="dim" staff="1" place="above" tstamp="1" tstamp2="1.45"/>
-                           <hairpin form="dim" staff="1" place="above" tstamp="2" tstamp2="2.45"/>
-                           <hairpin form="dim" staff="1" place="above" tstamp="3" tstamp2="3.45"/>
                             <staff n="2">
                                 <layer>
                                     <note pname="a" oct="4" dur="2" dots="1"/>
@@ -3735,7 +3730,7 @@
                                 </layer>
                             </staff>
                         </measure>
-                        <measure n="68">
+                        <measure n="68" right="rptend">
                             <staff n="1">
                                 <layer>
                                     <note pname="b" oct="5" dur="4"/>
