@@ -50,6 +50,11 @@
                     </scoreDef>
                     <section>
                         <measure n="1">
+                           <dynam tstamp="1" place="below" staff="1">mp</dynam>
+                           <dynam tstamp="1" place="below" staff="2">mp</dynam>
+                           <dynam tstamp="1" place="below" staff="3">f</dynam>
+                           <dynam tstamp="1" place="below" staff="4">mp</dynam>
+                           <dynam tstamp="1" place="below" staff="5">mp</dynam>
                             <staff n="1">
                                 <layer>
                                     <note pname="g" oct="4" dur="4"/>
@@ -370,6 +375,7 @@
                             </staff>
                         </measure>
                         <measure n="6">
+                           <hairpin tstamp="1" tstamp2="4" form="cres" place="below" staff="5"/>
                             <staff n="1">
                                 <layer>
                                     <note pname="c" oct="5" dur="4"/>
@@ -446,6 +452,8 @@
                             </staff>
                         </measure>
                         <measure n="7">
+                           <slur staff="5" curvedir="above" tstamp="1" tstamp2="4.9"/>
+                           <dynam place="below" tstamp="1" staff="5">f</dynam>
                             <staff n="1">
                                 <layer>
                                     <note pname="g" oct="4" dur="4"/>
@@ -530,6 +538,7 @@
                             </staff>
                         </measure>
                         <measure n="8">
+                           <slur staff="5" curvedir="below" tstamp="1" tstamp2="4.7"/>
                             <staff n="1">
                                 <layer>
                                     <note pname="b" accid="f" oct="4" dur="2"/>
@@ -593,6 +602,7 @@
                             </staff>
                         </measure>
                         <measure n="9">
+                           <slur staff="5" curvedir="above" tstamp="1" tstamp2="4.9"/>
                             <staff n="1">
                                 <layer>
                                     <note pname="g" oct="5" dur="4"/>
@@ -648,6 +658,7 @@
                             </staff>
                         </measure>
                         <measure n="10">
+                           <slur staff="5" curvedir="below" tstamp="1" tstamp2="4.7"/>
                             <staff n="1">
                                 <layer>
                                     <note pname="b" accid="f" oct="5" dur="2"/>
@@ -783,6 +794,8 @@
                             </staff>
                         </measure>
                         <measure n="12">
+                           <hairpin tstamp="1" tstamp2="3.5" form="dim" place="below" staff="5"/>
+                           <dynam place="below" tstamp="4" staff="5">p</dynam>
                             <staff n="1">
                                 <layer>
                                     <note pname="b" accid="f" oct="5" dur="2"/>
@@ -992,6 +1005,7 @@
                             </staff>
                         </measure>
                         <measure n="17">
+                           <dynam place="below" tstamp="1" staff="5">f</dynam>
                             <staff n="1">
                                 <layer>
                                     <note pname="g" oct="4" dur="8"/>
@@ -1044,20 +1058,20 @@
                             <staff n="5">
                                 <layer>
                                     <beam>
-                                        <note pname="g" oct="5" dur="8"/>
-                                        <note pname="g" oct="5" dur="8"/>
+                                        <note pname="g" oct="5" dur="8" artic="stacc"/>
+                                        <note pname="g" oct="5" dur="8" artic="stacc"/>
                                     </beam>
                                     <beam>
-                                        <note pname="e" oct="5" dur="8" accid.ges="f"/>
-                                        <note pname="e" oct="5" dur="8" accid.ges="f"/>
+                                        <note pname="e" oct="5" dur="8" accid.ges="f" artic="stacc"/>
+                                        <note pname="e" oct="5" dur="8" accid.ges="f" artic="stacc"/>
                                     </beam>
                                     <beam>
-                                        <note pname="d" oct="5" dur="8"/>
-                                        <note pname="d" oct="5" dur="8"/>
+                                        <note pname="d" oct="5" dur="8" artic="stacc"/>
+                                        <note pname="d" oct="5" dur="8" artic="stacc"/>
                                     </beam>
                                     <beam>
-                                        <note pname="b" oct="4" dur="8" accid.ges="f"/>
-                                        <note pname="b" oct="4" dur="8" accid.ges="f"/>
+                                        <note pname="b" oct="4" dur="8" accid.ges="f" artic="stacc"/>
+                                        <note pname="b" oct="4" dur="8" accid.ges="f" artic="stacc"/>
                                     </beam>
                                 </layer>
                             </staff>
@@ -1098,10 +1112,10 @@
                             </staff>
                             <staff n="5">
                                 <layer>
-                                    <note pname="g" oct="4" dur="4"/>
+                                    <note pname="g" oct="4" dur="4" artic="stacc"/>
                                     <beam>
-                                        <note pname="g" oct="4" dur="8"/>
-                                        <note pname="g" oct="4" dur="8"/>
+                                        <note pname="g" oct="4" dur="8" artic="stacc"/>
+                                        <note pname="g" oct="4" dur="8" artic="stacc"/>
                                     </beam>
                                     <note pname="g" oct="4" dur="2"/>
                                 </layer>
@@ -1189,6 +1203,9 @@
                             </staff>
                         </measure>
                         <measure n="21">
+                           <hairpin tstamp="1.5" tstamp2="4.45" form="cres" place="below" staff="5"/>
+                           <dynam place="below" tstamp="1" staff="5">p</dynam>
+                           <dynam place="below" tstamp="4.5" staff="5">f</dynam>
                             <staff n="1">
                                 <layer>
                                     <note pname="c" oct="5" dur="8"/>
@@ -1296,6 +1313,7 @@
                             </staff>
                         </measure>
                         <measure n="23">
+                           <hairpin tstamp="1" tstamp2="4.5" form="dim" place="below" staff="5"/>
                             <staff n="1">
                                 <layer>
                                     <note pname="d" oct="5" dur="4"/>
@@ -1336,6 +1354,8 @@
                             </staff>
                         </measure>
                         <measure n="24" right="end">
+                           <fermata place="above" staff="5" tstamp="2" form="norm"/>
+                           <dynam place="below" tstamp="1" staff="5">p</dynam>
                             <staff n="1">
                                 <layer>
                                     <note pname="g" oct="4" dur="1"/>
