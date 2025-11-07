@@ -142,6 +142,8 @@
                                     <rest dur="4"/>
                                 </layer>
                             </staff>
+                           <slur staff="1" tstamp="2.2" tstamp2="2.75"/>
+                           <!--placeholder for actual slur-->
                             <staff n="2">
                                 <layer>
                                     <note pname="d" oct="5" dur="4"/>
@@ -251,6 +253,8 @@
                                     <rest dur="4"/>
                                 </layer>
                             </staff>
+                           <slur staff="1" tstamp="2.2" tstamp2="2.75"/>
+                           <!--placeholder for actual slur-->
                             <staff n="2">
                                 <layer>
                                     <note pname="d" oct="5" dur="4"/>
@@ -484,11 +488,11 @@
                         <measure n="9">
                             <staff n="1">
                                 <layer>
-                                    <note pname="e" oct="6" dur="4">
+                                    <note pname="e" oct="6" dur="4" tie="i">
                                         <accid accid="n"/>
                                     </note>
                                    <beam>
-                                      <note pname="e" oct="6" dur="16" accid.ges="n"/>
+                                      <note pname="e" oct="6" dur="16" accid.ges="n" tie="t"/>
                                       <note pname="c" oct="6" dur="16">
                                          <accid accid="s"/>
                                       </note>
@@ -753,6 +757,8 @@
                                     <rest dur="4"/>
                                 </layer>
                             </staff>
+                           <slur staff="1" tstamp="2" tstamp2="2.75"/>
+                           <!--placeholder for actual slur-->
                             <staff n="2">
                                 <layer>
                                     <note pname="d" oct="5" dur="4"/>
@@ -879,6 +885,8 @@
                                     <rest dur="4"/>
                                 </layer>
                             </staff>
+                           <slur staff="1" tstamp="2" tstamp2="2.75"/>
+                           <!--placeholder for actual slur-->
                             <staff n="2">
                                 <layer>
                                     <note pname="e" oct="5" dur="4"/>
@@ -1416,6 +1424,8 @@
                                     <note pname="a" oct="5" dur="8"/>
                                 </layer>
                             </staff>
+                           <slur staff="1" tstamp="1" tstamp2="1.6"/>
+                           <!--placeholder for actual slur-->
                             <staff n="2">
                                 <layer>
                                     <rest dur="2" dots="1"/>
@@ -1536,6 +1546,8 @@
                                     <rest dur="8"/>
                                 </layer>
                             </staff>
+                           <slur staff="1" tstamp="2.05" tstamp2="2.3"/>
+                           <!--placeholder for actual slur-->
                             <staff n="2">
                                 <layer>
                                     <rest/>
@@ -1590,6 +1602,8 @@
                                     <rest dur="8"/>
                                 </layer>
                             </staff>
+                           <slur staff="1" tstamp="2.15" tstamp2="2.4"/>
+                           <!--placeholder for actual slur-->
                             <staff n="2">
                                 <layer>
                                     <note pname="e" oct="5" dur="4" accid="f"/>
@@ -1763,6 +1777,8 @@
                                     <rest dur="4"/>
                                 </layer>
                             </staff>
+                           <slur staff="1" tstamp="1" tstamp2="1.99"/>
+                           <!--placeholder for actual slur-->
                             <staff n="2">
                                 <layer>
                                     <rest dur="2" dots="1"/>
@@ -1976,6 +1992,8 @@
                                     <rest dur="4"/>
                                 </layer>
                             </staff>
+                           <slur staff="1" tstamp="1" tstamp2="1.47"/>
+                           <!--placeholder for actual slur-->
                             <staff n="2">
                                 <layer>
                                     <rest dur="2" dots="1"/>
@@ -2200,6 +2218,8 @@
                                     <rest dur="4"/>
                                 </layer>
                             </staff>
+                           <slur staff="1" tstamp="1" tstamp2="1.47"/>
+                           <!--placeholder for actual slur-->
                             <staff n="2">
                                 <layer>
                                     <note pname="b" oct="5" dur="4" dots="1"/>
@@ -2249,9 +2269,11 @@
                                       <note pname="d" oct="6" dur="8"/>
                                    </beam>
                                     <note pname="c" oct="6" dur="4"/>
-                                    <note pname="f" oct="6" dur="4"/>
+                                    <note pname="f" oct="6" dur="4" tie="i"/>
                                 </layer>
                             </staff>
+                           <slur staff="1" tstamp="1" tstamp2="1.8"/>
+                           <!--placeholder for actual slur-->
                             <staff n="2">
                                 <layer>
                                     <note pname="g" oct="5" dur="2"/>
@@ -2283,18 +2305,20 @@
                         <measure n="42">
                             <staff n="1">
                                 <layer>
-                                    <note pname="f" oct="6" dur="4"/>
+                                    <note pname="f" oct="6" dur="4" tie="t"/>
                                    <beam>
                                       <note pname="e" oct="6" dur="8">
                                          <accid accid="n"/>
                                       </note>
                                       <note pname="c" oct="6" dur="8"/>
                                    </beam>
-                                    <note pname="e" oct="6" dur="4">
+                                    <note pname="e" oct="6" dur="4" tie="i">
                                         <accid accid="f"/>
                                     </note>
                                 </layer>
                             </staff>
+                           <slur staff="1" tstamp="1.26" tstamp2="2.4"/>
+                           <!--placeholder for actual slur-->
                             <staff n="2">
                                 <layer>
                                     <note pname="f" oct="5" dur="2"/>
@@ -2323,12 +2347,12 @@
                         <measure n="43">
                             <staff n="1">
                                 <layer>
-                                    <note pname="e" oct="6" dur="4" accid.ges="f"/>
+                                    <note pname="e" oct="6" dur="4" accid.ges="f" tie="t"/>
                                    <beam>
                                       <note pname="d" oct="6" dur="8"/>
                                       <note pname="b" oct="5" dur="8"/>
                                    </beam>
-                                    <note pname="d" oct="6" dur="4">
+                                    <note pname="d" oct="6" dur="4" tie="i">
                                         <accid accid="f"/>
                                     </note>
                                 </layer>
@@ -2360,7 +2384,7 @@
                         <measure n="44">
                             <staff n="1">
                                 <layer>
-                                    <note pname="d" oct="6" dur="4" accid.ges="f"/>
+                                    <note pname="d" oct="6" dur="4" accid.ges="f" tie="t"/>
                                    <beam>
                                       <note pname="c" oct="6" dur="8"/>
                                       <note pname="a" oct="5" dur="8">
@@ -2373,6 +2397,8 @@
                                    </beam>
                                 </layer>
                             </staff>
+                           <slur staff="1" tstamp="1.5" tstamp2="2.4"/>
+                           <!--placeholder for actual slur-->
                             <staff n="2">
                                 <layer>
                                     <note pname="d" oct="5" dur="4" accid="f"/>
@@ -2415,9 +2441,9 @@
                                          <accid accid="n"/>
                                       </note>
                                    </beam>
-                                    <note pname="e" oct="6" dur="4" accid.ges="f"/>
+                                    <note pname="e" oct="6" dur="4" accid.ges="f" tie="i"/>
                                    <beam>
-                                      <note pname="e" oct="6" dur="8" accid.ges="f"/>
+                                      <note pname="e" oct="6" dur="8" accid.ges="f" tie="t"/>
                                       <note pname="c" oct="6" dur="8"/>
                                    </beam>
                                 </layer>
@@ -2465,7 +2491,7 @@
                                       </note>
                                    </beam>
                                     <note pname="e" oct="6" dur="4" dots="1" accid.ges="f"/>
-                                    <note pname="e" oct="6" dur="8" accid.ges="f"/>
+                                    <note pname="e" oct="6" dur="8" accid.ges="f" tie="i"/>
                                 </layer>
                             </staff>
                             <staff n="2">
@@ -2496,7 +2522,7 @@
                             <staff n="1">
                                 <layer>
                                     <beam>
-                                      <note pname="e" oct="6" dur="8" accid.ges="f"/>
+                                      <note pname="e" oct="6" dur="8" accid.ges="f" tie="t"/>
                                       <note pname="d" oct="6" dur="8" artic="stacc"/>
                                    </beam>
                                    <beam>
@@ -2682,9 +2708,9 @@
                         <measure n="50">
                             <staff n="1">
                                 <layer>
-                                    <note pname="f" oct="5" dur="2"/>
+                                    <note pname="f" oct="5" dur="2" tie="i"/>
                                    <beam>
-                                      <note pname="f" oct="5" dur="8"/>
+                                      <note pname="f" oct="5" dur="8" tie="t"/>
                                       <note pname="f" oct="5" dur="8"/>
                                    </beam>
                                 </layer>
@@ -2752,6 +2778,10 @@
                                    </beam>
                                 </layer>
                             </staff>
+                           <slur staff="1" tstamp="1.25" tstamp2="1.75"/>
+                           <slur staff="1" tstamp="2.25" tstamp2="2.75"/>
+                           <slur staff="1" tstamp="3.25" tstamp2="3.75"/>
+                           <!--placeholder for actual slur-->
                             <staff n="2">
                                 <layer>
                                     <note pname="b" oct="4" dur="2" dots="1"/>
@@ -2777,9 +2807,9 @@
                         <measure n="52">
                             <staff n="1">
                                 <layer>
-                                    <note pname="f" oct="5" dur="2"/>
+                                    <note pname="f" oct="5" dur="2" tie="i"/>
                                    <beam>
-                                      <note pname="f" oct="5" dur="8"/>
+                                      <note pname="f" oct="5" dur="8" tie="t"/>
                                       <note pname="f" oct="5" dur="8"/>
                                    </beam>
                                 </layer>
