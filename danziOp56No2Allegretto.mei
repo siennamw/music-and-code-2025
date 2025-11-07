@@ -2387,6 +2387,7 @@
                             </staff>
                            <slur staff="1" tstamp="1" tstamp2="1.8"/>
                            <!--placeholder for actual slur-->
+                           <dir staff="1" tstamp="1" place="below">dolce</dir>
                             <staff xml:id="sh0ppxz1" n="2">
                                 <layer xml:id="l62a7jl1">
                                     <note xml:id="nigh3jq1" accid.ges="f" dots="1" dur="4" oct="5" pname="b"/>
@@ -4374,6 +4375,7 @@
                                     <note xml:id="nkbnlmo2" dur="8" oct="5" pname="c"/>
                                 </layer>
                             </staff>
+                           <dir staff="1" tstamp="3" place="below">dolce</dir>
                             <staff xml:id="syz9g7v2" n="2">
                                 <layer xml:id="lmwr0b21">
                                     <note xml:id="n9ivuv61" dur="4" oct="5" pname="c"/>
