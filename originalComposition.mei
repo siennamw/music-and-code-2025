@@ -34,7 +34,7 @@
                             </staffDef>
                             <staffDef n="3" clef.shape="G" clef.line="2" lines="5">
                                 <label>Overdriven Guitar</label>
-                                <instrDef midi.instrname="Flute" midi.instrnum="73"/>
+                                <instrDef midi.instrname="Overdriven Guitar" midi.instrnum="29"/>
                             </staffDef>
                             <staffDef n="4" clef.shape="G" clef.line="2" lines="5">
                                 <label>Alto Sax</label>
@@ -43,18 +43,6 @@
                             <staffDef n="5" clef.shape="G" clef.line="2" lines="5">
                                 <label>Clarinet</label>
                                 <instrDef midi.instrname="Clarinet" midi.instrnum="71"/>
-                            </staffDef>
-                            <staffDef n="3" clef.shape="G" clef.line="2" lines="5">
-                                <label>Overdriven Guitar</label>
-                                <instrDef midi.instrname="Flute" midi.instrnum="73"/>
-                            </staffDef>
-                            <staffDef n="3" clef.shape="G" clef.line="2" lines="5">
-                                <label>Overdriven Guitar</label>
-                                <instrDef midi.instrname="Flute" midi.instrnum="73"/>
-                            </staffDef>
-                            <staffDef n="4" clef.shape="G" clef.line="2" lines="5">
-                                <label>Alto Sax</label>
-                                <instrDef midi.instrname="Alto Sax" midi.instrnum="65"/>
                             </staffDef>
                             <!-- Step 2: Define your staff (instrument) here; the value of n should be sequential for each new staff (1, 2, 3...) -->
                             <!-- See https://ccarh.org/courses/253/handout/gminstruments/ for the list of MIDI instrument numbers -->
