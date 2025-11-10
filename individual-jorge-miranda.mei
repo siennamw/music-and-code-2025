@@ -1,9 +1,11 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://music-encoding.org/schema/5.1/mei-CMN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://music-encoding.org/schema/5.1/mei-CMN.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.1">
   <meiHead>
       <fileDesc>
+         <pubStmt/>
           <titleStmt>
               <title>As Time Flies</title>
              <respStmt>
@@ -12,7 +14,14 @@
                  	<persName role="engraver">gian112a</persName>
              </respStmt>
           </titleStmt>
-          <pubStmt/>
+         <sourceDesc>
+         	<source>
+            	<bibil facs="https://musescore.com/user/40738711/scores/27028348"/>
+               	<publisher>
+               	<corpName auth.uri="https://musescore.com/">"Musescore"</corpName>
+               </publisher>
+            </source>
+         </sourceDesc>
        </fileDesc>
    </meiHead>
    <music>
@@ -1302,8 +1311,6 @@
                         </layer>
                      </staff>
                   </measure>
-                  
-                  
                   <measure>
                      <dynam place="below" tstamp="1" staff="1">mp</dynam>
                      <dynam place="below" tstamp="1" staff="2">mp</dynam>
