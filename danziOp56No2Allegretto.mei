@@ -7236,7 +7236,7 @@
                             </staff>
                             <staff xml:id="stz45dt2" n="4">
                                 <layer xml:id="l3963041">
-                                    <note xml:id="n9f3edy1" dots="1" dur="2" oct="4" pname="e"/>
+                                    <rest xml:id="n9f3edy1" dots="1" dur="2" oct="4"/>
                                 </layer>
                             </staff>
                             <staff xml:id="sjuz9uh1" n="5">
@@ -7289,11 +7289,12 @@
                                     <note xml:id="n4mm7b61" dots="1" dur="2" oct="4" pname="e" tie="t"/>
                                 </layer>
                             </staff>
+                           <slur staff="4" startid="ntqaqty1" endid="nnjzc6e"/>
                             <staff xml:id="salvs8b" n="4">
                                 <layer xml:id="ljzjpws2">
                                     <rest xml:id="r1ioouv2" dur="4"/>
                                     <rest xml:id="r7cf5c31" dur="4"/>
-                                    <note xml:id="ntqaqty1" dur="4" oct="5" pname="c"/> <!--TODO add bridge-->
+                                    <note xml:id="ntqaqty1" dur="4" oct="5" pname="c" artic.ges="s"/>
                                 </layer>
                             </staff>
                             <staff xml:id="skkb7ou1" n="5">
@@ -7340,11 +7341,12 @@
                                     <note xml:id="nmgaash1" dots="1" dur="2" oct="4" pname="e" tie="i"/>
                                 </layer>
                             </staff>
+                           <slur staff="4" startid="nym1uf81" endid="nouuj2q1"/>
                             <staff xml:id="sz4z83c1" n="4">
                                 <layer xml:id="lp8nbc9">
                                     <note xml:id="nnjzc6e" dur="4" oct="5" pname="d"/>
                                     <rest xml:id="rwxfqt4" dur="4"/>
-                                    <note xml:id="nym1uf81" dur="4" oct="5" pname="d"/> <!--TODO add bridge-->
+                                    <note xml:id="nym1uf81" dur="4" oct="5" pname="d"/>
                                 </layer>
                             </staff>
                             <staff xml:id="ssa87c51" n="5">
@@ -7397,7 +7399,7 @@
                             </staff>
                             <staff xml:id="si5kquy2" n="4">
                                 <layer xml:id="l99wde3">
-                                    <note xml:id="nouuj2q1" dur="4" oct="5" pname="c"/>
+                                    <note xml:id="nouuj2q1" dur="4" oct="5" pname="c" accid.ges="s"/>
                                     <rest xml:id="re4o6zt1" dur="4"/>
                                     <rest xml:id="r8rqrby2" dur="4"/>
                                 </layer>
@@ -7483,9 +7485,11 @@
                                     <note xml:id="nbn0hwr2" dur="4" oct="4" pname="b"/>
                                 </layer>
                             </staff>
+                           <slur staff="4" startid="nes0e0k2" endid="n5su9cf"/>
+                           <dynam staff="4" place="below" tstamp="1">p</dynam>
                             <staff xml:id="s2ddqrf" n="4">
                                 <layer xml:id="lnnc5q5">
-                                    <note xml:id="nes0e0k2" accid="s" dur="4" oct="5" pname="d"/> <!--TODO add bridge-->
+                                    <note xml:id="nes0e0k2" accid="s" dur="4" oct="5" pname="d"/>
                                     <note xml:id="nuloocb" dur="4" oct="5" pname="e"/>
                                     <note xml:id="n5su9cf" accid="n" dur="4" oct="5" pname="d"/>
                                 </layer>
@@ -7520,9 +7524,10 @@
                                     <rest xml:id="raehd6u2" dur="1"/>
                                 </layer>
                             </staff>
+                           <slur staff="4" startid="ny192l3" endid="nk8hiyp1"/>
                             <staff xml:id="s61a373" n="4">
                                 <layer xml:id="luwqtbj2">
-                                    <note xml:id="ny192l3" dur="4" oct="5" pname="c"/> <!--TODO add bridge-->
+                                    <note xml:id="ny192l3" dur="4" oct="5" pname="c" accid.ges="s"/>
                                     <note xml:id="ny27a2l1" dur="4" oct="5" pname="d"/>
                                     <note xml:id="nk8hiyp1" accid="n" dur="4" oct="5" pname="c"/>
                                 </layer>
@@ -7609,7 +7614,7 @@
                                         <note xml:id="ne5z2y3" accid="f" artic="stacc" dur="8" oct="4" pname="b"/>
                                         <note xml:id="ndq81cq2" artic="stacc" dur="8" oct="4" pname="a"/>
                                     </beam>
-                                    <note xml:id="nb2ldgy2" dur="4" oct="4" pname="b"/>
+                                    <note xml:id="nb2ldgy2" dur="4" oct="4" pname="b" accid.ges="f"/>
                                 </layer>
                             </staff>
                             <staff xml:id="suc3l3v1" n="5">
@@ -7653,7 +7658,7 @@
                                         <note xml:id="nygdmbp1" accid="f" artic="stacc" dur="8" oct="4" pname="b"/>
                                         <note xml:id="n4enyf61" artic="stacc" dur="8" oct="4" pname="a"/>
                                     </beam>
-                                    <note xml:id="nqekr61" dur="4" oct="4" pname="b"/>
+                                    <note xml:id="nqekr61" dur="4" oct="4" pname="b" accid.ges="f"/>
                                 </layer>
                             </staff>
                             <staff xml:id="sauog14" n="5">
@@ -7739,13 +7744,13 @@
                                 <layer xml:id="lzrh9sm1">
                                     <beam xml:id="bplwawh">
                                         <note xml:id="n8t1yht1" accid="n" artic="stacc" dur="8" oct="5" pname="d"/>
-                                        <note xml:id="nbbxopk1" artic="stacc" dur="8" oct="5" pname="c"/>
+                                        <note xml:id="nbbxopk1" artic="stacc" dur="8" oct="5" pname="c" accid.ges="s"/>
                                     </beam>
                                     <beam xml:id="bokcgmz2">
                                         <note xml:id="ntobv411" artic="stacc" dur="8" oct="5" pname="d"/>
-                                        <note xml:id="ns2vc7h1" artic="stacc" dur="8" oct="5" pname="c"/>
+                                        <note xml:id="ns2vc7h1" artic="stacc" dur="8" oct="5" pname="c" accid.ges="s"/>
                                     </beam>
-                                    <note xml:id="n50mshp1" dur="4" oct="5" pname="d"/>
+                                    <note xml:id="n50mshp1" dur="4" oct="5" pname="d" accid.ges="n"/>
                                 </layer>
                             </staff>
                             <staff xml:id="sodevhq2" n="5">
@@ -7829,15 +7834,15 @@
                                 <layer xml:id="lnkgufk2">
                                     <beam xml:id="btydgl01">
                                         <note xml:id="n0nwkh71" artic="stacc" dur="8" oct="5" pname="d"/>
-                                        <note xml:id="ni1oowp2" artic="stacc" dur="8" oct="5" pname="c"/>
+                                        <note xml:id="ni1oowp2" artic="stacc" dur="8" oct="5" pname="c" accid.ges="s"/>
                                     </beam>
                                     <beam xml:id="budxa1f1">
                                         <note xml:id="npulzxj1" artic="stacc" dur="8" oct="5" pname="d"/>
-                                        <note xml:id="nx9jwu71" artic="stacc" dur="8" oct="5" pname="c"/>
+                                        <note xml:id="nx9jwu71" artic="stacc" dur="8" oct="5" pname="c" accid.ges="s"/>
                                     </beam>
                                     <beam xml:id="b036e9i1">
                                         <note xml:id="nw7wah4" artic="stacc" dur="8" oct="5" pname="d"/>
-                                        <note xml:id="ni4wsw2" artic="stacc" dur="8" oct="5" pname="c"/>
+                                        <note xml:id="ni4wsw2" artic="stacc" dur="8" oct="5" pname="c" accid.ges="s"/>
                                     </beam>
                                 </layer>
                             </staff>
@@ -8021,12 +8026,14 @@
                                     <note xml:id="n4d2u1t1" accid="s" dur="4" oct="5" pname="c"/>
                                 </layer>
                             </staff>
+                           <dynam staff="4" tstamp="1" place="below">f</dynam>
+                           <slur staff="4" startid="nq8lqgu1" endid="nowrc8n1"/>
                             <staff xml:id="sj2e27g1" n="4">
                                 <layer xml:id="lm3ecqa">
-                                    <note xml:id="n0vghe61" dur="4" oct="4" pname="f"/> <!--TODO add f annotation-->
+                                    <note xml:id="n0vghe61" dur="4" oct="4" pname="f"/>
                                     <rest xml:id="rc2l9z61" dur="4"/>
                                     <note xml:id="nq8lqgu1" dur="4" oct="5"
-                                          pname="d"/> <!--TODO add curve? annotation-->
+                                          pname="d"/>
                                 </layer>
                             </staff>
                             <staff xml:id="sbtwxma1" n="5">
@@ -8073,11 +8080,12 @@
                                     <note xml:id="nsa5avc" dur="4" oct="5" pname="d"/>
                                 </layer>
                             </staff>
+                           <slur staff="4" startid="nbruduv1" endid="nz08eaq2"/>
                             <staff xml:id="saqtq5m2" n="4">
                                 <layer xml:id="lm35uw4">
                                     <note xml:id="nowrc8n1" dur="4" oct="5" pname="e"/>
                                     <rest xml:id="r8e2s8p1" dur="4"/>
-                                    <note xml:id="nbruduv1" dur="4" oct="5" pname="e"/> <!--TODO add bridge-->
+                                    <note xml:id="nbruduv1" dur="4" oct="5" pname="e"/>
                                 </layer>
                             </staff>
                             <staff xml:id="sszzd1a" n="5">
@@ -8118,11 +8126,12 @@
                                     <note xml:id="nnbuqkt1" accid.ges="s" dur="4" oct="5" pname="c"/>
                                 </layer>
                             </staff>
+                           <slur staff="4" startid="n4yo5z11" endid="nzkhu57"/>
                             <staff xml:id="sjbvn5m2" n="4">
                                 <layer xml:id="l6on4cf1">
                                     <note xml:id="nz08eaq2" dur="4" oct="5" pname="d"/>
                                     <rest xml:id="r0eerns1" dur="4"/>
-                                    <note xml:id="n4yo5z11" dur="4" oct="5" pname="d"/> <!--TODO add bridge-->
+                                    <note xml:id="n4yo5z11" dur="4" oct="5" pname="d"/>
                                 </layer>
                             </staff>
                             <staff xml:id="scwj8dq1" n="5">
@@ -8169,11 +8178,12 @@
                                     <note xml:id="n2dmbrk2" dur="4" oct="5" pname="d"/>
                                 </layer>
                             </staff>
+                           <slur staff="4" startid="nh3q5pu2" endid="nnvvurk1"/>
                             <staff xml:id="sxxw3ps1" n="4">
                                 <layer xml:id="l814om2">
                                     <note xml:id="nzkhu57" dur="4" oct="5" pname="e"/>
                                     <rest xml:id="rlvnipl2" dur="4"/>
-                                    <note xml:id="nh3q5pu2" dur="4" oct="5" pname="e"/> <!--TODO add bridge-->
+                                    <note xml:id="nh3q5pu2" dur="4" oct="5" pname="e"/>
                                 </layer>
                             </staff>
                             <staff xml:id="swn1vfa" n="5">
@@ -8402,10 +8412,12 @@
                                     <note xml:id="niwrwos1" dur="4" oct="5" pname="a"/>
                                 </layer>
                             </staff>
+                           <hairpin staff="4" tstamp="1" tstamp2="3" form="dim" place="below"/>
+                           <slur staff="4" startid="nhv0yd2" endid="ndmx1bx2"/>
                             <staff xml:id="sv2tygt2" n="4">
                                 <layer xml:id="lgc6a8q2">
                                     <note xml:id="nhv0yd2" dur="2" oct="5"
-                                          pname="e"/> <!--TODO add bridge and descendo-->
+                                          pname="e"/>
                                     <note xml:id="ndmx1bx2" dur="4" oct="5" pname="d"/>
                                 </layer>
                             </staff>
@@ -8446,9 +8458,12 @@
                                     <note xml:id="nqvbcor2" dur="4" oct="5" pname="d"/>
                                 </layer>
                             </staff>
+                           <dynam place="below" staff="4" tstamp="1">p</dynam>
                             <staff xml:id="suwireh1" n="4">
                                 <layer xml:id="lpxu5us2">
-                                    <rest xml:id="rl20iqa" dur="4"/>
+                                    <note xml:id="nlhzpsu1" dur="4" oct="4" pname="b"/>
+                                    <note xml:id="nur5j3h" dur="4" oct="4" pname="a"/>
+                                    <note xml:id="n17r8d6" dur="4" oct="5" pname="e"/>
                                 </layer>
                             </staff>
                             <staff xml:id="sfs8y3v1" n="5">
@@ -8494,9 +8509,10 @@
                             </staff>
                             <staff xml:id="s3j2exv2" n="4">
                                 <layer xml:id="lxt2hcy1">
-                                    <note xml:id="nlhzpsu1" dur="4" oct="4" pname="b"/> <!--TODO add p annotation-->
-                                    <note xml:id="nur5j3h" dur="4" oct="4" pname="a"/>
-                                    <note xml:id="n17r8d6" dur="4" oct="5" pname="e"/>
+                                   <note pname="d" oct="5" dur="8"></note>
+                                   <rest dur="8"/>
+                                   <rest dur="4"/>
+                                   <rest dur="4"/>
                                 </layer>
                             </staff>
                             <staff xml:id="shux1h11" n="5">
@@ -8556,10 +8572,10 @@
                                         <note xml:id="necyhza" accid="n" artic="stacc" dur="8" oct="5" pname="c"/>
                                     </beam>
                                     <beam xml:id="bxo29oh1">
-                                        <note xml:id="ne6k6hb1" artic="stacc" dur="8" oct="5" pname="d"/>
-                                        <note xml:id="n67aw9j1" artic="stacc" dur="8" oct="5" pname="c"/>
+                                        <note xml:id="ne6k6hb1" artic="stacc" dur="8" oct="5" pname="d" accid.ges="f"/>
+                                        <note xml:id="n67aw9j1" artic="stacc" dur="8" oct="5" pname="c" accid.ges="n"/>
                                     </beam>
-                                    <note xml:id="ne4jift2" dur="4" oct="5" pname="d"/>
+                                    <note xml:id="ne4jift2" dur="4" oct="5" pname="d" accid.ges="f"/>
                                 </layer>
                             </staff>
                             <staff xml:id="shadren1" n="5">
@@ -8669,10 +8685,10 @@
                                         <note xml:id="n7kju7g1" accid="n" artic="stacc" dur="8" oct="5" pname="c"/>
                                     </beam>
                                     <beam xml:id="b6p81f41">
-                                        <note xml:id="ndt9zcf" artic="stacc" dur="8" oct="5" pname="d"/>
-                                        <note xml:id="ncqfpw31" artic="stacc" dur="8" oct="5" pname="c"/>
+                                        <note xml:id="ndt9zcf" artic="stacc" dur="8" oct="5" pname="d" accid.ges="f"/>
+                                        <note xml:id="ncqfpw31" artic="stacc" dur="8" oct="5" pname="c" accid.ges="n"/>
                                     </beam>
-                                    <note xml:id="nh20u911" dur="4" oct="5" pname="d"/>
+                                    <note xml:id="nh20u911" dur="4" oct="5" pname="d" accid.ges="f"/>
                                 </layer>
                             </staff>
                             <staff xml:id="s97tk85" n="5">
@@ -8706,7 +8722,7 @@
                             <staff xml:id="scbvhge" n="4">
                                 <layer xml:id="loc7nf91">
                                     <note xml:id="nt2fjdd1" accid="n" dur="4" oct="5" pname="d"/>
-                                    <note xml:id="nkx7as21" dur="4" oct="5" pname="d"/>
+                                    <note xml:id="nkx7as21" dur="4" oct="5" pname="d" accid.ges="n"/>
                                     <rest xml:id="r0wx8al1" dur="4"/>
                                 </layer>
                             </staff>
