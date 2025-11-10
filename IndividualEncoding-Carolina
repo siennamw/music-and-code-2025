@@ -23,6 +23,7 @@
                            <label>Voice</label>
                            <instrDef midi.instrname="Choir Aah" midi.instrnum="52"/>
                        </staffDef>
+                       <staffGrp symbol="brace" id="pianoGrp">
                        <staffDef n="2" clef.shape="G" clef.line="2" lines="5" keysig="1f">
                            <label>Piano</label>
                            <instrDef midi.instrname="Acoustic Grand Piano" midi.instrnum="0"/>
@@ -30,10 +31,15 @@
                        <staffDef n="3" clef.shape="F" clef.line="4" lines="5" keysig="1f">
                            <instrDef midi.instrname="Acoustic Grand Piano" midi.instrnum="0"/>
                        </staffDef>
+                       </staffGrp>
                     </staffGrp>
                 </scoreDef>
                <section>
                   <measure n="1">
+                     <tempo staff="1" tstamp="1.0">
+                        <symbol glyph.auth="smufl" glyph.name="noteQuarterUp" glyph.num="U+E1D5"/>
+                                = 80
+                     </tempo>
                      <staff n="1">
                         <layer>
                            <rest dur="1"/>
@@ -82,7 +88,7 @@
                         </layer>
                      </staff>
                   </measure>
-                  <measure n="2">
+                  <measure n="2" right="dbl">
                      <staff n="1">
                         <layer>
                            <rest dur="2"/>
