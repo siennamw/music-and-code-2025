@@ -8378,7 +8378,6 @@
                             <hairpin form="dim" place="below" staff="2" tstamp="1.4" tstamp2="3"/>
                             <hairpin xml:id="ho7e38n2" form="dim" place="below" staff="3" tstamp="1.4" tstamp2="3"/>
                            <slur staff="3" curvedir="above" layer="1" startid="nm6at1l2" endid="niwrwos1"/>
-                            <hairpin xml:id="ho7e38n2" form="dim" place="below" staff="3" tstamp="1" tstamp2="3"/>
                             <slur xml:id="sjmewt91" staff="5" startid="#nd57mvq1" endid="#nbn2clk1" curvedir="above"/>
                             <hairpin xml:id="ho7e28n2" form="dim" place="below" staff="5" tstamp="1" tstamp2="3"/>
                             <staff xml:id="sfnrd1g1" n="1">
