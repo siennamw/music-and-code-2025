@@ -6,9 +6,11 @@
       <fileDesc>
           <titleStmt>
               <title>As Time Flies</title>
-              <composer>
-                  <persName role="composer">Jorge</persName>
-              </composer>
+             <respStmt>
+                  <persName role="arranger">Jorge</persName>
+                 	<persName role="composer">Tyrique</persName>
+                 	<persName role="engraver">gian112a</persName>
+             </respStmt>
           </titleStmt>
           <pubStmt/>
        </fileDesc>
@@ -35,12 +37,14 @@
                 </scoreDef>
                <section>
                   <measure>
+                     <tempo tstamp="1" mm="132" mm.unit="4"/>
                      <dynam place="below" tstamp="1" staff="1">mp</dynam>
                      <dynam place="below" tstamp="1" staff="2">mp</dynam>
                      <dynam place="below" tstamp="1" staff="3">mp</dynam>
                      <slur staff="1" curvedir="above" tstamp="1" tstamp2="4.95"/>
                      <slur staff="2" curvedir="above" tstamp="1" tstamp2="4.95"/>
                      <slur staff="3" curvedir="above" tstamp="1" tstamp2="4.95"/>
+                     <tempo place="above" staff="1" layer="1" tstamp="0">♩ = 132 </tempo>
                      <staff n="1">
                         <layer>
                            <beam>
