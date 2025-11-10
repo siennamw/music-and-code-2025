@@ -1547,7 +1547,7 @@
                             </staff>
                         </measure>
                         <measure xml:id="mlcnkw81" n="26">
-                           <slur staff="4" startid="n08aqiy2" endid="ntvsgrj2"></slur>
+                           <slur staff="4" startid="n08aqiy2" endid="ntvsgrj2"/>
                             <staff xml:id="sq2lrb3" n="1">
                                 <layer xml:id="lrwofhw1">
                                     <beam>
@@ -4761,7 +4761,7 @@
                                 </layer>
                             </staff>
                            <dynam place="below" staff="4" tstamp="1">p</dynam>
-                           <slur staff="4" startid="nyz5mj2" endid="nrt63pr1"></slur>
+                           <slur staff="4" startid="nyz5mj2" endid="nrt63pr1"/>
                             <staff xml:id="sho86y31" n="4">
                                 <layer xml:id="lsszz1r1">
                                     <note xml:id="nyz5mj2" dur="2" oct="4" pname="g"/>
@@ -8512,7 +8512,7 @@
                             </staff>
                             <staff xml:id="s3j2exv2" n="4">
                                 <layer xml:id="lxt2hcy1">
-                                   <note pname="d" oct="5" dur="8"></note>
+                                   <note pname="d" oct="5" dur="8"/>
                                    <rest dur="8"/>
                                    <rest dur="4"/>
                                    <rest dur="4"/>
