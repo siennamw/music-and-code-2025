@@ -1,11 +1,12 @@
 # music-and-code-2025
 
 This repo contains materials for the Music && Code course taught by [Sienna M. Wood](https://github.com/siennamw), block
-3, Colorado College, 2025.
+3, Colorado College, 2025:
 
-This includes JavaScript notes, instructions in Markdown,
-and [several music encodings](#view-and-listen-to-mei-encodings) in [MEI](https://music-encoding.org/) format created
-by the students in the course.
+- [JavaScript notes](js-notes)
+- [instructions in Markdown](instructions)
+- [several music encodings](#view-and-listen-to-mei-encodings) in [MEI](https://music-encoding.org/) format created
+by the students in the course
 
 Students/contributors:
 
