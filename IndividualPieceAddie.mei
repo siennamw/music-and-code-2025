@@ -824,45 +824,60 @@
                         </measure>
                        <measure xml:id="mb2ie121" n="37">
                             <staff xml:id="spvyokx2" n="1">
-                                <layer xml:id="lrq84oy1"> <!--TODO add weird annotation-->
+                                <layer xml:id="lrq84oy1">
+                                   <tuplet num="3" numbase="2">
                                     <note xml:id="n3447xk1" accid="n" dur="4" oct="4" pname="f"/>
                                     <note xml:id="nr1ikoj1" accid="s" dur="4" oct="4" pname="f"/>
                                     <note xml:id="nqjv40a1" dur="4" oct="4" pname="g"/>
+                                   </tuplet>
+                                   <tuplet num="3" numbase="2">
                                     <note xml:id="nazh9xm2" accid="s" dur="4" oct="4" pname="g"/>
                                     <note xml:id="n76b7ms2" dur="4" oct="4" pname="a"/>
                                     <note xml:id="n5ksvaf" accid="f" dur="4" oct="4" pname="b"/>
+                                   </tuplet>
                                 </layer>
                             </staff>
                            <staff xml:id="s4ivq81" n="2">
-                              <layer xml:id="laxq4jm1"> <!--TODO add weird annotation-->
+                              <layer xml:id="laxq4jm1">
+                                 <tuplet num="3" numbase="2">
                                  <note xml:id="naqryt01" accid="s" dur="4" oct="2" pname="a"/>
                                  <note xml:id="n9jqkwm1" dur="4" oct="2" pname="a"/>
-                                 <note xml:id="nrngktq2" dur="4" oct="2" pname="a"/>
+                                 <note xml:id="nrngktq2" dur="4" oct="2" pname="a"/></tuplet>
+                                 <tuplet num="3" numbase="2">
                                  <note xml:id="nwi9rjw1" dur="4" oct="2" pname="a"/>
                                  <note xml:id="niyf7m2" dur="4" oct="2" pname="a"/>
                                  <note xml:id="nv3t3sd1" dur="4" oct="2" pname="a"/>
+                                 </tuplet>
                               </layer>
                            </staff>
                         </measure>
                        <measure xml:id="m6bmjb5" n="38">
                             <staff xml:id="sbmsuvf" n="1">
-                                <layer xml:id="l2qb1ms1"> <!--TODO add weird annotation-->
+                                <layer xml:id="l2qb1ms1">
+                                   <tuplet num="3" numbase="2">
                                     <note xml:id="n69vj13" dur="4" oct="4" pname="b"/>
                                     <note xml:id="n6h9p6w2" accid="n" dur="4" oct="5" pname="c"/>
                                     <note xml:id="n0x9f14" accid="s" dur="4" oct="5" pname="c"/>
+                                   </tuplet>
+                                   <tuplet num="3" numbase="2">
                                     <note xml:id="nkhjg7p1" dur="4" oct="5" pname="d"/>
                                     <note xml:id="nxcvwex2" accid="f" dur="4" oct="5" pname="e"/>
                                     <note xml:id="ncwi9au2" accid="n" dur="4" oct="5" pname="e"/>
+                                   </tuplet>
                                 </layer>
                             </staff>
                            <staff xml:id="setj90e1" n="2">
-                              <layer xml:id="l5hi03z1"> <!--TODO add weird annotation-->
+                              <layer xml:id="l5hi03z1">
+                                 <tuplet num="3" numbase="2">
                                  <note xml:id="n3y321z2" accid="s" dur="4" oct="2" pname="a"/>
                                  <note xml:id="nblozrx1" dur="4" oct="2" pname="a"/>
                                  <note xml:id="neh3xny1" dur="4" oct="2" pname="a"/>
+                                 </tuplet>
+                                 <tuplet num="3" numbase="2">
                                  <note xml:id="n5svwaj1" dur="4" oct="2" pname="a"/>
                                  <note xml:id="nnrlyya" dur="4" oct="2" pname="a"/>
                                  <note xml:id="nd4kk5b" dur="4" oct="2" pname="a"/>
+                                 </tuplet>
                               </layer>
                            </staff>
                         </measure> <!--End of Line 5-->
@@ -893,9 +908,11 @@
                                        <note xml:id="n0ubi0q1" accid="s" dur="2" oct="5" pname="d"/>
                                        <note xml:id="nzp452p1" accid="n" dur="2" oct="5" pname="c"/>
                                    </chord> <!--TODO add weird annotation-->
+                                   <tuplet num="3" numbase="2">
                                        <note xml:id="napdtli2" accid="n" dur="4" oct="5" pname="g"/>
                                        <note xml:id="nmepp7a1" accid="f" dur="4" oct="5" pname="e"/>
                                        <note xml:id="n443fpb" accid.ges="s" dur="4" oct="5" pname="c"/>
+                                   </tuplet>
                                 </layer>
                             </staff>
                            <staff xml:id="sxb80s11" n="2">
@@ -908,12 +925,14 @@
                         </measure>
                        <measure xml:id="mfv0mit2" n="41">
                             <staff xml:id="sec3kce" n="1">
-                                <layer xml:id="l9da48s1"> <!--TODO add weird annotation-->
+                                <layer xml:id="l9da48s1">
                                     <note xml:id="nxj8fog1" dur="4" oct="4" pname="a"/>
                                     <note xml:id="nkz9xg41" accid="s" dur="4" oct="5" pname="g"/>
+                                   <tuplet num="3" numbase="2">
                                     <note xml:id="n6edq831" accid="n" dur="4" oct="5" pname="g"/>
                                     <note xml:id="niaxy3m1" accid="f" dur="4" oct="5" pname="e"/>
                                     <note xml:id="n15oawx2" accid="n" dur="4" oct="5" pname="c"/>
+                                   </tuplet>
                                 </layer>
                             </staff>
                            <staff xml:id="s9aat8e" n="2">
@@ -932,19 +951,23 @@
                                        <note xml:id="nh60n0q1" dur="2" oct="5" pname="d"/>
                                        <note xml:id="ndd03wy1" dur="2" oct="4" pname="b"/>
                                    </chord>
-                                   <rest xml:id="rlmn4fe" dur="4"/> <!--TODO add weird annotation-->
+                                   <tuplet num="3" numbase="2">
+                                   <rest xml:id="rlmn4fe" dur="4"/>
                                    <note xml:id="njpo0c61" dur="4" oct="5" pname="b"/>
                                    <note xml:id="n71dlsf1" accid="s" dur="4" oct="5" pname="g"/>
+                                   </tuplet>
                                 </layer>
                             </staff>
                            <staff xml:id="sk881yk2" n="2">
                               <layer xml:id="lfychb71">
                                  <rest xml:id="rcl1wab1" dur="4"/>
-                                 <beam xml:id="bddjmx81"><!--TODO add weird annotation-->
+                                 <tuplet num="3" numbase="2">
+                                 <beam xml:id="bddjmx81">
                                    <note xml:id="n1sunt6" dur="4" oct="2" pname="d"/>
                                    <note xml:id="nzthkj11" dur="4" oct="2" pname="d"/>
                                    <note xml:id="njd7og31" dur="4" oct="2" pname="d"/>
                                  </beam>
+                                 </tuplet>
                                  <note xml:id="nzn8ax7" dur="2" oct="2" pname="d"/>
                               </layer>
                            </staff>
@@ -957,19 +980,23 @@
                                        <note xml:id="njji8231" dur="2" oct="5" pname="d"/>
                                        <note xml:id="nkv9xkc1" dur="2" oct="4" pname="b"/>
                                    </chord>
-                                   <rest xml:id="r2cie6d" dur="4"/> <!--TODO add weird annotation-->
+                                   <tuplet num="3" numbase="2">
+                                   <rest xml:id="r2cie6d" dur="4"/>
                                    <note xml:id="nfmixa81" dur="4" oct="5" pname="b"/>
                                    <note xml:id="nhs9vk5" accid="s" dur="4" oct="5" pname="g"/>
+                                   </tuplet>
                                 </layer>
                             </staff>
                            <staff xml:id="s1pwzkx1" n="2">
                               <layer xml:id="l7z5uth">
                                  <rest xml:id="rhzo82q2" dur="4"/>
-                                 <beam xml:id="bp3o5f5"><!--TODO add weird annotation-->
+                                 <tuplet num="3" numbase="2">
+                                 <beam xml:id="bp3o5f5">
                                    <note xml:id="n3bf69e" dur="4" oct="2" pname="d"/>
                                    <note xml:id="njg9y6h1" dur="4" oct="2" pname="d"/>
                                    <note xml:id="nnalv57" dur="4" oct="2" pname="d"/>
                                  </beam>
+                                 </tuplet>
                                  <note xml:id="n2y6f9k2" dur="2" oct="2" pname="d"/>
                               </layer>
                            </staff>
@@ -1078,12 +1105,16 @@
                             </staff>
                            <staff xml:id="sfnz8ut1" n="2">
                               <layer xml:id="l2pk8yx2">
+                                 <tuplet num="3" numbase="2">
                                 <note xml:id="n6x2xns1" accid="n" dur="4" oct="2" pname="f"/>
                                        <note xml:id="n4di7o91" dur="4" oct="2" pname="g"/>
                                       <note xml:id="npto8fq1" dur="4" oct="2" pname="a"/>
+                                 </tuplet>
+                                 <tuplet num="3" numbase="2">
                                  <note xml:id="nm4dv0x1" dur="4" oct="2" pname="b"/>
                                        <note xml:id="nnxkfh21" accid.ges="s" dur="4" oct="3" pname="c"/>
                                       <note xml:id="n35gbgj2" dur="4" oct="3" pname="d"/>
+                                 </tuplet>
                               </layer>
                            </staff>
                         </measure>
