@@ -5330,6 +5330,7 @@
                                    </beam>
                                 </layer>
                             </staff>
+                           <dynam staff="1" layer="1" tstamp="2.5">f</dynam>
                             <staff xml:id="s0njing" n="2">
                                 <layer xml:id="lzh287k2">
                                     <note xml:id="nhoh9jv1" dots="1" dur="2" oct="5" pname="g" tie="t"/>
@@ -5605,6 +5606,7 @@
                                    </beam>
                                 </layer>
                             </staff>
+                           <dynam staff="1" layer="1" tstamp="1.5">ff</dynam>
                             <staff xml:id="slyaeno2" n="2">
                                 <layer xml:id="l5ck7xx2">
                                     <beam xml:id="bgm3l3z1">
@@ -6023,6 +6025,7 @@
                                    </beam>
                                 </layer>
                             </staff>
+                           <dynam staff="1" layer="1" tstamp="1.5">p</dynam>
                             <staff xml:id="s8uhqa8" n="2">
                                 <layer xml:id="ldiwrru2">
                                     <beam xml:id="blpac3d">
@@ -6610,6 +6613,7 @@
                                    </beam>
                                 </layer>
                             </staff>
+                           <dynam staff="1" layer="1" tstamp="1">f</dynam>
                             <staff xml:id="sgu3m0v1" n="2">
                                 <layer xml:id="lyp7uek2">
                                     <note xml:id="n7ztefl2" accid.ges="s" dur="4" oct="4" pname="f"/>
@@ -7548,6 +7552,8 @@
                                     <note xml:id="nue46o71" dur="4" oct="6" pname="d" tie="i"/>
                                 </layer>
                             </staff>
+                           <dynam staff="1" layer="1" tstamp="1">p</dynam>
+                           <dir staff="1" tstamp="1.5" place="below">dolce</dir>
                            <slur staff="1" startid="ne1e9j61" endid="nyuzloh"/>
                             <staff xml:id="s2lrk0m2" n="2">
                                 <layer xml:id="ln4994q1">
@@ -8176,6 +8182,7 @@
                                    </beam>
                                 </layer>
                             </staff>
+                           <dynam staff="1" layer="1" tstamp="1">f</dynam>
                             <staff xml:id="s74z3471" n="2">
                                 <layer xml:id="lw6h7vx1">
                                     <note xml:id="ndjpoea1" dur="4" oct="4" pname="g"/>
@@ -8661,6 +8668,7 @@
                                    </beam>
                                 </layer>
                             </staff>
+                           <dynam staff="1" layer="1" tstamp="1.5">f</dynam>
                             <staff xml:id="su69obc1" n="2">
                                 <layer xml:id="l6yzijg">
                                     <note xml:id="n70nz3g1" dur="8" oct="5" pname="g"/>
