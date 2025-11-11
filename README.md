@@ -3,10 +3,11 @@
 This repo contains materials for the Music && Code course taught by [Sienna M. Wood](https://github.com/siennamw), block
 3, Colorado College, 2025:
 
-- [JavaScript notes](js-notes)
-- [instructions in Markdown](instructions)
 - [several music encodings](#view-and-listen-to-mei-encodings) in [MEI](https://music-encoding.org/) format created
 by the students in the course
+- [videos from final presentations](presentation-materials)
+- [JavaScript notes](js-notes)
+- [instructions in Markdown](instructions)
 
 Students/contributors:
 
@@ -42,6 +43,6 @@ being encoded.
 
 - [Addie: "Test Drive"]()
 - [Carolina: "Linger"]()
-- [Harris: "Linger"]()
+- [Harris: ""]()
 - [Jorge: "As Time Flies"]()
 - [Natalie: ""]()
