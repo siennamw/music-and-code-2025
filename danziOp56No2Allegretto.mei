@@ -6740,7 +6740,7 @@
                                 <layer xml:id="li5mwsj2">
                                     <note xml:id="n5b2r251" dur="4" oct="5" pname="e"/>
                                     <rest xml:id="rtjql6v1" dur="4"/>
-                                    <note xml:id="ndhb12a" dur="4" oct="5" pname="c"/>
+                                    <note xml:id="ndhb12a" accid.ges="s" dur="4" oct="5" pname="c"/>
                                 </layer>
                             </staff>
                             <staff xml:id="szsu3sl1" n="5">
@@ -7288,7 +7288,7 @@
                             </staff>
                             <staff xml:id="sccminn1" n="4">
                                 <layer xml:id="lltm3fp2">
-                                    <note xml:id="n7g0clz1" dur="4" oct="5" pname="c"/>
+                                    <note xml:id="n7g0clz1" accid.ges="s" dur="4" oct="5" pname="c"/>
                                     <rest xml:id="r05fz431" dur="4"/>
                                     <rest xml:id="ro76myw2" dur="4"/>
                                 </layer>
@@ -7401,7 +7401,7 @@
                                 <layer xml:id="ljzjpws2">
                                     <rest xml:id="r1ioouv2" dur="4"/>
                                     <rest xml:id="r7cf5c31" dur="4"/>
-                                    <note xml:id="ntqaqty1" dur="4" oct="5" pname="c"/>
+                                    <note xml:id="ntqaqty1" accid.ges="s" dur="4" oct="5" pname="c"/>
                                 </layer>
                             </staff>
                             <staff xml:id="skkb7ou1" n="5">
