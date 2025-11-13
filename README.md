@@ -29,7 +29,7 @@ tool that provides a code viewer/editor, music notation rendering, and MIDI play
 
 This piece was encoded collaboratively by all class members. Each student was responsible for a single voice throughout.
 
-[Franz Danzi, Woodwind Quintet op. 56, no. 2 in G minor: I. Allegretto]()
+[Franz Danzi, Woodwind Quintet op. 56, no. 2 in G minor: I. Allegretto](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/siennamw/music-and-code-2025/main/danzi-op56-no2-allegretto.mei&scale=40&breaks=none&page=1&speed=false&notationOrientation=bottom&notationProportion=0.68)
 
 ### Original Composition
 
@@ -37,15 +37,15 @@ This piece was composed and encoded collaboratively by all class members. The fi
 single voice, the second contributor added a new voice with 24 measures of content, and so on. Once all contributions
 had been made, the group collectively decided on shared characteristics of the piece such as dynamics.
 
-[Original Composition]()
+[Original Composition](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/siennamw/music-and-code-2025/main/original-composition.mei&scale=40&breaks=none&page=1&speed=false&notationOrientation=bottom&notationProportion=0.68)
 
 ### Individual Encodings
 
 These encodings were created by each student working independently. Each includes its own metadata about the source
 being encoded.
 
-- [Addie: "Test Drive"]()
-- [Carolina: "Linger"]()
-- [Harris: ""]()
-- [Jorge: "As Time Flies"]()
-- [Natalie: ""]()
+- [Addie: "Test Drive"](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/siennamw/music-and-code-2025/main/addie-individual-encoding.mei&scale=40&breaks=none&page=1&speed=false&notationOrientation=bottom&notationProportion=0.68)
+- [Carolina: "Linger"](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/siennamw/music-and-code-2025/main/carolina-individual-encoding.mei&scale=40&breaks=none&page=1&speed=false&notationOrientation=bottom&notationProportion=0.68)
+- [Harris: "All Caps"](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/siennamw/music-and-code-2025/main/harris-individual-encoding.mei&scale=40&breaks=none&page=1&speed=false&notationOrientation=bottom&notationProportion=0.68)
+- [Jorge: "As Time Flies"](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/siennamw/music-and-code-2025/main/jorge-individual-encoding.mei&scale=40&breaks=none&page=1&speed=false&notationOrientation=bottom&notationProportion=0.68)
+- [Natalie: "On Melancholy Hill"](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/siennamw/music-and-code-2025/main/natalie-individual-encoding.mei&scale=40&breaks=none&page=1&speed=false&notationOrientation=bottom&notationProportion=0.68)
