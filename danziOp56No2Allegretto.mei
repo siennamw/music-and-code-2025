@@ -8536,7 +8536,7 @@
                                     <note xml:id="ndztq1b1" accid.ges="s" dur="2" oct="5" pname="f"/>
                                     <beam xml:id="bx3k9k4">
                                         <note xml:id="nms762u2" accid.ges="s" dur="8" oct="5" pname="f"/>
-                                        <note xml:id="ne7sdvu2" dur="8" oct="5" pname="g"/>
+                                        <note xml:id="ne7sdvu2" accid.ges="s" dur="8" oct="5" pname="g"/>
                                     </beam>
                                 </layer>
                             </staff>
